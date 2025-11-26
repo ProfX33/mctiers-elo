@@ -3068,7 +3068,7 @@ sly
 @Hxtu - hxtu - Failed LT2
 
 HT3 Fights: 
-2-4dagga
+2-4 dagga
 
 sly
  — 
@@ -3224,7 +3224,7 @@ ryry
 @palla   - M0nkeyBuccaneer - Failed HT2
 
 HT2 Fights
-1-4dagga
+1-4 dagga
 
 LT2 Fights
 4-2 ryrv
@@ -3338,7 +3338,7 @@ LT2 Fights:
 4-1 owocuddlemittens
 HT2 Fights:
 
-        0-4dagga
+        0-4 dagga
 
 sly
  — 
@@ -3969,7 +3969,7 @@ sly
 @Deleted User  - kesulol - Failed HT2
 HT2 Fights:
 
-        3-4dagga
+        3-4 dagga
 
 3-4 KingD3fault
 
@@ -5599,7 +5599,7 @@ Vuatex
 @𝕶𝖎𝖓𝖌𝕯3𝖋𝖆𝖚𝖑𝖙 - KingD3fault - Failed  HT2
 HT2 Fights
 
-    1-4dagga
+    1-4 dagga
 
  
 sly
@@ -5658,7 +5658,7 @@ LT2 Fights
 
 HT2 Fights
 
-    3-4dagga
+    3-4 dagga
 
 ItzTyrant
  — 
@@ -5920,7 +5920,7 @@ Marlow
 
 HT2 Fights:
 
-    4-3dagga
+    4-3 dagga
     4-0 ItzRealMeTheBest
 
 
@@ -11762,7 +11762,7 @@ Sheriff Gears
 HT2 Fights:
 
     4-2 Wraxps
-    1-4dagga
+    1-4 dagga
 
 LT2 Fights:
 
@@ -13804,7 +13804,7 @@ Sheriff Gears
 @QuispeYupanqui - Lopezqui - Failed High Tier 2
 HT2 Fights:
 
-    3-4dagga
+    3-4 dagga
     0-4 RikiTokanashi
 
 LT2 Fights:
@@ -13940,7 +13940,7 @@ Sheriff Gears
 HT2 Fights:
 
     4-3 Wraxps
-    3-4dagga
+    3-4 dagga
 
 GlacerMc
  — 
@@ -13949,7 +13949,7 @@ GlacerMc
 HT2 Fights:
 
     4-2 slyluvu
-    2-4dagga
+    2-4 dagga
 
 LT2 Fights:
 
@@ -14334,7 +14334,7 @@ Konic
 24/06/2024, 08:37
 @FotAuncher496- Crey6712 - Demoted to High Tier 2
 
-    2-4dagga
+    2-4 dagga
 
 Sheriff Gears
  — 
@@ -14790,7 +14790,7 @@ Sheriff Gears
 @Wraxps - Wraxps - Failed Low Tier 1
 HT2 Fights:
 
-    2-4dagga
+    2-4 dagga
 
 LT2 Fights:
 
@@ -15166,7 +15166,7 @@ Sheriff Gears
 @sly - slyluvu - Failed Low Tier 1
 HT2 Fights:
 
-    1-4dagga
+    1-4 dagga
 
 Sheriff Gears
  — 

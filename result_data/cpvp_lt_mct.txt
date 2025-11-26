@@ -144,7 +144,7 @@ Evaluation Passed
 tk | Avad__
  — 
 30/11/2022, 03:31
-@Roberto Figuel  - Failed ht3 test
+@Roberto - Figuel - Failed ht3 test
 passed eval
 0-3 Ozerkz
 vokeairs
@@ -164,7 +164,7 @@ Evaluation Passed
 Avad__
  — 
 01/12/2022, 23:25
-@ky29  unonix - Failed HT3
+@ky29 - unonix - Failed HT3
 Passed Eval
 0-3 oZerkz
 
@@ -218,7 +218,7 @@ Evaluation Passed
 ManKetchup
  — 
 13/12/2022, 03:09
-@brude - failed ht3 test
+@brude -unknown - failed ht3 test
 Passed eval
 0-3 akatragic
 
@@ -341,7 +341,7 @@ Passed Evaluation
 Swishy
  — 
 02/03/2023, 13:48
-@Anwar Ibrahim  - Failed HT3
+@Anwar - Ibrahim  - Failed HT3
 
 1-3 Iturew
 enzo
@@ -395,7 +395,7 @@ Failed Eval
 vokeairs
  — 
 31/03/2023, 18:18
-@𝙮𝙦𝙬𝙨 Failed HT3 
+@𝙮𝙦𝙬𝙨 - unknown - Failed HT3 
 0-3 vqke
 vokeairs
  — 
@@ -405,14 +405,16 @@ vokeairs
 vokeairs
  — 
 02/04/2023, 18:08
-@oCpt - Failed HT3
+@oCpt - unknown - Failed HT3
 0-3 vqke
+
 okwer
  — 
 02/04/2023, 22:59
 @Nebula - iiNebxla - Failed HT3
 Passed Evaluation
 2-3 theyluvbriskk
+
 vuki
  — 
 04/04/2023, 19:41
@@ -6741,11 +6743,6 @@ Passed Evaluation*
 
     1-3 CLOV3R0
 
- 
-X | NAW
- — 
-08/03/2024, 21:48
-Passed eval can test for ht3 
 ItzBlake
  — 
 08/03/2024, 21:55
@@ -34772,23 +34769,6 @@ HT3 Fight:
 
     0-3 qfixy
 
-MCTIERS
-APP
- — 
-28/09/2025, 22:33
-@SpookyReality
-`#GETTING HT3 TODAY`'s Test Results 🏆
-Tester:
-@applepvp.com /post
-Region:
-NA
-Username:
-RustyHT3
-Previous Rank:
-Low Tier 3
-Rank Earned:
-Low Tier 3
-Image
 8uro - Only pvphub/mcprac
  — 
 30/09/2025, 20:19
