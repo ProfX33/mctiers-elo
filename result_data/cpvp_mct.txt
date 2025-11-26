@@ -20196,7 +20196,7 @@ NotFZero
 
 HT3 Fights:
 
-    4-3 Paul0__0
+    4-3 Paul0__O
     2-4 Luqxelwuxy
 
 Andrex @ for help
@@ -21039,8 +21039,8 @@ ItzTyrant
 
 HT3 Fights:
 
-    4-0 PaulO__0
-    4-3 GlacerMc 
+    4-0 Paul0__O
+    4-3 GlacerMc
     0-4 mushalol
 
  
@@ -23768,7 +23768,7 @@ LT2 Fights:
 HT3 Fights:
 
     4-0 valkonic
-    4-1 Paul0__0
+    4-1 Paul0__O
 
 NotFZero
  — 
@@ -24943,7 +24943,7 @@ LT2 Fights:
 
 HT3 Fights:
 
-    4-2 Paul0__0
+    4-2 Paul0__O
     4-1 zMolotok
 
 NotFZero
@@ -38170,7 +38170,7 @@ Turrnn
 
 HT3 Fights:
 
-    4-1 ExoticJermome
+    4-1 ExoticJerome
     2-4 otbkibble
 
 jackjfisch
@@ -43284,7 +43284,7 @@ prioritys
 
 HT3 Fights:
 
-    4-3 Paul0__0
+    4-3 Paul0__O
     3-4 joselitodemonio
 
 Eri
@@ -45915,7 +45915,7 @@ LT2 Fights:
 
 HT3 Fights:
 
-    4-2 Paul0_O
+    4-2 Paul0__O
     4-1 zGlow1ng
 
  
@@ -46652,7 +46652,7 @@ prioritys
 HT3 Fights:
 
     0-4 zGlow1ng
-    4-2 Paul0__0
+    4-2 Paul0__O
 
 Ravenclaw | NAW
  — 
@@ -49435,7 +49435,7 @@ LT2 Fights:
 HT3 Fights:
 
     4-3 swvm
-    4-3 Paul0__0
+    4-3 Paul0__O
 
 SleepyRykuowu | NAW
  — 
@@ -54619,7 +54619,7 @@ LT2 Fights:
 HT3 Fights:
 
     4-3 zzbt
-    4-0 PaulO__0
+    4-0 Paul0__O
 
 applepvp.com / @ for post
  — 
@@ -55498,7 +55498,7 @@ Eri | @ for help
 
 HT3 Fights:
 
-    4-0 ScawyVariant
+    4-0 Vqrixnt
     2-4 Yuwaii
 
 alekax | pvphub.me only
@@ -55888,7 +55888,7 @@ LT2 Fights:
 
 HT3 Fights:
 
-    4-3 Paul0__0
+    4-3 Paul0__O
     4-2 zzbtt
 
 steve_pop | @ for help
@@ -56186,7 +56186,7 @@ Lx
 
 HT3 Fights:
 
-    3-4 Lx_____
+    3-4 ExoticJerome
 
 Pflaw
  — 
@@ -56205,7 +56205,7 @@ Lx
 HT2 Fights:
 
     4-0 kqle_
-    4-1  GodlyGobber
+    4-1 GodlyGobber
 
 
 LT2 Fights:
@@ -56220,5 +56220,5 @@ WE WILL NOT LOSE TO SWORD
 
 LT2 Fights:
 
-    4-0 vauntathiefgwalk
+    4-0 IHitCrystal
     3-4 RealFo6y
