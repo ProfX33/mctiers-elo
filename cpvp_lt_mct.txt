@@ -16939,7 +16939,7 @@ HT3 Fights:
 BoilingJeromeASF
  — 
 30/07/2024, 03:56
-<@l3po>  - l3poo - Failed High Tier 3
+@l3po  - l3poo - Failed High Tier 3
 Passed Evaluation
 HT3 Fight:
 
@@ -17119,7 +17119,7 @@ HT3 Fight:
 BoilingJeromeASF
  — 
 31/07/2024, 06:32
-<@https://twitch.tv/blaizerboy>  - TTVblaizerboy - Failed High Tier 3
+@ttv  - TTVblaizerboy - Failed High Tier 3
 Passed Evaluation
 HT3 Fight:
 
@@ -33791,11 +33791,10 @@ cant test
 Mocha
  — 
 12/08/2025, 17:32
-@𝓣𝓻𝓲𝓵𝓵𝔂愛 - xman1075 - Failed High Tier 3
+@Trilly - xman1075 - Failed High Tier 3
 Passed Evaluation
 
 HT3 Fights:
-
     0-3 Impact_INC
 
 Chalkra
@@ -35247,7 +35246,7 @@ HT3 Fights:
 zoizox
  — 
 14/10/2025, 19:53
-@need ht3 acc? dm me    - iamfemboy69  Failed  High Tier 3
+@need ht3 acc - iamfemboy69 - Failed  High Tier 3
 
 Passed Evaluation
 
@@ -35458,11 +35457,7 @@ HT3 Fights:
 
     2-3 Paul0__O
 
-
-
-
-
-    x
+x
  — 
 19/10/2025, 01:00
 @ƊƛƦȤ - 567kdarz - Failed High Tier 3
@@ -35485,7 +35480,7 @@ HT3 Fight:
 #Kindness Not 4 Test
  — 
 19/10/2025, 14:43
-@Helo_gysgodi_di    Pyromastermind -  - Failed  High Tier 3
+@Helo_gysgodi_di - Pyromastermind - Failed  High Tier 3
 Passed Evaluation
 
 HT3 Fights:
@@ -36039,7 +36034,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    0-1 MoezXF (unfinished)
+    0-1 MoezOnCw (unfinished)
     0-3 skywhywalker21 (0-0 prior to DQ)
 
 268k
