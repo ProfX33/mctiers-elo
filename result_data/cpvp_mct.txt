@@ -266,7 +266,7 @@ HT3 Fights
 4-0 acslayer00
 4-2 BidenPvP
 LT2 Fights
-3-3 Crey
+3-3 Crey6712
 2-4 Camcal
 4-0 Gnomeds
 
@@ -31450,7 +31450,7 @@ HT3 Fights:
 ItzBlake
  — 
 21/01/2025, 14:09
-@Gobber - SnobbyGobber - Promoted to High Tier 3
+@Gobber - GodlyGobber - Promoted to High Tier 3
 
 
 HT3 Fights:
@@ -32124,7 +32124,7 @@ HT3 Fights
 NotFZero
  — 
 30/01/2025, 01:25
-@Gobber - SnobbyGobber - Failed Low Tier 2
+@Gobber - GodlyGobber - Failed Low Tier 2
 
 HT3 Fights:
 
@@ -32137,7 +32137,7 @@ NotFZero
 
 HT3 Fights: 
 
-    4-2 SnobbyGobber
+    4-2 GodlyGobber
     1-4 unucuddlemittens
 
 NotFZero
@@ -35641,7 +35641,7 @@ LT2 Fights:
 Sapphire
  — 
 04/03/2025, 01:42
-@Gobber - Gobbr - Failed Low Tier 2
+@Gobber - GodlyGobber - Failed Low Tier 2
 
 HT3 Fights:
 
@@ -36468,7 +36468,7 @@ NotFZero
 
 HT3 Fights:
 
-    0-4 Gobbr
+    0-4 GodlyGobber
 
 Andrex @ for help
  — 
@@ -36653,7 +36653,7 @@ Turrnn
 
 HT3 Fights:
 
-    3-4 Gobbr
+    3-4 GodlyGobber
 
 Sapphire
  — 
@@ -36760,7 +36760,7 @@ LT2 Fights:
 HT3 Fights:
 
     4-1 cloudmlol
-    4-2 Gobbr
+    4-2 GodlyGobber
 
 플레임텍스
  — 
@@ -36780,7 +36780,7 @@ Turrnn
 HT3 Fights:
 
     4-0 ExoticJerome
-    3-4 Gobbr
+    3-4 GodlyGobber
 
 s
  — 
@@ -37344,7 +37344,7 @@ Turrnn
 HT3 Fights:
 
     4-3 Dwggo
-    1-4 Gobbr
+    1-4 GodlyGobber
 
  
 NotFZero
@@ -37388,7 +37388,7 @@ Turrnn
 
 HT3 Fights:
 
-    2-4 Gobbr
+    2-4 GodlyGobber
 
 SUPERBOWSER ADD 2 T2 HIGH/LOW MS
  — 
@@ -37677,7 +37677,7 @@ NotFZero
 
 HT3 Fights:
 
-    2-4 Gobbr
+    2-4 GodlyGobber
 
 Lx | @ in tickets
  — 
@@ -38420,7 +38420,7 @@ LT2 Fights:
 Turrnn
  — 
 04/04/2025, 00:34
-@Gobber - Gobbr - Promoted to Low Tier 2
+@Gobber - GodlyGobber - Promoted to Low Tier 2
 
 LT2 Fights:
 
@@ -38473,7 +38473,7 @@ LT2 Fights:
 
 HT3 Fights:
 
-    4-1 Gobbr 
+    4-1 GodlyGobber 
     4-0 ryrv
 
 Warp
@@ -38554,7 +38554,7 @@ HT3 Fights:
 Warp
  — 
 05/04/2025, 05:33
-@Gobber - Gobbr - Failed High Tier 2
+@Gobber - GodlyGobber - Failed High Tier 2
 
 HT2 Fights:
 
@@ -38572,7 +38572,7 @@ Warp
 @Dandy ADD TO ALL TIcKETS ACTIVE - DandyStingray64 - Demoted To High Tier 3
 
 1-4 Kqle_
-1-4 Gobbr
+1-4 GodlyGobber
 
 Warp
  — 
@@ -38591,7 +38591,7 @@ Warp
 LT2 Fights:
 
     4-1 Keywalks
-    2-4 Gobbr
+    2-4 GodlyGobber
 
 
 HT3 Fights:
@@ -38971,7 +38971,7 @@ Warp
 
 LT2 Fights:
 
-    4-1 Gobbr
+    4-1 GodlyGobber
     2-4 KeyWalks
 
 
@@ -39013,7 +39013,7 @@ ovo riki
 LT2 Fights:
 
     0-4 RikiTokanashi
-    3-4 Gobbr
+    3-4 GodlyGobber
 
 
 HT3 Fights:
@@ -39033,7 +39033,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-3 Gobbr
+    4-3 GodlyGobber
     4-1 keywalks
 
 ovo riki
@@ -39353,7 +39353,7 @@ HT2 Fights:
 LT2 Fights:
 
     4-3 AndrexW
-    4-0 Gobbr
+    4-0 GodlyGobber
 
 ovo riki
  — 
@@ -39586,7 +39586,7 @@ Slytherin | NAE
 
 LT2 Fights:
 
-    2-4 Gobbr
+    2-4 GodlyGobber
 
 
 HT3 Fights:
@@ -39601,7 +39601,7 @@ Sheriff Gears
 LT2 Fights:
 
     4-1 Kesie
-    1-4 Gobbr
+    1-4 GodlyGobber
 
 NotFZero
  — 
@@ -39620,7 +39620,7 @@ Sapphire
 LT2 Fights:
 
     4-3 KeyWalks
-    4-2 Gobbr
+    4-2 GodlyGobber
 
 
 HT3 Fights:
@@ -39935,7 +39935,7 @@ Ravenclaw | NAW
 
 LT2 Fights:
 
-    2-4 Gobbr
+    2-4 GodlyGobber
 
 
 HT3 Fights:
@@ -40031,7 +40031,7 @@ HT2 Fights:
 LT2 Fights:
 
     4-2 KeyWalks
-    4-0 Gobbr
+    4-0 GodlyGobber
 
 guxtinhoxd
  — 
@@ -40057,7 +40057,7 @@ HT2 Fights:
 LT2 Fights:
 
     4-3 Keywalks
-    4-2 Gobbr
+    4-2 GodlyGobber
 
 Warp
  — 
@@ -40193,7 +40193,7 @@ prioritys
 
 LT2 Fights:
 
-    4-3 Gobbr
+    4-3 GodlyGobber
     1-4 KeyWalks
 
 
@@ -40775,7 +40775,7 @@ HT2 Fights:
 LT2 Fights:
 
     4-1 bapskii
-    4-2 Gobbr
+    4-2 GodlyGobber
 
 prioritys
  — 
@@ -41217,7 +41217,7 @@ Warp
 
 LT2 Fights:
 
-    3-4 Gobbr
+    3-4 GodlyGobber
 
 steve_pop | @ for help
  — 
@@ -41354,7 +41354,7 @@ HT3 Fights:
 Turrnn
  — 
 05/05/2025, 22:52
-@Gobber - Gobbr - Failed High Tier 2
+@Gobber - GodlyGobber - Failed High Tier 2
 
 LT2 Fights:
 
@@ -41465,7 +41465,7 @@ ryry
 
 LT2 Fights:
 
-    4-3 Gobbr
+    4-3 GodlyGobber
     4-1 Kesie
 
 
@@ -41565,7 +41565,7 @@ HT2 Fights
 LT2 Fights:
 
     4-1 kqle_
-    4-3 Gobbr
+    4-3 GodlyGobber
 
 Ravenclaw | NAW
  — 
@@ -41623,7 +41623,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-3 Gobbr
+    4-3 GodlyGobber
     4-1 Kesie
 
 Noamm_
@@ -41727,7 +41727,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-2 Gobbr
+    4-2 GodlyGobber
     4-1 rxtu2
 
 mikii
@@ -41985,7 +41985,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-3 Gobbr
+    4-3 GodlyGobber
     4-3 Kesie
 
 Warp
@@ -42210,7 +42210,7 @@ prioritys
 
 LT2 Fights:
 
-    2-4 Gobbr
+    2-4 GodlyGobber
 
 
 HT3 Fights:
@@ -42288,7 +42288,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-2 Gobbr
+    4-2 GodlyGobber
     4-2 zFay
 
 NAE | R3dw4sh
@@ -42832,7 +42832,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-2 Gobbr
+    4-2 GodlyGobber
     4-2 zFay
 
 Ravenclaw | NAW
@@ -43053,7 +43053,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-3 Gobbr
+    4-3 GodlyGobber
     4-1 Kesie
 
 Turrnn
@@ -44165,7 +44165,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-2 Gobbr
+    4-2 GodlyGobber
     4-1 rxtu2
 
  
@@ -44515,7 +44515,7 @@ HT2 Fights:
 
 LT2 Fights:
 
-    4-3 Gobbr
+    4-3 GodlyGobber
     4-1 Kesie
 
 prioritys
@@ -55254,7 +55254,7 @@ HT3 Fight:
 applepvp.com / @ for post
  — 
 15/11/2025, 15:44
-@2-4 1-4 QUIT  - AaNnDdYy_ - Failed Low Tier 2
+@QUIT  - AaNnDdYy_ - Failed Low Tier 2
 
 HT3 fights:
 
@@ -55278,7 +55278,7 @@ HT3 Fights:
     4-3 CwVibez
     4-1 ErLama
 
-2-4 1-4 QUIT
+QUIT
  — 
 15/11/2025, 17:49
 @sid  - sid9891 - Promoted to High Tier 3
@@ -56222,3 +56222,92 @@ LT2 Fights:
 
     4-0 IHitCrystal
     3-4 RealFo6y
+
+9azjm
+ — 
+26/11/2025, 14:30
+@Entire - EntireTweaks - Promoted To High Tier 3 
+Passed Evaluation 
+
+HT3 Fight: 
+3-0 Dachshund__
+ 
+geqi do  not ping
+ — 
+26/11/2025, 14:55
+@yndan - Naginin - Promoted to High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+3-1 dachshundd_
+
+iceafix
+ — 
+26/11/2025, 14:57
+@Offline till 1 January (Exams) - PrinceXD_ - Promoted to High Tier 3
+
+HT3 Fight:
+3-0 dachshundd_
+
+Outlive9660 | @ for Anything!!
+ — 
+26/11/2025, 15:41
+@the_rick... - shubmudgal - Failed Low Tier 2
+
+HT3 Fights:
+4-3 dachshundd_
+3-4 BeingFawliet
+
+Pflaw
+ — 
+26/11/2025, 18:54
+@Kesie - Kesie - Promoted to Low Tier 2
+LT2 Fights:
+4-2 RealFo6y
+4-2 slyluvu
+HT3 Fights:
+4-1 swvm
+4-2 Reviala
+
+9azjm
+ — 
+26/11/2025, 19:30
+@Exotic - ExoticLair - Promoted to High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+3-2 daizyy_
+Voidless〡EU
+ — 
+26/11/2025, 19:30
+@milkify  - FreeEllamaa - Promoted To High Tier 3 
+Passed Evaluation 
+
+HT3 Fight: 
+3-0 Daizyy_
+ 
+vanillapractice.com
+ — 
+26/11/2025, 22:44
+@Terry Crews - KelpsFav - Promoted to High Tier 3
+
+HT3 Fight:
+3-0 zzbtt
+
+Lx
+ — 
+26/11/2025, 22:47
+@Kesie - Kesie - Failed High Tier 2
+
+HT2 Fights:
+1-4 GalleryWalk
+Pflaw
+ — 
+27/11/2025, 02:14
+@Dandy T2 x3 forced 50ms vs fo6y - DandyStingray64 - Promoted to Low Tier 2
+LT2 Fights:
+3-4 RealFo6y
+4-3 AndrexW
+HT3 Fights:
+4-3 Kxqzy_ (3-3 Prior to DQ and Restriction)
+4-2 AkaTragic
