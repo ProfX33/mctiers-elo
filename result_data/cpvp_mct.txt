@@ -2333,7 +2333,7 @@ HT3 Fights:
     4-0 MazyMeow
     4-0 KingEz
     4-1 FwAstro
-    4-2dagga
+    4-2 dagga
 
 revoltz
  — 
@@ -3253,7 +3253,7 @@ LT1 Fights
 1-4 Crey6712
 
 HT2 Fights
-4-0dagga
+4-0 dagga
 4-1 CT_Agami
 4-2 th3bes
 
@@ -3763,7 +3763,7 @@ sly
 
 HT2 Fights:
 
-    4-3dagga
+    4-3 dagga
 
 4-0 KingD3fault
  LT2 Fights:
@@ -4262,7 +4262,7 @@ LT2 Fights
 HT2 Fights
 4-0 KingD3fault 
 3-4 ME_IS_LENNON
-4-0dagga
+4-0 dagga
 
 ryry
  — 
@@ -4281,11 +4281,7 @@ ryry
 Legertje08
  — 
 03/11/2023, 00:41
-@NOZOM - zfq - Promoted to HT3
-
-
-    
-
+@NOZOM - zfq - Promoted to HT3 
     3-2 s7_4
 
 cras
@@ -4360,7 +4356,7 @@ Not Ravenclaw
 LT2 FIGHTS
 
     4-0 Pallagongus
-    4-1dagga
+    4-1 dagga
 
 HT2 FIGHTS
 
@@ -13368,7 +13364,7 @@ LT2 Fights
 
 HT2 Fights
 
-    4-3dagga
+    4-3 dagga
     4-1 Totempopper69
 
 GlacerMc
@@ -13550,7 +13546,7 @@ Slytherin | NAE
 @367k - 367k - Promoted to High Tier 2
 HT2 Fights:
 
-    4-1dagga
+    4-1 dagga
     4-2 slyluvu
 
 LT2 Fights:
@@ -15560,9 +15556,9 @@ LT1 Fights:
 
 HT2 Fights:
 
-    4-1dagga
+    4-1 dagga
     4-2 slyluvu
-    4-3dagga
+    4-3 dagga
     4-1 RikiTokanashi
 
 LT2 Fights:
@@ -16779,7 +16775,7 @@ Sheriff Gears
 @unknown - Org4nic - Promoted to HT2
 HT2 Fights:
 
-    4-1dagga
+    4-1 dagga
     4-3 sly313
 
 LT2 Fights:
@@ -20146,7 +20142,7 @@ Sheriff Gears
 @vaunta - vaunta - Promoted to High Tier 2
 HT2 Fights:
 
-    4-3dagga
+    4-3 dagga
     4-1 Wraxps
 
 LT2 Fights:
@@ -23616,7 +23612,7 @@ Konic
 LT1 Fights:
 
     4-2 Crey6712
-    4-3dagga
+    4-3 dagga
 
 
 HT2 Fights:
@@ -23947,7 +23943,7 @@ HT1 Fights:
 LT1 Fights:
 
     4-2 Crey6712
-    4-3dagga
+    4-3 dagga
 
 
 HT2 Fights:
@@ -25953,7 +25949,7 @@ HT1 Fights:
 LT1 Fights:
 
     4-3 Evantii
-    4-3dagga
+    4-3 dagga
 
 
 HT2 Fights:
