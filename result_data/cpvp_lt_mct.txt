@@ -4607,7 +4607,7 @@ Passed Evaluation
 Marc
  — 
 01/01/2024, 00:51
-@Mons4 - CallumKittyMeow - Failed High Tier 3 Test
+@Mons4 - Mons4 - Failed High Tier 3 Test
 
 HT3 Fights:
 
@@ -6054,7 +6054,7 @@ HT3 Fights:
 Deleted User
  — 
 29/02/2024, 19:51
-@Mons4  - 2_lz - Failed HT3
+@Mons4  - Mons4 - Failed HT3
 Passed Evaluation
 0-3 NopzDaFlopper
 Deleted User
@@ -8509,7 +8509,7 @@ Deleted User
 @Sameeha - Raza - FAILED HT3
 PASSED EVALUATION
 HT3 FIGHTS
-0-3 Mons114
+0-3 Mons4
 PUFFIERZ
  — 
 03/04/2024, 22:01
@@ -8664,7 +8664,7 @@ KLAUS
 @STREAMING ALL TL FIGHTS IN BIO   - dachshund114 - Failed HT3
 Passed evalution
 
-2-3 Mons114
+2-3 Mons4
 Mons4
  — 
 05/04/2024, 17:47
@@ -8792,7 +8792,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-0-3 mons114 
+0-3 Mons4 
 Mons4
  — 
 06/04/2024, 21:12
@@ -8856,7 +8856,7 @@ ppuff
 
 HT3 Fights:
 
-2-3 Mons114 
+2-3 Mons4 
 Mons4
  — 
 07/04/2024, 15:03
@@ -8874,7 +8874,7 @@ Deleted User
 Passed Evaluation
 
 HT3 FIGHTS:
-1-3 mons114 
+1-3 Mons4 
 
 Deleted User
  — 
@@ -11801,7 +11801,7 @@ Cloud superfan :3
 13/05/2024, 20:16
 @zoucy525 - zoucylol - failed HT3
 
-1-3 Mons114
+1-3 Mons4
 Jonas
  — 
 13/05/2024, 22:33
@@ -11810,7 +11810,7 @@ Jonas
 Passed Evaluation
 
 HT3 Fights:
-1-3 Mons114
+1-3 Mons4
 Iturew
  — 
 14/05/2024, 01:16
@@ -11870,7 +11870,7 @@ KLAUS
 14/05/2024, 21:57
 @datasha  - ItsJerian - Failed HT3
 HT3 Fight:
-1-3 Mons114
+1-3 Mons4
 
 
 
@@ -11947,7 +11947,7 @@ Cloud superfan :3
 15/05/2024, 16:55
 @kartex151 - kartex114 - failed HT3
 
-1-3 Mons114
+1-3 Mons4
 KLAUS
  — 
 15/05/2024, 18:05
@@ -11956,7 +11956,7 @@ KLAUS
 Passed Evaluation
 
 HT3 Fights
-1-3 Mons114
+1-3 Mons4
 NotFZero
  — 
 15/05/2024, 19:40
@@ -11976,7 +11976,7 @@ Passed Evaluation
 
 HT3 FIGHTS
 
-    0-3 mons114
+    0-3 Mons4
 
 sputta
  — 
@@ -12067,7 +12067,7 @@ Passed Evaluation
 
 HT3 FIGHTS
 
-    1-3 Mons114
+    1-3 Mons4
 
 Cloud superfan :3
  — 
@@ -12078,7 +12078,7 @@ Passed Evaluation
 
 HT3 fights:
 
-1-3 Mons114
+1-3 Mons4
 Deleted User
  — 
 17/05/2024, 21:06
@@ -12088,7 +12088,7 @@ Passed Evaluation
 
 HT3 FIGHTS
 
-    1-3 mons114
+    1-3 Mons4
 
 matiqo
  — 
@@ -12099,7 +12099,7 @@ Passed Evaluation
 
 HT3 fights:
 
-2-3 Mons114 
+2-3 Mons4 
 Slimer | NAE | STREAMING TESTS
  — 
 17/05/2024, 22:07
@@ -12159,7 +12159,7 @@ Cloud superfan :3
 18/05/2024, 09:22
 @dddddd - fqillures - failed HT3
 
-2-3 Mons114
+2-3 Mons4
 Deleted User
  — 
 18/05/2024, 10:28
@@ -12270,7 +12270,7 @@ Cloud superfan :3
 
 Passed Evaluation
 
-1-3 Mons114
+1-3 Mons4
 Cloud superfan :3
  — 
 19/05/2024, 17:57
@@ -12284,7 +12284,7 @@ p4ss
 
 Passed Evaluation
 
-2-3 Mons114
+2-3 Mons4
 p4ss
  — 
 19/05/2024, 19:04
@@ -12292,7 +12292,7 @@ p4ss
 
 Passed Evaluation
 
-2-3 Mons114 
+2-3 Mons4 
 p4ss
  — 
 19/05/2024, 20:55
@@ -12300,7 +12300,7 @@ p4ss
 
 Passed Evaluation
 
-0-3 Mons114
+0-3 Mons4
 NotFZero
  — 
 20/05/2024, 02:11
@@ -14743,7 +14743,7 @@ Passed Evaluation (Y4ke_)
 Deleted User
  — 
 24/06/2024, 17:36
-@Cloud superfan :3 - PsychoPathh - FAILED HT3
+@Cloud superfan :3 - Clxpzy - FAILED HT3
 
 Passed Evalution
 
@@ -17809,7 +17809,7 @@ HT3 fights:
 Deleted User
  — 
 07/08/2024, 09:21
-@Cloud superfan :3 - PsychoPathh - Failed HT3
+@Cloud superfan :3 - Clxpzy - Failed HT3
 
 Passed Evaluation
 
@@ -33565,7 +33565,7 @@ Vrexzy
 
 HT3 Fights:
 
-    2-3 namuHAylnOmI
+    2-3 Mons4
 
 SuperGooberSpike
  — 
@@ -36114,3 +36114,873 @@ Passed Evaluation
 HT3 Fights:
 
     1-3 swvm
+
+
+
+
+Mocha | @ 4 help
+ — 
+12/11/2025, 13:06
+@#Freeppuff🗣|@miki for cpvpCoach - 00BBird - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 m3wsu
+
+geqi do  not ping
+ — 
+12/11/2025, 19:00
+
+    @van   - Vanstrophe - Failed High Tier 3
+    Passed Evaluation
+
+    HT3 Fights:
+    1-3 Ver0xgs
+
+ 
+Cazify @ 4 anything but test
+ — 
+12/11/2025, 22:12
+@haze  - hazemlol - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 hvav
+
+kyleigh
+ — 
+16/11/2025, 02:04
+@viole t #kyleigh4senior - violentlol - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Reviala
+
+kyleigh
+ — 
+16/11/2025, 03:11
+@Probably Zach - WhitePokes - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 swvm
+
+Akthar
+ — 
+16/11/2025, 05:00
+@wreathing - wreathing - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 swvm
+
+ 
+AdrZZan (WE WONT LOSE TO SWORD)
+ — 
+16/11/2025, 19:38
+@ManoDaFlopper  - ManoDaFlopper - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    0-3 Snowzyy_
+
+
+
+
+
+
+
+
+
+
+YourFavw | Don't @ for test
+ — 
+16/11/2025, 20:33
+@AdrZZan (WE WONT LOSE TO SWORD)  - AdrZZan - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    0-3 Notpixel
+
+kyleigh
+ — 
+17/11/2025, 00:08
+@qzrq - iskepa - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zzbt
+
+kyleigh
+ — 
+18/11/2025, 03:01
+@Golden - 777Golden - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Reviala
+
+alekax | pvphub.me only
+ — 
+18/11/2025, 18:23
+@SKAZITO - URNPQ - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 Snowzyy_
+
+alekax | pvphub.me only
+ — 
+18/11/2025, 18:39
+@unknown-user - Stolencards - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 Snowzyy_
+
+NAE | Ashy @ for help
+ — 
+19/11/2025, 23:15
+@LI3E- li3e- Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 zFay
+
+vanillapractice.com
+ — 
+19/11/2025, 23:15
+@Sniper - SniperL0L- Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 Reviala
+
+spookyboat
+ — 
+20/11/2025, 02:03
+@Woke 愛 - bestofalbany - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Reviala
+
+268k
+ — 
+21/11/2025, 21:31
+@Rekxz   - Rekxz - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    0-3 Snowzyy
+
+AdrZZan (WE WONT LOSE TO SWORD)
+ — 
+22/11/2025, 15:10
+@ManoDaFlopper - ManoDaFlopper - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    0-3 mormel
+
+AaNnDdYy_
+ — 
+22/11/2025, 16:16
+@Night - Night44 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    1-3 mormel123
+
+kyleigh
+ — 
+22/11/2025, 18:58
+@sen_femboy meow - moonrisej_uwu - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 DandyStingray64
+
+kyleigh
+ — 
+22/11/2025, 20:15
+@6GT IS HT2 GOAT - safebet - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 DandyStingray64
+
+AdrZZan (WE WONT LOSE TO SWORD)
+ — 
+22/11/2025, 20:20
+@Julian - K1ngofpandas - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    1-3  Snowzyy_
+
+kyleigh
+ — 
+22/11/2025, 23:23
+@𝔸𝕦𝕥𝕚𝕤𝕞𝕄𝕒𝕟𝟛𝟘𝟘𝟘 - AutismMan3000 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zFay
+
+AdrZZan (WE WONT LOSE TO SWORD)
+ — 
+23/11/2025, 18:24
+@Amir_OFF - AmirOff - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    0-3 Daizyy
+
+kyleigh
+ — 
+23/11/2025, 21:28
+@SlvggishJr67 - DigDugJr67 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 DandyStingray64
+
+kyleigh
+ — 
+23/11/2025, 22:42
+@mmetrolol - mmetrolol - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Reviala
+
+Akthar
+ — 
+23/11/2025, 23:45
+@ilovepickles  - AttackOnTitatn - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 Zfay
+
+kyleigh
+ — 
+23/11/2025, 23:46
+@attributeswapper - attributeswapper - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Reviala
+
+Cazify @ 4 anything but test
+ — 
+23/11/2025, 23:47
+@r - ul6t - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 reviala
+
+kyleigh
+ — 
+24/11/2025, 02:05
+@anchortotem - anchortotem - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 DandyStingray64
+
+kyleigh
+ — 
+24/11/2025, 03:14
+@dogwalkedcuh - htaps - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 DandyStingray64
+
+kyleigh
+ — 
+25/11/2025, 02:35
+@Kyruun - Kyruun_ - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 DandyStingray64
+
+
+
+
+
+
+kyleigh
+ — 
+25/11/2025, 02:54
+Qanks   - Qanks - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 DandyStingray64
+
+kyleigh
+ — 
+25/11/2025, 14:04
+@Jaimelive - bigkittypuZii69 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 swvm
+
+kyleigh
+ — 
+25/11/2025, 22:47
+@jonesy - XeirloSon - Failed High Tier 3
+Passed Evaluation
+
+ HT3 Fight:
+
+    1-3 swvm
+
+ 
+kyleigh
+ — 
+26/11/2025, 01:50
+@sserpy - sserpy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 quack55
+
+kyleigh
+ — 
+26/11/2025, 03:29
+@Pigeon - DrDonutsFemboy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 quack55
+
+Cazify @ 4 anything but test
+ — 
+26/11/2025, 08:40
+@RiverFlowsfr  - RiverFlowsfr - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 swvm
+
+AdrZZan (WE WONT LOSE TO SWORD)
+ — 
+26/11/2025, 14:40
+@memed - hzx2 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    0-3 vs dachshundd_
+
+ 
+AdrZZan (WE WONT LOSE TO SWORD)
+ — 
+26/11/2025, 14:42
+@jjj6112 - jjj6112 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight
+
+    0-3 dachshundd_
+
+ 
+AaNnDdYy_
+ — 
+26/11/2025, 15:21
+@godyanznv  - rwysY - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    2-3 vs dachshundd_
+
+ 
+kyleigh
+ — 
+26/11/2025, 21:13
+@loseAgainn - ThereIsNoWayy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 gnarled_
+
+Cazify @ 4 anything but test
+ — 
+26/11/2025, 22:16
+@heysway - kirbsfemboy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 gnarled_
+
+Cazify @ 4 anything but test
+ — 
+26/11/2025, 23:36
+@𓆩𝔄𝔫𝔠𝔥𝔬𝔯𝔰𓆪 - ANCH0RS - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 OrangeLizard19 (2chrome)
+
+kyleigh
+ — 
+26/11/2025, 23:47
+@Misdemeaned - 7qc5 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zFay
+
+kyleigh
+ — 
+26/11/2025, 23:51
+@Terrel - ItzTerrel - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 Reviala
+
+kyleigh
+ — 
+27/11/2025, 02:49
+@jace - D0gAteMyHomework - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights
+
+    1-3 zFay
+
+Cazify @ 4 anything but test
+ — 
+27/11/2025, 03:00
+@Mondey  - De3Mondey - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights
+
+    0-3 zFay
+
+spookyboat
+ — 
+27/11/2025, 03:14
+@Ramptr_ - TangoLemon - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zFay
+
+spookyboat
+ — 
+27/11/2025, 03:59
+@M1K30104 - M1K30104 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zFay
+
+kyleigh
+ — 
+28/11/2025, 00:46
+@Arizonva - egirlmar - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 OrangeLizard19
+
+Akthar
+ — 
+28/11/2025, 03:51
+@Crafters  - Craftersodyssey_ - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 LittleMinion1
+
+kyleigh
+ — 
+28/11/2025, 05:01
+@1ziorix - Ziorix - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 Paul0__0
+
+Cazify @ 4 anything but test
+ — 
+28/11/2025, 21:20
+@GrandmaSniper   - GrandmaSniper- Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 LittleMinion1
+
+Cazify @ 4 anything but test
+ — 
+29/11/2025, 01:37
+@unknown-user - LatinaLurrn - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 LittleMinion1
+
+𝙅𝙖𝙜𝙪𝙖𝙧
+ — 
+29/11/2025, 02:09
+@AtKyrie - Glamsillo - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 LittleMinion1
+
+
+
+
+
+
+
+
+
+Valarnus | @ For Help
+ — 
+29/11/2025, 03:21
+@I wish i was goated like reviala  - ILikeFemboyFeet - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Paul0__O
+
+kyleigh
+ — 
+29/11/2025, 03:34
+@Legendarryy - Legendarryy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Paul0__O
+
+kyleigh
+ — 
+29/11/2025, 03:59
+@physcocommander - luffy_fan_num1 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zzbt
+
+! Valarnus | @ For Help
+ — 
+29/11/2025, 05:22
+@Daggwa  - ItzRealH1M- Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zFay
+
+JackSparrow I @ for help
+ — 
+29/11/2025, 13:58
+@Revoulze  - Revoulze- Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 NotPixel
+
+kyleigh
+ — 
+29/11/2025, 18:33
+@vanti - Vantiiiii - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 LittleMinion1
+
+ 
+Snowzy
+ — 
+29/11/2025, 19:40
+@ScrWpt  - ScrWpt - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 NotPixel
+
+kyleigh
+ — 
+29/11/2025, 21:35
+@Brooklynsest is my ign - Brooklynsest - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Paul0__O
+
+kyleigh
+ — 
+29/11/2025, 21:42
+@Ziggy_Mender - ZiggyMender - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Paul0__O
+
+Cazify @ 4 anything but test
+ — 
+29/11/2025, 22:42
+@...  - Sigmadiddyy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 LittleMinion1
+
+Cazify @ 4 anything but test
+ — 
+29/11/2025, 22:47
+@misspending - misspending - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 zzbtt
+
+Cazify @ 4 anything but test
+ — 
+29/11/2025, 22:58
+@Dwjo  - dwjo - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 LittleMinion1
+
+kyleigh
+ — 
+29/11/2025, 23:00
+@pxlpy - pxlpy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 LittleMinion1
+
+AdrZZan (WE WONT LOSE TO SWORD)
+ — 
+29/11/2025, 23:32
+@✰ - ITakeBackshots - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+
+    0-3 dachshundd
+
+Cazify @ 4 anything but test
+ — 
+30/11/2025, 00:35
+@B1uem9n  - B1ueM9n - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 LittleMinion1
+
+Cazify @ 4 anything but test
+ — 
+30/11/2025, 01:00
+@sixseven11  - IFanSilentCrow - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 LittleMinion1
+
+spookyboat
+ — 
+30/11/2025, 01:23
+@SaberSenko  - SaberSenko - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 Paul0__O
+
+Cazify @ 4 anything but test
+ — 
+30/11/2025, 01:32
+@WillbeWillber  - _avalannche321 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zFay
+
+Cazify @ 4 anything but test
+ — 
+30/11/2025, 02:42
+@zOxshy - zOxshy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 LittleMinion1
+
+Cazify @ 4 anything but test
+ — 
+30/11/2025, 02:44
+@zSxvn  - zSxvn - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zzbt
+
+kyleigh
+ — 
+30/11/2025, 04:49
+@Pablo - 9yk_ - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 zFay
+
+kyleigh
+ — 
+30/11/2025, 16:52
+@Twee - Dennis2ee - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 LittleMinion1
+
+Cazify @ 4 anything but test
+ — 
+30/11/2025, 17:18
+@sundxrks  - KingCloudy - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 LittleMinion1
+
+kyleigh
+ — 
+30/11/2025, 17:35
+@Lucky - 4hir - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 Paul0__O
+
+kyleigh
+ — 
+30/11/2025, 17:59
+@Lexoky - Lexoky - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    2-3 Paul0__O
+
+
+
+
+
+
+
+
+
+JackSparrow I @ for help
+ — 
+30/11/2025, 18:18
+@WorstME | #kindness - WorstME- Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 mormel123
+
+spookyboat
+ — 
+30/11/2025, 18:36
+@Bayest  - Bayest- Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    0-3 LittleMinion1
+
+kyleigh
+ — 
+30/11/2025, 18:43
+@SmhAuto - SmhAuto - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+
+    1-3 vs LittleMinion1
