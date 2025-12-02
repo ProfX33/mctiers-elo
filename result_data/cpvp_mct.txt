@@ -8508,7 +8508,7 @@ Tok / @ for help
 HT3 Fights:
 
     4-2 sopk
-    1-4 MarlowCheats
+    1-4 N1tr0Blade
 
 Andrex @ for help
  — 
@@ -9688,7 +9688,7 @@ HT3 Fight:
 Vuatex
  — 
 04/04/2024, 19:05
-@N1TROOOO - MarlowCheats - Failed Low Tier 2
+@N1TROOOO - N1tr0Blade - Failed Low Tier 2
 HT3 Fights:
 
     1-0 ItzTyrant
@@ -9908,7 +9908,7 @@ LT2 Fights:
 
 HT3 Fights:
 
-    4-0 MarlowCheats
+    4-0 N1tr0Blade
     4-2 ItzTyrant
 
 FPS_MX
