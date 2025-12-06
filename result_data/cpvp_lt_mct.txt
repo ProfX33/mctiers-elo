@@ -11041,7 +11041,7 @@ HT3 fights:
 NotFZero
  — 
 04/05/2024, 23:07
-@huiserfhuifsdhu - xeriki - Failed HT3 Test
+@huiserfhuifsdhu - CheeseGrater2014 - Failed HT3 Test
 Passed Evaluation
 
 HT3 Fight:
@@ -14692,7 +14692,7 @@ HT3 Fights
 GlacerMc
  — 
 23/06/2024, 22:34
-@huiserfhuifsdhu - Xeriki - Failed HT3
+@huiserfhuifsdhu - CheeseGrater2014 - Failed HT3
 Passed Evaluation
 
 HT3 Fight:
@@ -28067,7 +28067,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    2-3 vsY HT3BOSS
+    2-3 HT3BOSS
 
 SA | Paulo.
  — 
@@ -34825,6 +34825,85 @@ HT3 Fights:
 
     0-3 Reviala
 
+Skkegoxx
+ — 
+03/10/2025, 15:09
+@キ Cyn. - Atqmic1ty - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fights:
+1-3 bauloo
+
+steve_pop | @ for fights
+ — 
+03/10/2025, 21:02
+@Vr - VrzpOnMacros - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+1-3 qfixy
+
+PandaBerk
+ — 
+03/10/2025, 21:32
+@. - Adrigonskskibidi - Failed High Tier 3
+Passed Evaluation
+HT3 Fight:
+2-3 Reviala
+
+Outlive9660 | @ for Anything!!
+ — 
+03/10/2025, 21:33
+@pointwest - pointwest - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+0-3 Reviala
+
+spookyboat
+ — 
+04/10/2025, 05:06
+@cubfv! - Itake5v1s- Failed High Tier 3
+Passed Evaluation
+HT3 Fight:
+2-3 Reviala
+
+SmasherOfMinions | unc sisser
+ — 
+04/10/2025, 15:19
+@Umair - umair_313 - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+0-3 bauloo
+
+SmasherOfMinions | unc sisser
+ — 
+04/10/2025, 15:38
+@Thxrss - Thxrss - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+1-3 bauloo
+
+spookyboat
+ — 
+04/10/2025, 19:35
+@cookedbyspeed - cookedbyspeed - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+0-3 CheeseGrater2014
+
+spookyboat
+ — 
+04/10/2025, 19:36
+@Twyn - Tilted_Twyn - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+0-3 Reviala
+
 Lx
  — 
 05/10/2025, 00:38
@@ -36131,11 +36210,10 @@ HT3 Fights:
 geqi do  not ping
  — 
 12/11/2025, 19:00
+@van   - Vanstrophe - Failed High Tier 3
+Passed Evaluation
 
-    @van   - Vanstrophe - Failed High Tier 3
-    Passed Evaluation
-
-    HT3 Fights:
+HT3 Fights:
     1-3 Ver0xgs
 
  
@@ -36513,7 +36591,7 @@ Passed Evaluation
 
 HT3 Fight:
 
-    0-3 vs dachshundd_
+    0-3 dachshundd_
 
  
 AdrZZan (WE WONT LOSE TO SWORD)
@@ -36535,7 +36613,7 @@ Passed Evaluation
 
 HT3 Fight:
 
-    2-3 vs dachshundd_
+    2-3 dachshundd_
 
  
 kyleigh
@@ -36983,4 +37061,4 @@ Passed Evaluation
 
 HT3 Fights:
 
-    1-3 vs LittleMinion1
+    1-3 LittleMinion1
