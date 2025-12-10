@@ -6283,7 +6283,7 @@ PASSED EVAL
 Mons4
  — 
 05/03/2024, 18:08
-@STREAMING ALL TL FIGHTS IN BIO  - dachshund114 - failed  High Tier 3
+@STREAMING ALL TL FIGHTS IN BIO  - dachshundd_ - failed  High Tier 3
 
 Passed Evaluation
 
@@ -8661,7 +8661,7 @@ HT3 Fights:
 KLAUS
  — 
 05/04/2024, 16:05
-@STREAMING ALL TL FIGHTS IN BIO   - dachshund114 - Failed HT3
+@STREAMING ALL TL FIGHTS IN BIO   - dachshundd_ - Failed HT3
 Passed evalution
 
 2-3 Mons4
@@ -14148,7 +14148,7 @@ HT3 fights:
 Cloud superfan :3
  — 
 16/06/2024, 15:44
-@STREAMING ALL TL FIGHTS IN BIO - NeMegaTaksaPro12 - failed HT3
+@STREAMING ALL TL FIGHTS IN BIO - dachshundd_ - failed HT3
 
 Passed Evaluation
 
@@ -16263,7 +16263,7 @@ HT3 fights:
 Cloud superfan :3
  — 
 21/07/2024, 15:34
-@STREAMING ALL TL FIGHTS IN BIO - NeMegaTaksaPro12 - failed HT3
+@STREAMING ALL TL FIGHTS IN BIO - dachshundd_ - failed HT3
 
 Passed Evaluation
 
@@ -22114,7 +22114,7 @@ Passed Evaluation
 
 HT3 FIGHTS
 
-    1-3 Dachshund114
+    1-3 dachshundd_
 
 Sapphire
  — 
@@ -23908,7 +23908,7 @@ HT3 Fight:
 BoilingJeromeASF
  — 
 12/11/2024, 23:30
-@viQezz - viqezz- Failed Ht3
+@viQezz - ElianaKalogeras - Failed Ht3
 Passed Evaluation
 
 Ht3 Fights:
@@ -26113,7 +26113,7 @@ Passed Evaluation
 
 HT3 Fight:
 
-    1-3 dachshund114
+    1-3 dachshundd_
 
  
 Vibez
@@ -26124,7 +26124,7 @@ Passed Evaluation
 
 HT3 Fight:
 
-    2-3 dachshund114
+    2-3 dachshundd_
 
  
 Shemeowz │outlive4sr
@@ -31201,12 +31201,12 @@ HT3 Fights:
 xPryo
  — 
 07/05/2025, 04:38
-@ElianaKalogeras   - EliKalogeras - Failed High Tier 3
+@ElianaKalogeras   - ElianaKalogeras - Failed High Tier 3
 
     Passed Evaluation
 
     HT3 Fight:
-     0-3 HT1Fortniter
+    0-3 HT1Fortniter
 
 Lion
  — 
@@ -32025,6 +32025,33 @@ Diamang
 
 HT3 Fights:
 0-3 Turrnn
+
+BlueBerry
+ — 
+04/06/2025, 01:06
+@Anthony143724 - rizzler_sigma123 - Failed High Tier 3
+
+HT3 Fight:
+0-3 Rykuowu
+
+mmetrolol
+ — 
+04/06/2025, 03:33
+@Quartz  - YTQuartz - Failed High Tier 3
+Passed Evaluation
+
+HT3 Fight:
+1-3 GearsZero
+
+WinnerJen
+ — 
+04/06/2025, 14:29
+@dachshundd_ - dachshundd_ - Failed High Tier 3
+Passed Evalution
+
+HT3 Fights:
+1-3 xMexus
+
 Lion
  — 
 04/06/2025, 19:24
@@ -35620,7 +35647,7 @@ Wippys | AS
 Passed Evaluation
 
 HT3 Fights:
-2-3 ME_IS_DASHY
+2-3 dachshundd_
 JackSparrow I
  — 
 23/10/2025, 17:46
@@ -35785,7 +35812,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    2-3 ME_IS_DASHY
+    2-3 dachshundd_
 
 268k
  — 
@@ -35795,7 +35822,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    2-3 ME_IS_DASHY
+    2-3 dachshundd_
 
 Viraps
  — 
@@ -35805,7 +35832,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    0-3 ME_IS_DASHY
+    0-3 dachshundd_
 
 dwggo
  — 
@@ -35875,7 +35902,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    2-3 ME_IS_DASHY
+    2-3 dachshundd_
 
 toji
  — 
@@ -35885,7 +35912,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    0-3 dachshhundd_
+    0-3 dachshundd_
 
 #Kindness Not 4 Test
  — 
@@ -35894,7 +35921,7 @@ HT3 Fights:
 
 HT3 Fights
 
-    1-3 Me_Is_Dashy
+    1-3 dachshundd_
 
  
 GodsaysHigh5
@@ -35904,7 +35931,7 @@ GodsaysHigh5
 
 HT3 Fights
 
-    0-3 Me_Is_Dashy
+    0-3 dachshundd_
 
 Clokky
  — 
@@ -35913,7 +35940,7 @@ Clokky
 
 HT3 Fights
 
-    0-3 ME_IS_DASHY
+    0-3 dachshundd_
 
 Kyleigh |
  — 
@@ -35973,7 +36000,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    2-3 ME_IS_DASHY
+    2-3 dachshundd_
 
  
 geqi - not active
@@ -36913,7 +36940,7 @@ Passed Evaluation
 
 HT3 Fight:
 
-    0-3 dachshundd
+    0-3 dachshundd_
 
 Cazify @ 4 anything but test
  — 
