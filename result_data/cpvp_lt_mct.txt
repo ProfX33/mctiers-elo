@@ -6,6 +6,20 @@ M4rzz
 3-1 Crey6712
 0-3 Camcal
 
+Stem
+ — 
+17/09/2022, 03:03
+@Ven - vennyie - HT3 Test failed
+0-4 BidenPvP
+
+Deleted User
+ — 
+17/09/2022, 05:52
+@domidank - Domidank - Failed HT3
+
+1-2 Marlowww
+0-3 RevvyWevvy
+
 Shifty
  — 
 08/10/2022, 20:28
@@ -7279,7 +7293,7 @@ HT3 Fights:
 Deleted User
  — 
 13/03/2024, 18:44
-@Abvolt  -GoatSaysHigh5 - Failed HT3
+@Abvolt  -3rdh3ad - Failed HT3
 Passed evaluation
 HT3 Fight:
 
@@ -12962,7 +12976,7 @@ HT3 Fight:
 Deleted User
  — 
 31/05/2024, 20:40
-@mormel - 22Mormel - FAILED HT3
+@mormel - mormel123 - FAILED HT3
 
 Passed Evaluation
 
@@ -13639,7 +13653,7 @@ alicia
 
 HT3 Fight:
 
-    2-3 Gay22
+    2-3 3rdh3ad
 
 Deleted User
  — 
@@ -13763,7 +13777,7 @@ Cloud superfan :3
 Passed Evaluation
 
 HT3 fights:
-0-3 abvoltisbetter
+0-3 3rdh3ad
 
 
 
@@ -13874,7 +13888,7 @@ Cloud superfan :3
 Passed Evaluation
 
 HT3 fights:
-1-3 Gay22
+1-3 3rdh3ad
 Wayfinder
  — 
 13/06/2024, 02:02
@@ -13952,7 +13966,7 @@ alicia
 
 HT3 Fight:
 
-    0-3 Gay22
+    0-3 3rdh3ad
 
 Cloud superfan :3
  — 
@@ -14020,7 +14034,7 @@ Passed Evaluation
 
 HT3 FIGHTS
 
-    0-3 gay22 (Abvoltisbetter)
+    0-3 3rdh3ad
 
  
 matiqo
@@ -14049,7 +14063,7 @@ Cloud superfan :3
 Passed Evaluation
 
 HT3 fights:
-1-3 Gay22 
+1-3 3rdh3ad 
 matiqo
  — 
 15/06/2024, 19:59
@@ -14067,7 +14081,7 @@ Cloud superfan :3
 Passed Evaluation
 
 HT3 fights:
-0-3 Gay22
+0-3 3rdh3ad
 matiqo
  — 
 15/06/2024, 20:46
@@ -14076,7 +14090,7 @@ matiqo
 Passed Evaluation
 
 HT3 fights:
-2-3 gay22 
+2-3 3rdh3ad 
 Wayfinder
  — 
 15/06/2024, 22:28
@@ -14104,7 +14118,7 @@ Passed Evaluation
 
 HT3 FIGHTS
 
-    0-3 Gay22
+    0-3 3rdh3ad
 
 Wayfinder
  — 
@@ -14153,7 +14167,7 @@ Cloud superfan :3
 Passed Evaluation
 
 HT3 fights:
-2-3 Gay22
+2-3 3rdh3ad
 Deleted User
  — 
 16/06/2024, 15:47
@@ -14174,7 +14188,7 @@ Passed Evaluation
 
 HT3 FIGHTS
 
-    1-3 Gay22
+    1-3 3rdh3ad
 
 Deleted User
  — 
@@ -14185,7 +14199,7 @@ Passed Evaluation
 
 HT3 FIGHTS
 
-    1-3 Gay22
+    1-3 3rdh3ad
 
 FPS_MX
  — 
@@ -14928,7 +14942,7 @@ Jonas
 Passed Evaluation
 
 HT3 Fights:
-0-3 Gay22
+0-3 3rdh3ad
 Slimer | NAE | STREAMING TESTS
  — 
 26/06/2024, 22:28
@@ -15632,7 +15646,7 @@ Ht3 Fights
 Cloud superfan :3
  — 
 08/07/2024, 19:16
-@mormel - wrzc - failed HT3
+@mormel - mormel123 - failed HT3
 
 Passed Evaluation
 
@@ -36671,7 +36685,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    1-3 OrangeLizard19 (2chrome)
+    1-3 2chrome
 
 kyleigh
  — 
@@ -36741,7 +36755,7 @@ Passed Evaluation
 
 HT3 Fights:
 
-    1-3 OrangeLizard19
+    1-3 2chrome
 
 Akthar
  — 
