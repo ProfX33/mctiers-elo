@@ -304,7 +304,7 @@ HT3 Fights:
 Ray Birb of Sillies
  — 
 27/04/2025, 00:05
-@dclfin - dclfin - has FAILED Their LT2 Test.
+@dclfin - dclfin - has FAILED Their LT2 Test
 
 HT3 Fight
 
@@ -1112,7 +1112,7 @@ HT3 Fights:
 
 
 
-NotFZero | @ For Help
+NotFZero |
  — 
 03/07/2025, 02:04
 @Freekee_Fang - Freekee_Fang - Failed Low Tier 2
@@ -1479,7 +1479,7 @@ LT2 Fights:
 
 
 
-NotFZero | @ For Help
+NotFZero |
  — 
 02/08/2025, 02:04
 @ItzMaze_ - ItzMaze_ - Promoted to High Tier 3
@@ -1589,7 +1589,7 @@ LT2 Fights:
 
     2-10 Betjuhh
 
-NotFZero | @ For Help
+NotFZero |
  — 
 09/08/2025, 02:22
 @Spawnplayer - Spawnplayer - Has Unretired and Placed at High Tier 3
@@ -1760,7 +1760,7 @@ LT2 Fights:
     2-10 Rozacks
 
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 15/08/2025, 23:44
 @ivaanZD (100ms mcpvp) - SnowPiplup - Has Failed their LT2 test
@@ -1832,7 +1832,7 @@ HT2 Fights:
 
 
  
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 17/08/2025, 21:45
 @blossoomm - blossoomm - Has Passed their LT2 test
@@ -1901,7 +1901,7 @@ HT3 Fights:
 
 
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 19/08/2025, 22:18
 @jayyyyyyyyyy - vxyxn_ - Has Failed their Low Tier 2 test
@@ -2044,7 +2044,7 @@ HT3 Fight:
 
 
  
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 24/08/2025, 20:16
 @Airo - AiroKun - Has Failed their Low Tier 2 test
@@ -2192,7 +2192,7 @@ HT2 Fights:
 
 
  
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 01/09/2025, 03:16
 @BIG SHOT - BIG___SHOT - Has Passed their HT3 test
@@ -2232,7 +2232,7 @@ LT2 Fights:
 
 
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 02/09/2025, 04:05
 @NA | Turbinial - Lurpik  - Has Failed their Low Tier 2 test
@@ -2241,7 +2241,7 @@ HT3 Fights:
 
     10-8 Spikly_
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 04/09/2025, 04:37
 @sculk - Sculkist - Promoted to High Tier 3
@@ -2341,7 +2341,7 @@ HT3 Fight:
 
 
 
-NA | Zotao | @ For Help
+NA | Zotao |
  — 
 07/09/2025, 23:14
 @rax  - 2rax- Has Passed their HT3 test
@@ -2352,7 +2352,7 @@ HT3 Fight:
 
 
  
-NA | Zotao | @ For Help
+NA | Zotao |
  — 
 08/09/2025, 03:09
 @Job Enjoyer  - Hellsinky - Has Failed their LT2 test
@@ -2369,7 +2369,7 @@ LT2 Fights:
 
 
 
-Marks - @ 4 Help
+Marks
  — 
 08/09/2025, 16:38
 @Jun  - JunXP - Has Passed their HT3 test
@@ -2391,7 +2391,7 @@ HT3 Fight:
 
 
  
-NA | Zotao | @ For Help
+NA | Zotao |
  — 
 10/09/2025, 01:12
 @Freekee_Fang  - Freekee_Fang - Has Passed their LT2 test
@@ -2442,7 +2442,7 @@ LT2 Fights:
 
 
 
-NA | Zotao | @ For Help
+NA | Zotao |
  — 
 14/09/2025, 02:21
 @BluKord  - Ascended50 - Has Passed their HT3 test
@@ -2453,7 +2453,7 @@ HT3 Fight:
 
 
  
-NA | Zotao | @ For Help
+NA | Zotao |
  — 
 14/09/2025, 05:01
 @Repetita  - Repetita - Has Passed their HT3 test
@@ -2524,11 +2524,11 @@ HT3 Fight:
 
 
  
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 19/09/2025, 00:16
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 19/09/2025, 00:54
 @Vayb - vaybegurt - Has Failed their Low Tier 2 test
@@ -2643,7 +2643,7 @@ LT2 Fights:
 
 
 
-Vezmir @ For Help
+Vezmir
  — 
 22/09/2025, 18:02
 @AS | Crungio  - Crungio - Has Passed their HT3 test
@@ -2654,7 +2654,7 @@ HT3 Fight:
 
 
  
-Marks - @ 4 Help
+Marks
  — 
 22/09/2025, 21:58
 @superkarlos1   - Superkarlos1 - Has Failed their Low Tier 2 test
@@ -2682,7 +2682,7 @@ LT2 Fights:
 
 
  
-Marks - @ 4 Help
+Marks
  — 
 23/09/2025, 17:34
 @pt4s - pt4s - Has Passed their High Tier 3 test
@@ -2738,7 +2738,7 @@ LT2 Fights:
 BladeGK
  — 
 25/09/2025, 04:39
-@Sylveaun | add to HT3/LT2 tests - Sylveaun - Has Passed their High Tier 3 test
+@Sylveaun - Sylveaun - Has Passed their High Tier 3 test
 
 HT3 Fight:
 
@@ -2747,7 +2747,7 @@ HT3 Fight:
 
 
 
-Marks - @ 4 Help
+Marks
  — 
 25/09/2025, 18:24
 @Rozacks   - Rozacks - Has Failed their High Tier Two test
@@ -2776,10 +2776,10 @@ HT3 Fights:
 
 
  
-NA | Zotao | @ For Help
+NA | Zotao |
  — 
 26/09/2025, 04:15
-@Sylveaun | add to HT3/LT2 tests  - Sylveaun - Has Failed their LT2 test
+@Sylveaun - Sylveaun - Has Failed their LT2 test
 
 HT3 Fights:
 
@@ -2793,7 +2793,7 @@ LT2 Fights:
 
 
  
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 26/09/2025, 04:16
 @NA | Gpminer17 - Gpminer17 - Has Failed their Low Tier 2 test
@@ -2821,7 +2821,7 @@ LT2 Fights:
 
 
  
-Vezmir @ For Help
+Vezmir
  — 
 27/09/2025, 20:58
 @knqckback  - knqckback - Has Failed their Low Tier 2 test
@@ -2837,7 +2837,7 @@ LT2 Fights:
 
 
 
-NA | Zotao | @ For Help
+NA | Zotao |
  — 
 27/09/2025, 23:06
 @Ray Birb of Sillies - vylw - Has PASSED their High Tier 3 test.
@@ -2859,7 +2859,7 @@ HT3 Fight:
     10-8 Owkp_
 
 
-Vezmir @ For Help
+Vezmir
  — 
 29/09/2025, 12:57
 @frannpo  - PerraDeSonic32 - Has Passed their High Tier 3 test
@@ -2870,7 +2870,7 @@ HT3 Fight:
 
 
 
-Marks - @ 4 Help
+Marks
  — 
 30/09/2025, 19:19
 @Triser - Triser5000 - Has Failed their Low Tier 1 test
@@ -2921,7 +2921,7 @@ LT2 Fights
     7-10 flowtives
 
 
-Vezmir @ For Help
+Vezmir
  — 
 03/10/2025, 19:50
 @jayyyyyyyyyy  - vxyxn_ - Has Failed their Low Tier 2 test
@@ -3009,7 +3009,7 @@ HT3 Fight:
 
 
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 07/10/2025, 03:23
 @NA | Turbinial - Turbinial - Has Failed their Low Tier 2 test
@@ -3020,7 +3020,7 @@ HT3 Fights:
 
 
  
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 07/10/2025, 04:04
 @Spikly - Spikly_ - Has Failed their Low Tier 2 test
@@ -3046,7 +3046,7 @@ HT3 Fight:
 
 
 
-Marks - @ 4 Help
+Marks
  — 
 10/10/2025, 20:00
 @sabdaa - lowballers21 - Has Passed their High Tier 3 test
@@ -3065,7 +3065,7 @@ HT2 Fights:
     10-6 paulinhq
     7-10 sEEBaCHs
 
-Vezmir @ For Help
+Vezmir
  — 
 14/10/2025, 19:03
 @rivise  - Rivise - Has Passed their High Tier 3 test
@@ -3075,7 +3075,7 @@ HT3 Fight:
     10-7 NewNiqht
 
  
-Vezmir @ For Help
+Vezmir
  — 
 15/10/2025, 18:08
 @wPun  - wPun - Has Passed their High Tier 3 test
@@ -3124,7 +3124,7 @@ HT3 Fights:
     0-10 bossmotte
 
  
-Marks - @ 4 Help
+Marks
  — 
 21/10/2025, 14:11
 @janek  - janekv - Has Failed their High Tier 2 test
@@ -3190,7 +3190,7 @@ HT3 Fight:
 
     10-0 Herow_
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 25/10/2025, 01:08
 @ivaanZD (100ms mcpvp) - ivaanZD - Has Failed their LT2 test
@@ -3208,7 +3208,7 @@ LT2 Fights:
 
 
  
-Vezmir @ For Help
+Vezmir
  — 
 25/10/2025, 17:27
 @sayanpo  - Yahirpo - Has Failed their Low Tier 2 test
@@ -3248,7 +3248,7 @@ HT3 Fights:
 demoted to LT3
 
 
-Vezmir @ For Help
+Vezmir
  — 
 27/10/2025, 16:44
 @NA | Kit  - SinonIZspooky - Has Passed their High Tier 3 test
@@ -3260,7 +3260,7 @@ HT3 Fight:
 Bridging To LT2
 
 
-Vezmir @ For Help
+Vezmir
  — 
 27/10/2025, 17:13
 @Asikuu  - Asikuu- Has Failed their Low Tier 2 test
@@ -3332,7 +3332,7 @@ LT2 Fights:
 
 
 
-AlwaysPoggerz | @ for help
+AlwaysPoggerz |
  — 
 28/10/2025, 11:21
 @circle  - circls - Has Passed their High Tier 3 test
@@ -3341,7 +3341,7 @@ HT3 Fight:
 
     10-1 deuey
 
-Vezmir @ For Help
+Vezmir
  — 
 28/10/2025, 11:29
 
@@ -3355,11 +3355,11 @@ HT3 Fight:
     10-9 v7try
 
  
-Vezmir @ For Help
+Vezmir
  — 
 28/10/2025, 14:25
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 28/10/2025, 15:54
 @add to t2s only as - frtrkrkmz30 - Has Passed their High Tier 3 test
@@ -3370,7 +3370,7 @@ HT3 Fight
 
 
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 31/10/2025, 01:53
 @ggc69 - Ggc69 - Has Failed their Low Tier 2 test
@@ -3387,7 +3387,7 @@ LT2 Fights:
 
 
 
-Vezmir @ For Help
+Vezmir
  — 
 31/10/2025, 14:19
 @knqckback  - Knqckback - Has Failed their Low Tier 2 test
@@ -3426,7 +3426,7 @@ HT3 Fight:
 
     10-8 newniqht
 
-Marks - @ 4 Help
+Marks
  — 
 01/11/2025, 15:06
 
@@ -3439,11 +3439,11 @@ HT3 Fight:
 
     10-6 _molk_
 
-toji - @ in reply
+toji
  — 
 01/11/2025, 17:10
 
-Vezmir @ For Help
+Vezmir
  — 
 02/11/2025, 12:13
 @telly  - TellyBear_ - Has Passed their High Tier 3 test
@@ -3464,30 +3464,26 @@ HT3 Fight:
 
     10-7 Banumgeher
 
-toji - @ in reply
+toji
  — 
 02/11/2025, 16:34
 
 PrimoTheBoat | ON LOA
  — 
 02/11/2025, 16:35
-@J  - Jokinggggggggggg - Has Passed their High Tier 3 test
+@J  - JokingDK - Has Passed their High Tier 3 test
 
 HT3 Fight:
 
     10-0 scythere
-    bridging to LT2
 
- 
-toji - @ in reply
- — 
-02/11/2025, 16:36
+
 
 Marlow
  — 
 02/11/2025, 22:02
 @BlvckWlf - BlvckWlf - Retired (Peak: HT1) 
-Vezmir @ For Help
+Vezmir
  — 
 04/11/2025, 18:07
 @NA | Kit  - SinonIZspooky - Has Failed their Low Tier 2 test
@@ -3504,7 +3500,7 @@ LT2 Fights:
 
 
 
-Vezmir @ For Help
+Vezmir
  — 
 05/11/2025, 12:32
 @frannwxz  - fraanpo - Has Failed their Low Tier 2 test
@@ -3535,11 +3531,11 @@ HT3 Fight:
     10-8  cl0wnyy
 
  
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 07/11/2025, 05:27
 
-AlwaysPoggerz | @ for help
+AlwaysPoggerz |
  — 
 07/11/2025, 11:01
 @milly  - millyeley - Has Passed their High Tier 3 test
@@ -3550,7 +3546,7 @@ HT3 Fight:
 
 Bridging to LT2
  
-Vezmir @ For Help
+Vezmir
  — 
 07/11/2025, 11:05
 
@@ -3563,7 +3559,7 @@ HT3 Fight:
 
     10-6 cl0wnyy
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 08/11/2025, 05:33
 @Endy - Endy0 - Has Failed their Low Tier 2 test
@@ -3575,7 +3571,7 @@ HT3 Fights:
 
 
 
-Vezmir @ For Help
+Vezmir
  — 
 08/11/2025, 06:25
 @Error455 add to T2  - Error455 - Has Failed their Low Tier 2 test
@@ -3594,7 +3590,7 @@ HT3 Fight:
 
     10-1 Banumgeher
 
-Vezmir @ For Help
+Vezmir
  — 
 08/11/2025, 20:43
  
@@ -3607,11 +3603,11 @@ HT3 Fight:
 
     10-3 cl0wnyy
 
-Vezmir @ For Help
+Vezmir
  — 
 09/11/2025, 09:09
  
-Vezmir @ For Help
+Vezmir
  — 
 09/11/2025, 09:19
 @Repetita  - Repetitajajaja - Has Failed their Low Tier 2 test
@@ -3623,7 +3619,7 @@ HT3 Fights:
 
 
 
-Vezmir @ For Help
+Vezmir
  — 
 09/11/2025, 19:03
 @coldisguide - coldified - Has Passed their High Tier 2 test
@@ -3652,15 +3648,11 @@ HT3 Fight:
 
     10-9 sayanbr
 
- 
-Larfyz | @ for help/spec!
- — 
-10/11/2025, 03:10
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 10/11/2025, 04:38
-@NAE | Sylveaun | add to ht3/lt2 - Sylveaun - Has Failed their Low Tier 2 test
+@NAE | Sylveaun - Sylveaun - Has Failed their Low Tier 2 test
 
 HT3 Fights:
 
@@ -3668,7 +3660,7 @@ HT3 Fights:
 
 
  
-Vezmir @ For Help
+Vezmir
  — 
 10/11/2025, 11:33
 @cooked add ht3/lt2  - cookedfr_ - Has Failed their Low Tier 2 test
@@ -3688,11 +3680,8 @@ HT3 Fight:
 
     10-3 Draqonate
 
-Larfyz | @ for help/spec!
- — 
-10/11/2025, 21:13
 
-Andrex @ for help
+Andrex
  — 
 10/11/2025, 22:40
 @Rozacks  - Rozacks - Has Failed their High Tier 2 Test
@@ -3710,7 +3699,7 @@ HT2 Fights
 
 
 
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 11/11/2025, 05:46
 @storm_watertime - vaybegurt - Has Failed their Low Tier 2 test
@@ -3721,10 +3710,10 @@ HT3 Fights:
 
 
 
-Marks - @ 4 Help
+Marks
  — 
 11/11/2025, 19:14
-@Paulinhq - Paulinq - Has Failed their Low Tier 1 test
+@Paulinhq - Paulinhq - Has Failed their Low Tier 1 test
 
 HT2 Fights:
 
@@ -3733,7 +3722,7 @@ HT2 Fights:
 
 
  
-Larfyz | @ for help/spec!
+Larfyz |/spec!
  — 
 11/11/2025, 23:59
 @Spikly - Spikly_ - Has Failed their Low Tier 2 test
@@ -3742,7 +3731,7 @@ HT3 Fights:
 
     3-10 Sylveaun
 
-Vezmir @ For Help
+Vezmir
  — 
 13/11/2025, 05:33
 @Crazykelp   - Crazykelp - Has Unretired and placed at High Tier 2
@@ -3859,7 +3848,7 @@ LT2 Fights:
 
     1-10 mzrio
 
-Vezmir @ For Help
+Vezmir
  — 
 15/11/2025, 10:36
 @MostCuteXD  - MostCuteXD - Has Failed their Low Tier 2 test
@@ -3977,7 +3966,7 @@ LT2 Fights:
 
 
 
-Marks - @ 4 Help
+Marks
  — 
 21/11/2025, 17:44
 @.Heng - M1en_ - Has Failed their Low Tier 2 test
@@ -4082,7 +4071,7 @@ Code | @ 4 help
 Blue | ازرق
  — 
 25/11/2025, 22:19
-@J - Jokinggggggggggg - Has Failed their LT2 test
+@J - JokingDK - Has Failed their LT2 test
 
 HT3 Fights:
 
@@ -4094,13 +4083,6 @@ LT2 Fights:
 
     7-10 Legendarryy
     10-8 janekv
-
-
-
-Marks - @ 4 Help
- — 
-26/11/2025, 09:14
-Clarification: He needed an equal score against his LT2 opponents in order to pass.
  
 Violet evergarden MY QUEEN
  — 
@@ -4263,11 +4245,6 @@ HT3 Fights:
     3-10 Sylveaun
 
 
-
-NA | Zotao
- — 
-01/12/2025, 02:24
-Another Sylveaun Classic
 PrimoTheBoat | AM 500 ms on cat
  — 
 01/12/2025, 06:01
@@ -4370,3 +4347,908 @@ LT2 Fights:
 
     10-2 mzrio
     10-5 Flowtives
+
+NA | Zotao
+ — 
+09/12/2025, 04:31
+@Ggc69  -  Ggc69 - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-1  Yahirpo
+    10-5 Turbinal
+
+
+LT2 Fights:
+
+    4-10 Jackeracid
+
+
+
+NA | Zotao
+ — 
+09/12/2025, 04:46
+@sweat  - sweatgod - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-7 Sylveaun
+
+Bridging to T2
+
+
+Vezmir
+ — 
+09/12/2025, 13:59
+@arsakha  - Arsakha - Has Passed their High Tier 2 test
+
+HT2 Fights:
+
+    9-10 Paulinhq
+    10-9 SeeVAShs
+
+
+
+loa
+ — 
+09/12/2025, 14:33
+@TigerTries  - TigerTries - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-3 newniqht
+    10-1 Ibrahhh
+
+
+LT2 Fights:
+
+    6-10 knqckback
+
+
+
+Siegreiches
+ — 
+09/12/2025, 17:00
+@Banumgeher  - Banumgeher - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    7-10 faruxa (FF at 7-8)
+
+
+ 
+NA | Zotao
+ — 
+10/12/2025, 06:08
+@ivaanZD (100ms mcpvp)  - IvaanZD - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-0 Itsyusufmc
+    10-9 Sylveaun
+
+
+LT2 Fights:
+
+    9-10 Rozacks
+    8-10 Mzrio
+
+
+NA | Zotao
+ — 
+11/12/2025, 04:48
+@Rozacks - Rozacks - Has Failed their High Tier 2 test
+
+LT2 Fights:
+
+    2-10 Mzrio
+
+
+
+Siegreiches
+ — 
+11/12/2025, 17:46
+@Denji  - Denji_Ryomen - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-5 IndianTbotter14 
+    3-10 Asikuu
+
+
+
+NA | Zotao
+ — 
+12/12/2025, 02:23
+@TripleLion | add to t2 tests - TripleLion - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-2 NicolaPorcella
+    10-6 Draqonate
+
+
+LT2 Fights:
+
+    10-5 Janekv (Dq at 6-5)
+    3-10 Mzrio
+
+
+
+NA | Zotao
+ — 
+12/12/2025, 03:56
+@Matias.  - Rusopex - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-9 Cl0wnyy
+
+
+
+NA | Zotao
+ — 
+12/12/2025, 06:04
+@Gingerds - Gingerlu - Has Unretired and placed at LT2
+
+HT3 Fight:
+
+    10-1 ItsYusufMc
+    10-4 SinonIZspooky
+
+LT2 Fights:
+
+    10-3 Rozacks
+    10-8 JackerAcid
+
+
+HT2 Fights:
+
+    6-10 Coldified
+
+NA | Zotao
+ — 
+12/12/2025, 07:09
+@sweat - Sweatgod - Has Failed their High Tier 2 test
+
+HT3 Fights:
+
+    10-7 Sylveaun
+    10-1 ggc69
+
+LT2 Fights:
+
+    10-9 Jackeracid
+    10-5 Mzrio
+
+HT2 Fights:
+
+    10-3 Crazykelp
+    5-10 Coldified
+
+
+
+Siegreiches
+ — 
+12/12/2025, 16:56
+@Siegreiches - Siegreiches - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-7 Asikuu
+    10-5 Error455
+
+
+LT2 Fights:
+
+    6-10 dclfin
+
+
+
+NA | Zotao
+ — 
+12/12/2025, 20:07
+@Koharu  - Koharu89 - Has Unretired and placed at HT2
+
+HT3 Fight:
+
+    10-9 eorrr
+
+LT2 Fights:
+
+    10-2 roimouton
+    10-6 mzrio
+
+
+HT2 Fights:
+
+    10-4 Crazykelp
+    10-1 Paulinhq
+
+
+LT1 Fights:
+
+    10-9 BLMcheat
+    3-10 yMiau
+
+
+ 
+NA | Zotao
+ — 
+12/12/2025, 22:20
+@Herow - Herow_ - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    6-10 Tylersvibin
+
+
+NA | Zotao
+ — 
+13/12/2025, 05:51
+@NAE | Sylveaun  - Sylveaun - Has Passed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-5 ggc69
+    10-7 SinonIZSpooky
+
+
+LT2 Fights:
+
+    9-10 Gingerlu
+    10-8 Jackeracid
+
+
+
+loa
+ — 
+13/12/2025, 09:20
+@lincoN  - lincon123e - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    6-10 SinonIzSpooky
+
+
+
+Siegreiches
+ — 
+13/12/2025, 10:05
+@unknownuser - blossoomm - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    9-10 Asikuu
+
+
+
+loa
+ — 
+13/12/2025, 16:02
+@maurito  - Alexandzr - Has Unretired and placed at LT3
+
+HT3 Fight:
+
+    3-10 Akathene
+
+
+
+Siegreiches
+ — 
+13/12/2025, 22:26
+@unknownuser  - sigarre - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-8 Faruxa
+    10-1 Error455
+
+
+LT2 Fights:
+
+    10-7 Roimouton
+    1-10 dclfin (FF at 1-7)
+
+
+
+NA | Zotao
+ — 
+14/12/2025, 07:26
+@NA | Zotao - Zotao - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-7 Sylinxs
+
+Bridging to Lt2
+
+
+Vezmir
+ — 
+14/12/2025, 10:45
+@Paulinhq  - Paulinhq - Has Failed their Low Tier 1 test
+
+HT2 Fights:
+
+    9-10 Arsakha
+
+NA | Zotao
+ — 
+14/12/2025, 22:02
+@NA | Zotao  - Zotao - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-7 Sylinxs
+    2-10 ItsYusufMc
+
+
+
+NA | Zotao
+ — 
+14/12/2025, 23:00
+@brhh | Add To LT2 Only - Brhh - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-2 STORMPLAY
+
+Bridging to lt2
+
+
+NA | Zotao
+ — 
+14/12/2025, 23:50
+@CrimsonWolf739 EMIRU FAN_ - SilentYuji - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    9-10 Zotao (FF at 9-4)
+
+
+
+NA | Zotao
+ — 
+15/12/2025, 00:06
+@brhh | Add To LT2 Only - Brhh - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-2 STORMPLAY
+    10-0 Zotao
+
+
+LT2 Fights:
+
+    2-10 Gingerlu
+
+
+
+loa
+ — 
+15/12/2025, 05:59
+@dry  - DryAU - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-3 repetita
+
+
+
+loa
+ — 
+15/12/2025, 07:24
+@xcow  - XC0W - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-4 Deltrune
+
+bridging to lt2
+
+
+Siegreiches
+ — 
+15/12/2025, 16:33
+@yQew  - yQew - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-9 Tylersvibin
+
+
+
+NA | Zotao
+ — 
+16/12/2025, 04:34
+@alquix_ - Alquix_ - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    1-10 Zotao
+
+
+
+loa
+ — 
+16/12/2025, 09:12
+@xcow  - XC0W - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-4 Detrune
+    3-10 rivise
+
+
+NA | sw1tz
+ — 
+17/12/2025, 04:05
+@valortheone   - Electrocue - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-2 Turbinial
+
+loa
+ — 
+17/12/2025, 05:18
+@Endy  - Sadfemboy32 - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-1 ItsYusufMC
+
+bridging to lt2
+
+NA | Zotao
+ — 
+18/12/2025, 22:15
+@jfeg - FestiveJfeg - Has Unretired and placed at HT3
+
+HT3 Fight:
+
+    10-2 FaceofDiamondSMP
+
+
+LT2 Fights:
+
+    10-8 Gingerlu
+    3-10 Sweatgod
+
+
+
+NA | Zotao
+ — 
+19/12/2025, 01:33
+@Crozzor - Crozzor - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-4 SinonIZSpooky
+    10-9 STORMPLAY
+
+
+LT2 Fights:
+
+    4-10 Gingerlu
+
+
+
+NA | Zotao
+ — 
+19/12/2025, 02:03
+@dry  - DryAU - Has Passed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-3 freakyrapetita
+    10-0 xcow
+
+
+LT2 Fights:
+
+    10-2 knqckback
+    10-1 Rozacks
+
+ 
+Vezmir
+ — 
+19/12/2025, 09:59
+@rivise  - Rivise - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-1 QuiltedSun
+    10-3 XCOW
+    10-0 Deuey
+    8-10 TigerTries
+
+LT2 Fights:
+
+    9-10 knqckback
+
+
+ 
+Vezmir
+ — 
+19/12/2025, 18:57
+@dclfin  - Dclfin - Has Failed their High Tier 2 test
+
+LT2 Fights:
+
+    6-10 Paulinhq
+
+Siegreiches
+ — 
+20/12/2025, 15:56
+@Sircey  - Sirceyyy - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-6 Tylersvibin
+    6-10 IndianTbotter14
+
+
+
+Blue | ازرق
+ — 
+21/12/2025, 08:05
+@Draq  - Draqonate - Has Passed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-1 STORMPLAY
+    10-1 Turbinial
+
+
+LT2 Fights:
+
+    8-10 Sylveaun
+    10-7 Rozacks
+
+
+
+Blue | ازرق
+ — 
+21/12/2025, 08:24
+@Shadow - Shadowzeuss- Has Unretired and placed at LT2
+
+HT3 Fight:
+
+    10-4 Stormplay
+
+
+LT2 Fights:
+
+    10-4 Sylveaun
+    10-8 Knqckback
+
+
+HT2 Fights:
+
+    6-10 Freekee_fang
+
+ 
+-
+@A Roy - Aroy - Has Unretired and placed at LT2 
+
+HT3 Fights:
+
+    10-1 Zotao
+
+
+LT2 Fights:
+
+    10-3 Gingerlu
+    10-5 Sylveaun
+
+
+HT2 Fights 
+
+    4-10 Freekee_fang
+
+loa
+ — 
+21/12/2025, 16:17
+@Error455  - Err0rBoi455 - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    3-10 Vel00x
+
+
+loa
+ — 
+21/12/2025, 16:33
+@dropkey  - dropkey - Has  Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-5 tylersvibin
+
+bridging to lt2
+
+Siegreiches
+ — 
+21/12/2025, 19:02
+@Vel00x  - Vel00x - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-3 Err0rBoi455
+    10-5 Tylersvibin
+
+
+LT2 Fights:
+
+    1-10 Paulinhq
+
+
+
+loa
+ — 
+22/12/2025, 16:17
+@zo.  - itchyworms - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-2 newniqht
+
+
+
+Siegreiches
+ — 
+22/12/2025, 16:57
+@dropkey  - dropkey - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-5 Tylersvibin
+    10-9 Asikuu
+
+
+LT2 Fights:
+
+    7-10 Roimouton
+    7-10 Paulinhq
+ 
+NA | Zotao
+ — 
+23/12/2025, 02:44
+@dry  - DryAU - Has Failed their High Tier 2 test
+
+HT3 Fights:
+
+    10-3 Repitita
+    10-0 xcow
+
+
+LT2 Fights:
+
+    10-2 Kqckback
+    10-1 Rozacks
+
+
+HT2 Fights:
+
+    4-10 Koharu89
+
+
+NA | Zotao
+ — 
+24/12/2025, 02:37
+@FriendlyDog  - Cronee - Has Unretired and placed at LT1
+
+HT3 Fight:
+
+    10-0 ItsYusufMc
+
+
+LT2 Fights:
+
+    10-4 Sylveaun
+    10-6 Gingerlu
+
+
+HT2 Fights:
+
+    10-6 Arsakha
+    10-8 Freekee_fang
+
+
+LT1 Fights:
+
+    10-5 C0RZZ
+    10-7 Marlowww
+
+
+ 
+NA | Zotao
+ — 
+24/12/2025, 09:10
+@Wombalom - Triser5000 - Has Failed their Low Tier 1 test
+
+HT2 Fights:
+
+    10-4 Freekee_Fang
+    10-4 SeeVASHs
+
+
+LT1 Fights:
+
+    0-10 Marlowww
+
+
+loa
+ — 
+24/12/2025, 16:48
+@Owkp_  - Owkp_ - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-9 tylersvibin
+
+
+loa
+ — 
+24/12/2025, 19:13
+@Owkp_  - Owkp_ - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-9 tylersvibin
+    1-10 Enlock
+
+
+NA | Zotao
+ — 
+25/12/2025, 06:04
+@Endy - Sadfemboy32 - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-1 ItsYusufMc
+    10-5 STORMPLAY
+
+
+LT2 Fights:
+
+    3-10 Draqonate
+
+Terowww | @ for anything
+ — 
+26/12/2025, 12:38
+@sthefano - sthefano - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-2 Akathene
+
+Vezmir
+ — 
+26/12/2025, 12:41
+
+Siegreiches
+ — 
+26/12/2025, 15:27
+@J - JokingDK - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    3-10 Siegreiches
+
+Demoted to LT3
+
+
+Siegreiches
+ — 
+26/12/2025, 17:31
+@Prince Lock IV of England - Enlock - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-1 Owkp_
+    10-6 Asikuu
+
+
+LT2 Fights:
+
+    0-10 Paulinhq (FF at 0-9)
+
+
+
+Terowww | @ for anything
+ — 
+28/12/2025, 00:30
+@Shadompex - bryartz_ - Has Passed Their High Tier 3 Test
+
+HT3 Fight:
+
+    10-8 Akathene
+
+Vezmir
+ — 
+28/12/2025, 18:31
+
+Siegreiches
+ — 
+28/12/2025, 19:40
+@120% yo  - Gcldjunge - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    5-10 Siegreiches
+
+
+
+Siegreiches
+ — 
+28/12/2025, 22:28
+@SEEWABHAS  - SeeVAShs - Has Failed their Low Tier 1 test
+
+HT2 Fights:
+
+    2-10 Koharu89
+
+
+
+Siegreiches
+ — 
+28/12/2025, 23:00
+@NA | Pillarger  - Pillarger - Has Passed their High Tier 3 test
+
+HT3 Fight:
+
+    10-8 ggc69
+
+
+
+Vezmir
+ — 
+29/12/2025, 21:29
+@FriendlyDog  - Cronee - Has Failed their High Tier 1 test
+
+HT2 Fights:
+
+    10-6 Arsakha
+    10-8 Freekee_fang
+
+
+LT1 Fights:
+
+    10-5 C0RZZ
+    10-7 Marlowww
+
+
+HT1 Fight:
+
+    2-10 Swight
+
+
+ 
+Siegreiches
+ — 
+29/12/2025, 22:17
+@sthefano  - sthefano  - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    10-2 Akathene
+    10-2 SinonIzSpooky 
+
+
+LT2 Fights:
+
+    4-10 Draqonate
+
+
+
+Siegreiches
+ — 
+30/12/2025, 18:43
+@Scythere  - Scythere - Has Failed their Low Tier 2 test
+
+HT3 Fights:
+
+    3-10 Runn1n9

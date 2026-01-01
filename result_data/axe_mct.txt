@@ -123,7 +123,7 @@ Marker
 
 HT3 Fight:
 
-    20-8 CIA_Classified
+    20-8 Klassy02
 
 
 LT2 Fight:
@@ -190,7 +190,6 @@ Brody
  — 
 10/04/2025, 23:49
 @ninorc15 - ninorc15 - passed HT3
-
 LT3 Fight:
 
     15-5 MsToji
@@ -198,15 +197,17 @@ LT3 Fight:
 
 HT3 Fight:
 
-    20-11 CIA_Classified
+    20-11 Klassy02
 
 
-
-@ninorc15 - ninorc15 failed LT2
+Brody
+ — 
+10/04/2025, 23:49
+@ninorc15 - ninorc15 - failed LT2
 
 HT3 Fight:
 
-    20-11 CIA_Classified
+    20-11 Klassy02
 
 
 LT2 Fight:
@@ -252,7 +253,7 @@ First HT1 since 2023.. Congrats Swight!
 Marker
  — 
 18/04/2025, 01:25
-@chqxn - chqxn failed LT2
+@chqxn - chqxn - failed LT2
 
 HT3 Fight:
 
@@ -297,7 +298,7 @@ Marker
 
     39-40 Ra1gn
 
-Code | @ 4 help
+Code
  — 
 19/04/2025, 14:17
 @Deleted User  - 1sarpyxd - passed HT3
@@ -413,7 +414,7 @@ HT3 Fights:
 Marker
  — 
 02/05/2025, 00:57
-@mistled - mistled_ - Unretired at Low Tier 2
+@mistled_ - mistled_ - Unretired at Low Tier 2
 
 HT3 Fights:
 
@@ -480,7 +481,7 @@ LT2 Fights:
     36-28 Nighteries
 
  
-Code | @ 4 help
+Code
  — 
 03/05/2025, 14:03
 @Ray Birb of Sillies - DivineRevival - Passed High Tier 3
@@ -511,7 +512,7 @@ HT3 Fight:
 
 
  
-Code | @ 4 help
+Code
  — 
 03/05/2025, 17:58
 @Ray Birb of Sillies - DivineRevival - Failed Low Tier 2
@@ -531,18 +532,12 @@ LT2 Fights:
 Ray Birb of Sillies
  — 
 03/05/2025, 20:26
-@J - JokingDK has PASSED Their HT3 Test
-
-
+@J - JokingDK - has PASSED Their HT3 Test
 
 HT3 Fight
 
-     16 - 20 ninorc15
+    16-20 ninorc15
 
- 
-awobbuffet
- — 
-03/05/2025, 20:26
 
 Marker
  — 
@@ -574,7 +569,7 @@ LT1 Fights:
 LT2 Fights:
 
     20-11 Milkzweh
-    20-12 MrEpicGamer
+    20-12 Mr_EpicGamer
     20-6 Nighteries
     20-0 Zongdu
 
@@ -587,7 +582,7 @@ HT3 Fights:
 awobbuffet
  — 
 07/05/2025, 20:15
-@Wenzy  1Wenzy - Promoted to HT3
+@Wenzy - 1Wenzy - Promoted to HT3
 
 HT3 Fights:
 
@@ -598,7 +593,7 @@ HT3 Fights:
 awobbuffet
  — 
 07/05/2025, 20:35
-@Wenzy  1Wenzy - Failed LT2
+@Wenzy - 1Wenzy - Failed LT2
 
 HT3 Fights:
 
@@ -610,7 +605,7 @@ HT3 Fights:
 Melon
  — 
 07/05/2025, 20:48
-@Kebpa  Kebpa - Failed LT2
+@Kebpa - Kebpa - Failed LT2
 
 HT3 Fights:
 
@@ -653,7 +648,7 @@ HT3 Fights:
 
 
  
-mistled
+mistled_
  — 
 09/05/2025, 23:45
 @m - Mr_EpicGamer - a
@@ -662,16 +657,16 @@ LT2 Fights:
     12-20 Nighteries
 
  
-mistled
+mistled_
  — 
 10/05/2025, 00:38
-@m - mistled - a
+@m - mistled_ - a
 LT2 Fights:
 
     31-32 InsaneI
 
  
-mistled
+mistled_
  — 
 10/05/2025, 01:49
 @m - mistled_ - a
@@ -679,7 +674,7 @@ LT2 Fights:
 
     20-10 Nighteries
 
-mistled
+mistled_
  — 
 10/05/2025, 01:49
 @m - Mr_EpicGamer - a
@@ -762,7 +757,7 @@ HT3 Fights:
 
     20-15 ninorc15
 
-mistled
+mistled_
  — 
 12/05/2025, 03:36
 @m - mistled_ - a
@@ -770,7 +765,7 @@ LT2 Fights:
 
     20-12 Respect5595
 
-mistled
+mistled_
  — 
 12/05/2025, 03:51
 @m - Mr_EpicGamer - a
@@ -778,7 +773,7 @@ LT2 Fights:
 
     20-14 Respect5595
 
-mistled
+mistled_
  — 
 12/05/2025, 04:18
 @n - Nighteries - a
@@ -855,7 +850,7 @@ HT3 Fight:
     24-38 TooDrew
 
 
-mistled
+mistled_
  — 
 17/05/2025, 04:38
 @monika - InsaneI - a
@@ -863,7 +858,7 @@ LT2 Fight:
 
     28 - 29 Phesonor
 
-mistled
+mistled_
  — 
 17/05/2025, 05:06
 @m - mistled_ - a
@@ -872,7 +867,7 @@ LT2 Fight:
     28-22 Phesonor
 
  
-mistled
+mistled_
  — 
 17/05/2025, 05:36
 @n - Nighteries - a
@@ -892,7 +887,7 @@ HT3 Fights:
 
 
 
-NAC | Mobregon_ DON'T @ 4 HELP
+NAC | Mobregon_
  — 
 17/05/2025, 17:43
 
@@ -922,7 +917,6 @@ LT2 Fight:
 
     17-20 Respect5595
     20-9 Respect5595
-    37-29 Respect5595
 
 awobbuffet
  — 
@@ -1009,7 +1003,7 @@ HT3 Fights:
 Ray Birb of Sillies
  — 
 20/05/2025, 17:19
-@Denji - Denji_Ryomen has PASSED Their  HT3 Test.
+@Denji - Denji_Ryomen - has PASSED Their  HT3 Test.
 
 
 
@@ -1040,9 +1034,9 @@ Marker
 All participants have been placed on 7 Days of cooldown.
 If your name is not in the messages below your tier was not changed.
 
-@mistled - mistled_ - Promoted to High Tier 2 :HT2~6: 
+@mistled_ - mistled_ - Promoted to High Tier 2 :HT2~6: 
 
-The HT2 Tournament has now concluded, congratulations to @mistled! :Crown: 
+The HT2 Tournament has now concluded, congratulations to @mistled_! :Crown: 
 
 ------------------
 
@@ -1237,7 +1231,7 @@ HT3 Fights:
 Marker
  — 
 28/05/2025, 00:47
-@chloe - chloe76 - Unretired at High Tier 2
+@chloe - sycosia - Unretired at High Tier 2
 
 LT1 Fights:
 
@@ -1328,11 +1322,11 @@ HT3 Fight:
 Marker
  — 
 01/06/2025, 04:31
-@mistled - mistled_ - Failed Low Tier 1
+@mistled_ - mistled_ - Failed Low Tier 1
 
 HT2 Fights:
 
-    16-20 chloe76
+    16-20 sycosia
 
 awobbuffet
  — 
@@ -1381,7 +1375,7 @@ HT3 Fights:
     20-17 ninorc15
     20-17 Yuri
 
-mistled
+mistled_
  — 
 02/06/2025, 20:03
 @scoape - Scoape - Failed LT2
@@ -1837,7 +1831,7 @@ birch
 
 HT3 Fights:
 
-    13 - 20 ItzChara
+    13-20 ItzChara
 
 awobbuffet
  — 
@@ -1882,7 +1876,7 @@ cozmox
 
 HT2 Fights:
 
-    20-11 chloe76
+    20-11 sycosia
     18-20 mistled_
 
 
@@ -2023,7 +2017,7 @@ HT3 Fights:
     20-14 ninorc15
     17-20 JokingDK
 
-NAC | Mobregon_ DON'T @ 4 HELP
+NAC | Mobregon_
  — 
 14/07/2025, 15:54
 @Idiort  - LegitIdiort  - Failed LT2
@@ -2311,7 +2305,7 @@ LT2 Fights:
 
 
 
-nex @ for help
+nex
  — 
 01/08/2025, 15:01
 @NotEfe  - NotEfe - Promoted to HT3
@@ -2453,7 +2447,7 @@ LT2 Fights:
     20-10 SillyBirbRay
     7-20 yMiau
 
-nex @ for help
+nex
  — 
 10/08/2025, 21:20
 @NA | Nighteries - Nighteries - Failed HT2
@@ -2576,7 +2570,7 @@ pil
 
 HT3 Fights:
 
-    20-18 MrEpicGamer
+    20-18 Mr_EpicGamer
     20-19 Pillarger
 
  
@@ -2781,7 +2775,7 @@ HT3 Fights:
     5-20 ninorc15
 
 
-Code | @ 4 help
+Code
  — 
 26/08/2025, 15:06
 @zxк - Z_X_K - Failed LT2
@@ -2829,21 +2823,16 @@ Shield
 
 HT3 Fights
 
-    20 - 10 Enlock
-    20 - 12 ninorc15
+    20-10 Enlock
+    20-12 ninorc15
 
 
 LT2 Fights
 
-    20 - 12 Hobinator
-    8 - 20 BeganMC
+    20-12 Hobinator
+    8-20 BeganMC
 
  
-Marker
- — 
-28/08/2025, 14:03
-@hob - Hobinator - Demoted to HT3
-(Exceeded Strike Limit, -7/40)
 Clint Eastwood
  — 
 31/08/2025, 00:40
@@ -2872,40 +2861,20 @@ LT2 Fights:
     20-13 ShadowZeuss
 
 
- 
 Me 2
  — 
 03/09/2025, 03:11
-:Crown:  NA LT3 -> HT3 Tournament Results :Crown:
-Thank you to everyone who participated in this tournament, along with this everyone who participated will receive 30 Days of Cooldown! 
-
-@Marker
-:LT3~1: LT3 -> :HT3~1: HT3
-Can Test for LT2
-
-@NA | brhh 
-:LT3~1: LT3 -> :HT3~1: HT3
-Will be given a Cooldown of 30 days
-
-@flowtives - add to ht3 & t2
-Will be given no Cooldown
-
-Congratulations to MrMarker for winning this tournament and achieving High Tier 3, as well as Brhh for achieving second place!
-
-Tournament Results:
+:Crown:  NA LT3 > HT3 Tournament
 https://challonge.com/cn634tb6
 
 
 NicL
  — 
 03/09/2025, 04:18
-@flowtives - add to ht3 & t2  - Flowtives - Promoted to HT3
-
-
-
+@flowtives - Flowtives - Promoted to HT3
 HT3 Fight:
 
-     17-20 Minymo
+    17-20 Minymo
 
 Clint Eastwood
  — 
@@ -3286,7 +3255,7 @@ HT3 Fight:
     20-11 _Johnny2025_
 
 
-NAC | Mobregon_ DON'T @ 4 HELP
+NAC | Mobregon_
  — 
 06/10/2025, 19:49
 @aste  - Qocu - Failed LT2
@@ -3391,7 +3360,7 @@ LT2 Fights:
     20-17 Ninorc15
     5-20 meteorinto
 
-nex @ for help
+nex
  — 
 13/10/2025, 19:42
 @Nevoy - ItzNevoy - Failed Low Tier 2
@@ -3436,7 +3405,7 @@ KSI313
 
 HT3 Fight:
 
-     20-15 Sylveaun
+    20-15 Sylveaun
 
 awobbuffet
  — 
@@ -3445,9 +3414,9 @@ awobbuffet
 
 HT3 Fight:
 
-     20-17 awobbuffet
+    20-17 awobbuffet
 
-AS | Density | @ 4 Help ❤
+AS | Density
  — 
 18/10/2025, 20:28
 @hob - Hobinator - Failed LT2
@@ -3488,3 +3457,1078 @@ HT2 Fights:
 
     20-13 Perspective1
     20-11 yMiau
+
+nex | LOA
+ — 
+22/10/2025, 04:28
+@chqxn - Xx_Chaosgamin_xX - Failed LT2
+
+HT3 Fights:
+
+    20-15 sylveaun
+    20-13 Newtronn
+
+
+LT2 Fight:
+
+    10-20 ninorc15
+
+ 
+nex | LOA
+ — 
+22/10/2025, 22:27
+@dclfin - dclfin - Failed LT2
+
+HT3 Fights:
+
+    8-20 enlock
+    16-20 itsnevoy (ff at 16-13)
+
+nex | LOA
+ — 
+22/10/2025, 22:45
+@Airo - airokun - Promoted to HT3
+
+HT3 Fights:
+
+    20-14 awobbuffet
+
+nex | LOA
+ — 
+22/10/2025, 22:46
+@Airo - airokun - Failed LT2
+
+HT3 Fights:
+
+    20-14 awobbuffet 
+    12-20 itsnevoy
+
+cozmox
+ — 
+23/10/2025, 18:52
+@hob - Hobinator - Repromoted to HT3
+
+As per recent rubric update involving forfeits during tests
+Marker
+ — 
+24/10/2025, 03:01
+@nova - ngva - Failed Low Tier 2
+
+HT3 Fights:
+
+    15-20 Pillarger
+
+
+For those wondering, he shouldn’t have been demoted, he needed to lose 20-12 or greater to fight another HT3.
+ 
+Density
+ — 
+24/10/2025, 09:51
+@c - circls - Promoted to HT3
+
+HT3 Fight:
+
+     16-20 awobbuffet ( ff at 16-7)
+
+marks
+ — 
+25/10/2025, 11:58
+@DM me for free pvp training - SaiBem - Promoted to HT3
+
+Passed Evaluation
+
+HT3 Fights:
+
+    16-20 NightmareCombat (16-19 Prior to FF)
+
+ 
+Marker
+ — 
+30/10/2025, 02:09
+@NA | SinonIZspooky - SinonIZspooky - Promoted to HT3
+
+HT3 Fights:
+
+    20-18 MrMarker
+
+ 
+Marker
+ — 
+30/10/2025, 02:48
+@NA | SinonIZspooky - SinonIZspooky - Failed LT2
+
+HT3 Fights:
+
+    20-18 MrMarker
+    19-20 Pillarger
+
+Density
+ — 
+02/11/2025, 05:21
+@AS | Crepina - P2ckle - Promoted to HT3
+
+HT3 Fights:
+
+    20-14 odaksh
+
+NA | Nighteries
+ — 
+02/11/2025, 18:32
+NA HT3 > LT2 Tournament
+https://challonge.com/AxeNALT2
+https://challonge.com/AxeNALT2
+
+Marker
+ — 
+03/11/2025, 23:42
+@NA | SinonIZspooky - SinonIZspooky - Failed LT2
+
+HT3 Fights:
+
+    20-18 MrMarker
+    14-20 Flowtives
+
+Marlow
+ — 
+04/11/2025, 03:25
+@Swight - Swight - Promoted to High Tier 1
+
+LT1 Fight:
+40-12 Marlowww
+
+HT2 Fights:
+20-4 yMiau
+20-16 Perspective1
+
+
+JohnnySuki_ | Inactive
+ — 
+05/11/2025, 20:19
+AS/AU HT3 > LT2 Tournament
+https://challonge.com/AxeASLT2
+
+Marker
+ — 
+06/11/2025, 04:52
+@MrEpicGamer - Mr_EpicGamer - Failed LT2
+
+HT3 Fights:
+
+    9-20 MrMarker
+    20-19 SinonIZspooky
+
+JohnnySuki_ | Inactive
+ — 
+08/11/2025, 17:12
+@chant - chantepluer - Failed LT2
+
+HT3 Fights:
+
+    16-20 _Johnny2025_
+
+Marker
+ — 
+08/11/2025, 22:01
+@ninorc15 - ninorc15 - Failed High Tier 2
+
+LT2 Fights:
+
+    20-12 meteorinto
+    11-20 Respect5595
+
+
+@High Results
+Marker
+ — 
+09/11/2025, 20:54
+@The big P - Pillarger - Promoted to High Tier 2
+
+HT2 Fights:
+
+    20-16 Perspective1
+    20-18 yMiau (NA)
+    10-20 yMiau (EU)
+
+
+ 
+Marker
+ — 
+11/11/2025, 22:59
+@Zynn - Zynn - Unretired at Low Tier 2
+
+HT2 Fights:
+
+    10-20 Pillarger
+
+
+HT3 Fights:
+
+    20-11 Newtronn
+    20-10 Flowtives
+    20-8 SinonIZspooky
+    20-7 brhh
+
+Fought 4 HT3’s due to the lack of available LT2’s at the time of the test.
+
+@High Results
+awobabob
+ — 
+12/11/2025, 21:44
+@REDY - Redyzon - Promoted to HT3
+
+Passed Evaluation
+
+HT3 Fights:
+
+    20-14 awobbuffet
+
+marks
+ — 
+13/11/2025, 18:01
+@REDY - Redyzon - Failed Low Tier 2
+ 
+HT3 Fights:
+
+    20-14 awobbuffet
+    20-15 _Johnny2025_
+
+
+LT2 Fights:
+
+    20-15 Axelili
+    14-20 ninorc15
+
+NAC | Mobregon_
+ — 
+13/11/2025, 21:38
+@Paulinhq - Paulinhq - Failed Low Tier 2
+ 
+HT3 Fights:
+
+     20-3 awobbuffet
+     20-13 itznevoy
+
+
+LT2 Fights:
+
+     13-20 ninorc15
+
+The lil E
+ — 
+13/11/2025, 22:40
+EU HT3 > LT2 Tournament Results:LT2~1: 
+https://challonge.com/AxeEULT2
+
+NA | Nighteries
+ — 
+14/11/2025, 01:18
+@Marker  - MrMarker - Passed LT2
+
+HT3 Fights:
+
+    20-9 SinonIZspooky
+    20-17 Mr_EpicGamer
+
+
+LT2 Fight:
+
+    19-20 ninorc15
+    20-14 Zynn
+
+@High Results
+Marker
+ — 
+14/11/2025, 01:20
+marks
+ — 
+14/11/2025, 17:45
+@MrEpicGamer   - Mr_EpicGamer - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-17 SinonIZspooky
+    20-11 Sylvauen
+
+
+LT2 Fight:
+
+    20-13 MrMarker
+    20-17 Zynn
+
+
+@High Results 
+marks
+ — 
+14/11/2025, 17:45
+Testing for HT2
+The lil E
+ — 
+14/11/2025, 19:00
+@Deleted User - SillyBirbRay - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-5 ItzNevoy (20-7 with 45% leniency)
+
+
+LT2 Fights:
+
+    20-17 ninorc15
+
+
+@High Results 
+The lil E
+ — 
+14/11/2025, 19:00
+Testing for HT2
+The lil E
+ — 
+14/11/2025, 21:37
+@Deleted User - SillyBirbRay - Failed High Tier 2
+
+HT3 Fights:
+
+    20-5 ItzNevoy (20-7 with 45% leniency)
+
+
+LT2 Fights:
+
+    20-17 ninorc15
+
+
+HT2 Fights:
+
+    16-20 Coldified
+    17-20 Pillarger
+
+The lil E
+ — 
+15/11/2025, 19:53
+@NA | Nighteries - Nighteries - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-15 Flowtives
+    20-10 Newtronn
+
+
+LT2 Fights:
+
+    20-14 MrMarker
+    20-15 Zynn
+
+
+@High Results 
+marks
+ — 
+15/11/2025, 20:31
+@Klassy02 - Klassy02 - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-8 _Hamogus
+    20-13 GoatedWarrior
+
+
+LT2 Fights:
+
+    20-5 SillyBirbRay
+    20-8 ninorc15
+
+
+@High Results 
+The lil E
+ — 
+15/11/2025, 20:34
+Testing for High Tier 2
+Density
+ — 
+16/11/2025, 02:30
+@mubra - Mubraa - Promoted to HT3
+
+HT3 Fights:
+
+    20-17 KnockbackAbuser
+
+@mubra  - Mubraa - Failed LT2
+ 
+HT3 Fights:
+
+     20-17 KnockbackAbuser
+     20-16 Banaza
+
+ 
+NA | Nighteries
+ — 
+23/11/2025, 19:30
+@InsaneI - InsaneI- unretired at HT3
+ 
+HT3 Fights:
+
+     20-16 ItzNevoy
+     14-20 Goatedwarrior
+
+The lil E
+ — 
+25/11/2025, 01:49
+@MrEpicGamer - Mr_EpicGamer - Failed High Tier 2
+
+LT2 Fights
+
+    20-13 MrMarker
+    20-17 Zynn
+
+
+HT2 Fights:
+
+    19-20 Pillarger
+    15-20 Perspective1
+
+
+@High Results 🫡 
+JohnnySuki_ | Inactive
+ — 
+25/11/2025, 16:37
+@rivise - Rivise - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-8 circle
+    20-9 _Johnny2025_
+
+
+LT2 Fights:
+
+    18-20 Phesonor 
+    8-20 Axelili
+
+ 
+marks
+ — 
+26/11/2025, 21:29
+@nova - nqva - Failed LT2
+ 
+HT3 Fights:
+
+     20-14 Flowtives
+     14-20 Enderguy314
+
+ 
+NA | Nighteries
+ — 
+28/11/2025, 00:47
+@olfd - olfd - Promoted to HT3
+ 
+HT3 Fights:
+
+     20-9 Hellsinky
+     14-20 Mubraa
+
+ 
+marks
+ — 
+28/11/2025, 22:11
+@EU | _Hamogus - Hamogus_ - Failed LT2
+ 
+HT3 Fights:
+
+     13-20 Paulinhq
+     20-14 ItzNevoy
+
+awobabob
+ — 
+29/11/2025, 20:37
+@error  - Error455 - Failed LT2
+
+     
+    HT3 Fights:
+     20-19 ItzNevoy
+     20-15 awobbuffet
+
+ 
+NA | Nighteries
+ — 
+01/12/2025, 03:39
+@flowtives - Flowtives - Failed LT2
+
+    HT3 Fights:
+    20-19 Sylveaun
+    14-20 Enderguy314
+
+ 
+NA | Nighteries
+ — 
+02/12/2025, 01:02
+@intellc - Intellc - Failed LT2
+
+    HT3 Fights:
+     15-20 Enderguy314
+
+Forfeit other fight
+
+Demoted to LT3 
+The lil E
+ — 
+02/12/2025, 23:55
+@Klassy02 - Klassy02 - Promoted to High Tier 2
+
+HT3 Fights:
+
+    20-8 _Hamogus
+    20-13 GoatedWarrior
+
+
+LT2 Fights:
+
+    20-5 SillyBirbRay
+    20-8 ninorc15
+
+
+HT2 Fights:
+
+    20-5 Pillarger (EU)
+    17-20 Pillarger (NA)
+
+(37-25/20-8 final score)
+
+    6-20 Perspective1 (NA)
+    20-10 Perspective1 (EU)
+
+(26-30/16-20 final score)
+
+(36-28 in total)
+
+@High Results
+NicL #SSilkieForReg
+ — 
+03/12/2025, 04:45
+@chqxn - DihTickleMonster Failed Low Tier 2
+
+HT3 Fights:
+
+    20-19 Sylveaun 
+    20-10 Newtronn
+
+
+LT2 Fights:
+
+    19-20 Mr_EpicGamer
+    11-20 Zynn
+
+cozmox
+ — 
+06/12/2025, 20:33
+@NA | Nighteries - Nighteries - Failed High Tier 2
+
+HT2 Fights:
+
+    15-20 Pillarger
+
+
+@High Results
+The big P
+ — 
+07/12/2025, 17:00
+@awobabob  - awobbuffet - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-16 ShieldCracker
+    12-20 v7try
+
+ 
+The big P
+ — 
+08/12/2025, 16:26
+@xmas v7try  - v7try - Failed Low Tier 2
+
+HT3 Fights:
+
+    9-20 awobbuffet
+    20-17 FestiveIbra
+
+ 
+marks
+ — 
+08/12/2025, 18:21
+@Bqlsum - TrueLoyalty - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-17 ItzNevoy
+    20-4 awobbuffet
+
+
+LT2 Fights:
+
+    15-20 BlessedByChrist (RayCM)
+
+awobabob
+ — 
+09/12/2025, 22:06
+@ninorc15 - ninorc15 - Failed High Tier 2
+
+LT2 Fights
+
+    20-12 MrMarker
+    14-20 Zynn
+
+@Marker - MrMarker - Demoted to HT3
+(Exceeded Strike Limit, -1/40)
+cozmox
+ — 
+09/12/2025, 23:55
+@High Results
+awobabob
+ — 
+10/12/2025, 15:04
+@Duotage - Duotage - Promoted to HT3
+
+HT3 Fights:
+
+    20-9 awobbuffet (Equal MS)
+
+ 
+nex | LOA
+ — 
+11/12/2025, 05:15
+@GoatedWarrior - GoatedWarrior - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-14 Janekv
+    10-20 Paulinhq (10-17 FF) (Left discord)
+
+marks
+ — 
+11/12/2025, 20:07
+@sztywniutki777  - _kizownik - Promoted to HT3
+ 
+HT3 Fights:
+
+     20-13 ItzNevoy
+
+
+Testing for LT2 
+JohnnySuki_ | Inactive
+ — 
+12/12/2025, 14:57
+@AS | Kansas2g (MCPVP ONLY) - Kansas2g - Promoted to High Tier 3
+
+HT3 Fights:
+
+    20-16 _Johnny2025_
+
+ 
+JohnnySuki_ | Inactive
+ — 
+13/12/2025, 18:08
+@sztywniutki777  - _kizownik - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-13 ItzNevoy
+    20-7 TrueLoyalty
+
+
+LT2 Fights:
+
+    20-18 BlessedByChrist
+    17-20 ninorc15 (ff at 17-8)
+
+
+@High Results
+marks
+ — 
+14/12/2025, 14:23
+@Nevoy - ItzNevoy - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-4 awobbuffet
+    20-19 Paulinhq 
+
+
+LT2 Fights:
+
+    20-5 BlessedByChrist (10-5 Prior to being DQ)
+    16-20 ninorc15 (16-17 Prior to FF)
+
+
+@High Results
+marks
+ — 
+14/12/2025, 15:18
+@Airo - Airokun - Failed Low Tier 2
+
+HT3 Fights:
+
+    14-20 TrueLoyalty
+    20-16 awobbuffet
+
+ 
+awobabob
+ — 
+14/12/2025, 16:46
+@Paulinhq | add to ht3/lt2 - Paulinhq - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-6 Owkp_
+    20-19 TrueLoyalty 
+
+
+LT2 Fight:
+
+    11-20 BlessedByChrist
+
+awobabob
+ — 
+14/12/2025, 21:15
+@Shield - Shieldcracker - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-8 awobbuffet
+    20-11 FestiveIbra
+
+
+LT2 Fight:
+
+    10-20 ItzNevoy
+
+⁠
+nex | LOA
+ — 
+14/12/2025, 22:11
+@Zynn - Zynn - Failed High Tier 2
+
+LT2 Fights
+
+    20-17 Mr_EpicGamer
+    18-20 ninorc15
+
+nex | LOA
+ — 
+15/12/2025, 05:10
+@SA | Shoyorty - Shoyorty - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-13 HellSinKy
+    20-15 6Siete
+
+
+LT2 Fight:
+
+    4-20 Meteorinto
+
+Doggq
+ — 
+16/12/2025, 19:32
+@hob - Hobinator - Failed Low Tier 2
+
+HT3 Fights:
+
+    12-20 TrueLoyalty
+    20-15 Owkp_
+
+marks
+ — 
+16/12/2025, 20:25
+@dclfin - dclfin - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-7 awobbuffet
+    20-18 TrueLoyalty
+
+
+LT2 Fights:
+
+    20-18 Ninorc15 
+    17-20 ItzNevoy 
+
+
+@High Results 
+SHADOWCLOAK
+ — 
+16/12/2025, 23:59
+@kqwod - kqwod - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-10 Newtronn
+    18-20 Enderguy314
+
+awobabob
+ — 
+17/12/2025, 11:01
+@knqckback  - knqckback - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-13 awobbuffet
+    5-20 Redyzon
+
+ 
+SHADOWCLOAK
+ — 
+17/12/2025, 16:04
+@chloe - sycosia - Unretired at HT3
+
+HT3 Fights:
+
+    20-13 chqxn
+    20-16 Sylveaun
+
+ 
+marks
+ — 
+17/12/2025, 20:09
+@REDY - Redyzon - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-5 knqckback
+    20-6 crepina
+    20-9 awobbuffet
+    20-9 Shieldcracker 
+
+
+LT2 Fights:
+
+    20-18 Zynn
+
+
+@High Results
+awobabob
+ — 
+17/12/2025, 21:30
+@Ibra - FestiveIbra - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-12 Shieldcracker
+    20-16 awobbuffet
+
+
+LT2 Fight:
+
+    9-20 Redyzon
+
+Doggq
+ — 
+18/12/2025, 02:13
+@z - zzbtt - Promoted to HT3
+
+Passed Evaluation
+
+HT3 Fights:
+
+    17-20 HellSinKy (ff at 17-16)
+
+awobabob
+ — 
+19/12/2025, 19:30
+@Prince Lock IV of England - Enlock - Failed Low Tier 2
+
+HT3 Fights:
+
+    19-20 Hobinator
+
+The lil E
+ — 
+19/12/2025, 20:49
+@knqckback - knqckback - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    20-14 Shieldcracker
+    20-13 awobbuffet
+
+
+LT2 Fights:
+
+    19-20 Phenesor
+    19-20 Redyzon
+
+ 
+@High Results
+JohnnySuki_ | Inactive
+ — 
+20/12/2025, 10:56
+@fbswr - fbswr - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-11 _Johnny2025_
+    20-11 oDaksh
+⁠
+The lil E
+ — 
+21/12/2025, 03:34
+@Enderguy314 - Enderguy314 - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-13 Chqxn
+    20-7 FreekeeFang
+
+
+LT2 Fights:
+
+    20-16 Zynn
+    13-20 Mr_EpicGamer
+
+ 
+NA | Nighteries
+ — 
+21/12/2025, 05:10
+@ADD TO LT2 - C0rzz - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-19 SinonIZspooky
+    20-16 kqwod
+
+ 
+NA | Nighteries
+ — 
+21/12/2025, 16:36
+@Herow - Herow_ - Failed Low Tier 2
+
+HT3 Fights:
+
+    20-13 Hobinator
+    9-20 AiroKun
+
+NightmareCombat
+ — 
+22/12/2025, 20:31
+@smite - 1Smite - Unretired at High Tier 3
+
+HT3 Fights:
+
+    20-9 awobbuffet
+    16-20 NightmareCombat
+
+
+@High Results
+nex | LOA
+ — 
+23/12/2025, 03:25
+@FriendlyDog  - Cronecrafter - Failed Low Tier 2
+
+HT3 Fights:
+
+    10-20 kqwod 
+    17-20 SinonIZSpooky
+
+NicL #SSilkieForReg
+ — 
+25/12/2025, 06:08
+@NEWTRON - Newtronn - Failed Low Tier 2
+
+HT3 Fights:
+
+    16-20 ImSinon
+
+nex | LOA
+ — 
+26/12/2025, 21:37
+@Wenzy - 1Wenzy - Failed Low Tier 2
+
+HT3 Fights:
+
+    7-20 TrueLoyalty
+    17-20 NightmareCombat
+
+ 
+Marlow
+ — 
+27/12/2025, 21:52
+@Perspective1 - Perspective1 - Promoted to Low Tier 1
+
+LT1 Fights:
+
+    40-24 Marlowww
+
+
+HT2 Fights:
+
+    20-8 Pillarger
+    34-23 Klassy02
+
+NA | Nighteries
+ — 
+27/12/2025, 22:09
+@High Results
+nex | LOA
+ — 
+29/12/2025, 02:26
+@MrEpicGamer - Mr_EpicGamer - Failed High Tier 2
+
+LT2 Fights
+
+    20-5 Nighteries
+    20-11 Itznevoy
+
+
+HT2 Fights:
+
+    32-32 Klassy02 (Cross Region)
+    10-20 Pillarger
+
+The lil E
+ — 
+29/12/2025, 04:17
+@Shadow - ShadowZeuss - Has Unretired at High Tier 2
+
+HT2 Fights:
+
+    20-18 Pillarger
+    18-20 Klassy02
+
+LT2 Fights:
+
+    20-19 Mr_EpicGamer
+    20-9 Zynn
+
+
+HT3 Fights:
+
+    20-9 Enderguy314
+    20-15 SinonZSpooky
+
+NicL #SSilkieForReg
+ — 
+29/12/2025, 15:33
+@janek - janekv - Promoted to Low Tier 2
+
+LT2 Fights:
+
+    20-13 ItzNevoy
+    20-11 Knqckback
+
+
+HT3 Fights:
+
+    20-7 Owkp_
+    20-10 Hobinator
+
+NicL #SSilkieForReg
+ — 
+29/12/2025, 17:25
+@InsaneI - InsaneI - Promoted to Low Tier 2
+
+LT2 Fights:
+
+    20-9 Knqckback
+    20-15 ItzNevoy
+
+
+HT3 Fights:
+
+    20-9 Hobinator
+    20-9 paulinhq
