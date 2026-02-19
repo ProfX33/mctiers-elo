@@ -985,7 +985,7 @@ RobTop
 RobTop
  — 
 22/02/2023, 04:20
-@MrEpicGamer - Mr_EpicGamer - has failed purge test
+@MrEpicGamer - MrEpicGamer - has failed purge test
 4-18 Limited
 
 abandonedacccc
@@ -1091,13 +1091,13 @@ Deleted User
  — 
 03/03/2023, 22:10
 @Deleted User -BlvckWlf- remains ht3!
-20-17 smite__
+20-17 1smite
 
 Deleted User
  — 
 03/03/2023, 22:46
 @szcur -BestOfLubelskie- has failed their retest for ht3 and demoted to lt3
-14-20 smite__
+14-20 1smite
 
 claude
  — 
@@ -1114,13 +1114,13 @@ Deleted User
  — 
 05/03/2023, 16:13
 @Deleted User -yMiau- has failed their test for ht3 and demoted to lt5!
-1-7 smite__
+1-7 1smite
 
 Deleted User
  — 
 05/03/2023, 16:33
 @Christakhs📐📯 -Christakhs- has failed their test for ht3 and demoted to ht5!
-2-20 smite__
+2-20 1smite
 
 ray ray
  — 
@@ -1137,7 +1137,7 @@ EU | SharkBiteGR
  — 
 07/03/2023, 20:39
 @Deleted User -Tryhis- had failed High Tier 3 Test!
-10-18 InsaneEye
+10-18 InsaneI
 Critical <3
  — 
 07/03/2023, 23:56
@@ -1171,7 +1171,7 @@ Deleted User
  — 
 10/03/2023, 23:07
 @owen -Viminade- has failed their retest for ht3
-13-20 smite__
+13-20 1smite
 
 ray ray
  — 
@@ -1198,7 +1198,7 @@ ray ray
  — 
 13/03/2023, 00:53
 EU BRACKET
-InsaneI 20-13 smite__
+InsaneI 20-13 1smite
 
 ray ray
  — 
@@ -1238,9 +1238,9 @@ ray ray
  — 
 18/03/2023, 20:25
 EU BRACKET
-Aerotake 20-6 smite__
+Aerotake 20-6 1smite
 EU BRACKET
-akaMSP 20-9 smite__
+akaMSP 20-9 1smite
 ray ray
  — 
 18/03/2023, 22:41
@@ -1250,7 +1250,7 @@ Aerotake - LT2
 akaMSP - HT3
 Tylerrrrs - HT3
 BlvckWlf - HT3
-smite__ - HT3
+1smite - HT3
 mamalonI - removed
 coldi - removed
 
@@ -1369,7 +1369,7 @@ Tiny
 claude
  — 
 10/04/2023, 17:23
-@EU | ScftRunsOblock -scftdrexmz3- has failed their HT3 test!
+@EU | scftdrexmz2 -scftdrexmz3- has failed their HT3 test!
 4-18 Aerotake
 
 Deleted User
@@ -1489,7 +1489,7 @@ Deleted User
 Demonic
  — 
 28/04/2023, 06:39
-@MrEpicGamer - Mr_EpicGamer - Has tested for High Tier 3
+@MrEpicGamer - MrEpicGamer - Has tested for High Tier 3
 18-20 Dynomic
 
 Demonic
@@ -1824,7 +1824,7 @@ Deleted User
 chloe
  — 
 16/07/2023, 07:45
-@MrEpicGamer -Mr_EpicGamer- has failed their Tier 2 test
+@MrEpicGamer -MrEpicGamer- has failed their Tier 2 test
 20-18 mistled_
 12-20 Zongdu
 
@@ -1834,14 +1834,14 @@ Deleted User
 @Dudys -Dudys- has failed their High Tier 3 test and remains Low Tier 3.
 
 HT3 Fights
-9-18 Mr_EpicGamer 
+9-18 MrEpicGamer 
 Deleted User
  — 
 17/07/2023, 03:21
 @Deleted User -Phantic- has failed their High Tier 3 test and remains Low Tier 3.
 
 HT3 Fights
-10-18 Mr_EpicGamer
+10-18 MrEpicGamer
 
 Deleted User
  — 
@@ -1849,13 +1849,13 @@ Deleted User
 @itsybitsyy -gwanda- has tested for High Tier 3. 
 
 HT3 Fights
-18-15 Mr_EpicGamer
+18-15 MrEpicGamer
 Papita
  — 
 17/07/2023, 19:18
 @Demonic -Dynomic- has unretired but unfortunately failed his HT3 test and been placed at T3
 
-12-18 Mr_EpicGamer
+12-18 MrEpicGamer
 
 Deleted User
  — 
@@ -1874,7 +1874,7 @@ Deleted User
 @Deleted User -N3ghtLight- has failed High Tier 3 test and remains Low Tier 3. 
 
 HT3 Fights
-7-18 Mr_EpicGamer 
+7-18 MrEpicGamer 
 Deleted User
  — 
 20/07/2023, 22:31
@@ -1886,7 +1886,7 @@ chloe
  — 
 24/07/2023, 01:25
 @Mreee -Stooky- has tested for Tier 2
-20-4 Mr_EpicGamer
+20-4 MrEpicGamer
 17-20 mistled_
 20-5 sycosia
 
@@ -2011,7 +2011,7 @@ Deleted User
 @Deleted User -yMiau- has tested for High Tier 3.
 
 HT3 Fights
-16-18 Mr_EpicGamer
+16-18 MrEpicGamer
 
 Deleted User
  — 
@@ -2117,7 +2117,7 @@ Deleted User
 @Toast -Toasteryy- has tested for High Tier 3
 
 HT3 Fights
-18-4 Mr_EpicGamer
+18-4 MrEpicGamer
 
 Deleted User
  — 
@@ -2126,7 +2126,7 @@ Deleted User
 
 HT3 Fights
 
-    6-18 Mr_EpicGamer
+    6-18 MrEpicGamer
 
 chloe
  — 
@@ -2135,7 +2135,7 @@ chloe
 
 HT3 Fights
 
-    15-18 Mr_EpicGamer
+    15-18 MrEpicGamer
 
  
 RobTop
@@ -2157,8 +2157,8 @@ Papita
 16/08/2023, 19:25
 @tyler -Tylersvibin- failed his Tier 2 test.
 
-8-10 Mr_EpicGamer
-10-6 Mr_EpicGamer
+8-10 MrEpicGamer
+10-6 MrEpicGamer
 
 p3 ★
  — 
@@ -2171,7 +2171,7 @@ p3 ★
 chloe
  — 
 21/08/2023, 00:24
-@MrEpicGamer -Mr_EpicGamer- has failed Tier 2 test
+@MrEpicGamer -MrEpicGamer- has failed Tier 2 test
 
 LT2 Fights
 
@@ -2190,7 +2190,7 @@ Deleted User
 HT3 Fights
 
     18-8 Cyclodrone
-    12-18 Mr_EpicGamer
+    12-18 MrEpicGamer
 
 Deleted User
  — 
@@ -2200,7 +2200,7 @@ Deleted User
 HT3 Fights
 
     18-10 Cyclodrone 
-    11-18 Mr_EpicGamer
+    11-18 MrEpicGamer
 
 Deleted User
  — 
@@ -2210,7 +2210,7 @@ Deleted User
 HT3 Fights
 
     18-13 Frivolos
-    10-18 Mr_EpicGamer
+    10-18 MrEpicGamer
 
 Critical <3
  — 
@@ -2277,7 +2277,7 @@ Deleted User
 
 HT3 Fights
 
-    18-13 Mr_EpicGamer
+    18-13 MrEpicGamer
     18-1 TheBoogieBoy
     18-7 Cyclodrone
     18-12 Frivolos
@@ -2298,7 +2298,7 @@ T2 FIGHT
 Deleted User
  — 
 29/08/2023, 02:01
-@MrEpicGamer -Mr_EpicGamer- has tested for Tier 2. 
+@MrEpicGamer -MrEpicGamer- has tested for Tier 2. 
 
 HT3 Fights
 
@@ -2322,7 +2322,7 @@ LT2 Fights
 10-3 Phesonor
 
 HT3 Fights
-18-12 Mr_EpicGamer
+18-12 MrEpicGamer
 18-12 Orbitorn
 18-7 Cyclodrone 
 Deleted User
@@ -2342,7 +2342,7 @@ HT3 Fights
 Deleted User
  — 
 30/08/2023, 23:02
-@Capfory has failed High Tier 2 test and remains Low Tier 2.
+@Capfory - Capfory - has failed High Tier 2 test and remains Low Tier 2.
 
 HT2 Fights
 
@@ -2462,8 +2462,8 @@ HT3 Fights
 
 
 LT2 Fights
-8-12 Mr_EpicGamer
-15-6 Mr_EpicGamer
+8-12 MrEpicGamer
+15-6 MrEpicGamer
 
 Critical <3
  — 
@@ -2524,7 +2524,7 @@ Mr_360_
 14/09/2023, 05:09
 @SilverIsMe -SilverIsMe- has tested for High Tier 3
 
-SilverIsMe 13-18 Mr_EpicGamer
+SilverIsMe 13-18 MrEpicGamer
 
 Deleted User
  — 
@@ -2594,7 +2594,7 @@ Deleted User
 
 T2 Fights
 
-    17-20 Mr_EpicGamer
+    17-20 MrEpicGamer
 
 
     9-10 Phesonor
@@ -2646,7 +2646,7 @@ HT3 Fights
 
 LT2 Fights
 
-14-20 Mr_EpicGamer
+14-20 MrEpicGamer
 
 Deleted User
  — 
@@ -2669,8 +2669,8 @@ HT3 FIGHTS
 
 T2 FIGHT
 
-10-0 Mr_EpicGamer
-2-10 Mr_EpicGamer
+10-0 MrEpicGamer
+2-10 MrEpicGamer
 
 Deleted User
  — 
@@ -2741,7 +2741,7 @@ Deleted User
 LT2 Fights
 
     20-15 sycosia
-    20-19 Mr_EpicGamer
+    20-19 MrEpicGamer
 
 
 HT3 Fights
@@ -2757,8 +2757,8 @@ HT3 fight
 18-7 Korokk
 
 T2 fights. 
-10-4 Mr_EpicGamer
-4-10 Mr_EpicGamer
+10-4 MrEpicGamer
+4-10 MrEpicGamer
 
 18-20 Phesonor
 
@@ -3136,11 +3136,11 @@ https://brackethq.com/b/v6nrb/
 chloe
  — 
 22/11/2023, 02:12
-@MrEpicGamer -Mr_EpicGamer- has tested for HT3
+@MrEpicGamer -MrEpicGamer- has tested for HT3
 
 HT3 Fights
 
-    Mr_EpicGamer 15-18 Pillarger
+    MrEpicGamer 15-18 Pillarger
 
 withered
  — 
@@ -3157,7 +3157,7 @@ Deleted User
 
 Purge Fights
 
-    11-18 Mr_EpicGamer
+    11-18 MrEpicGamer
 
 MrEpicGamer
  — 
@@ -3166,7 +3166,7 @@ MrEpicGamer
 
 Purge Fights
 
-    8-18 Mr_EpicGamer
+    8-18 MrEpicGamer
 
 Deleted User
  — 
@@ -3213,7 +3213,7 @@ chloe
 HT3 Fights
 
     20-13 sycosia
-    13-20 Mr_EpicGamer
+    13-20 MrEpicGamer
 
  
 Immaculately
@@ -3230,7 +3230,7 @@ Deleted User
 
 Purge Fights
 
-7-18 Mr_EpicGamer
+7-18 MrEpicGamer
 
 Deleted User
  — 
@@ -3300,8 +3300,8 @@ chloe
 
 HT3 Fights
 
-    20-8 Mr_EpicGamer
-    15-20 Mr_EpicGamer
+    20-8 MrEpicGamer
+    15-20 MrEpicGamer
 
 chloe
  — 
@@ -3320,7 +3320,7 @@ chloe
 
 HT3 Fights
 
-    20-12 Mr_EpicGamer
+    20-12 MrEpicGamer
 
 
 LT2 Fights
@@ -3367,7 +3367,7 @@ HT2 Fights
 chloe
  — 
 20/12/2023, 23:40
-@MrEpicGamer -Mr_EpicGamer- has failed LT2 test
+@MrEpicGamer -MrEpicGamer- has failed LT2 test
 
 HT3 Fights
 
@@ -3395,7 +3395,7 @@ NA | WhatiswrongwithYe
 
 HT3 FIGHTS
 
-    rvk 100-69 Mr_EpicGamer
+    rvk 100-69 MrEpicGamer
 
 
 LT2 FIGHTS
@@ -3410,7 +3410,7 @@ chloe
 
 HT3 Fights
 
-    Pillarger 20-10 Mr_EpicGamer
+    Pillarger 20-10 MrEpicGamer
 
 
 LT2 Fights
@@ -3434,7 +3434,7 @@ MrEpicGamer
 
 HT3 Fights
 
-    Marloww 18-20 Mr_EpicGamer
+    Marloww 18-20 MrEpicGamer
 
 chloe
  — 
@@ -4652,7 +4652,7 @@ LT2 Fights:
 Marker
  — 
 21/04/2024, 22:08
-@MrEpicGamer - Mr_EpicGamer - unretired and placed at LT2
+@MrEpicGamer - MrEpicGamer - unretired and placed at LT2
 
 HT3 Fights:
 
@@ -4785,8 +4785,8 @@ HT3 Fights:
 LT2 Fights: 
 
     20-16 Phesonor
-    2-20 Mr_EpicGamer
-    20-4 Mr_EpicGamer
+    2-20 MrEpicGamer
+    20-4 MrEpicGamer
 
 Marker
  — 
@@ -5924,7 +5924,7 @@ HT3 Fights:
 hob
  — 
 28/09/2024, 18:33
-@EU | ScftRunsOblock  - Scftdrexmz2 - promoted to HT3
+@EU | scftdrexmz2  - Scftdrexmz2 - promoted to HT3
 
 
 
@@ -5950,7 +5950,7 @@ Testing for LT2
 hob
  — 
 06/10/2024, 12:56
-@EU | ScftRunsOblock  - scftdrexmz2 - promoted to LT2
+@EU scftdrexmz2  - scftdrexmz2 - promoted to LT2
 
 HT3 Fights:
 
@@ -6367,12 +6367,12 @@ Marker
  — 
 23/11/2024, 18:46
 NA LT2+ Tourney
-Mr_EpicGamer 20-16 Pillarger
+MrEpicGamer 20-16 Pillarger
 hob
  — 
 23/11/2024, 19:54
 NA LT2+ Tourney
-Rainarok 20-9 Mr_EpicGamer
+Rainarok 20-9 MrEpicGamer
 pil
  — 
 23/11/2024, 20:04
@@ -6382,12 +6382,12 @@ chqxn
  — 
 23/11/2024, 21:18
 NA LT2+ Tourney
-Mr_EpicGamer 20-17 Catalyy 
+MrEpicGamer 20-17 Catalyy 
 Marker
  — 
 24/11/2024, 04:02
 NA LT2+ Tourney
-Skyemia 20-12 Mr_EpicGamer
+Skyemia 20-12 MrEpicGamer
 frivos
  — 
 24/11/2024, 04:47
@@ -6403,12 +6403,12 @@ frivos
  — 
 24/11/2024, 05:18
 NA LT2+ Tourney
-Mr_EpicGamer 20-13 mistled_ 
+MrEpicGamer 20-13 mistled_ 
 frivos
  — 
 24/11/2024, 05:38
 NA LT2+ Tourney
-JackerAcid 20-14 Mr_EpicGamer
+JackerAcid 20-14 MrEpicGamer
 frivos
  — 
 24/11/2024, 05:54
@@ -6420,12 +6420,12 @@ ItsCure
  — 
 24/11/2024, 06:15
 NA LT2+ Tourney
-Mr_EpicGamer 20-14 supersuperpig
+MrEpicGamer 20-14 supersuperpig
 kqwod
  — 
 24/11/2024, 06:29
 NA LT2+ Tourney
-Swight 20-12 Mr_EpicGamer
+Swight 20-12 MrEpicGamer
 chqxn
  — 
 24/11/2024, 06:32
@@ -6492,7 +6492,7 @@ ItsCure
  — 
 25/11/2024, 01:12
 NA LT2+ Tourney
-Mr_EpicGamer 10-20 TemuTyke
+MrEpicGamer 10-20 TemuTyke
 Cyclodrone
  — 
 25/11/2024, 04:27
@@ -6545,7 +6545,7 @@ Marker
  — 
 28/11/2024, 00:34
 NA LT2+ Tourney
-Mr_EpicGamer 20-14 Zongdu
+MrEpicGamer 20-14 Zongdu
 Marker
  — 
 28/11/2024, 00:43
@@ -6826,8 +6826,8 @@ HT3 Fights:
 
 LT2 Fight:
 
-    2-20 Mr_EpicGamer
-    20-16 Mr_EpicGamer
+    2-20 MrEpicGamer
+    20-16 MrEpicGamer
 
 Newtron
  — 
@@ -6841,7 +6841,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    7-20 Mr_EpicGamer
+    7-20 MrEpicGamer
 
 MrEpicGamer
  — 
@@ -6855,7 +6855,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    13-20 Mr_EpicGamer
+    13-20 MrEpicGamer
 
 Marker
  — 
@@ -7011,7 +7011,7 @@ HT3 Fight:
 
 LT2 Fights:
 
-    20-15 Mr_EpicGamer
+    20-15 MrEpicGamer
     16-20 Pillarger
 
 Shambo
@@ -7070,7 +7070,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    20-11 Mr_EpicGamer
+    20-11 MrEpicGamer
     20-13 Perspective1
 
 Testing for HT2
@@ -7086,7 +7086,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    20-11 Mr_EpicGamer
+    20-11 MrEpicGamer
     20-13 Perspective1
 
 
@@ -8325,14 +8325,11 @@ HT3 Fights:
 
     20-13 Kittycatchant
 
-
-Testing for LT2 
 Deleted User
  — 
 26/02/2025, 17:03
-@cxctxs - cxctxs has been PROMOTED to HT3!
+@cxctxs - cxctxs - has been PROMOTED to HT3!
 
-.
 
 HT3 Fight
 
@@ -9118,7 +9115,7 @@ HT3 Fights:
 Newtron
  — 
 08/05/2025, 04:01
-@MrEpicGamer - Mr_EpicGamer - Unretired at LT2
+@MrEpicGamer - MrEpicGamer - Unretired at LT2
 
 HT3 Fights:
 
@@ -9138,7 +9135,7 @@ Immaculately
 hob
  — 
 09/05/2025, 23:47
-@MrEpicGamer - Mr_EpicGamer - Failed HT2
+@MrEpicGamer - MrEpicGamer - Failed HT2
 
 HT3 Fights:
 
@@ -9236,8 +9233,8 @@ HT3 Fights:
 
 LT2 Fights:
 
-    12-20 Mr_Epicgamer (NA)
-    20-15 Mr_Epicgamer (SA)
+    12-20 MrEpicGamer (NA)
+    20-15 MrEpicGamer (SA)
 
     8-20 TooDrew (NA)
     20-8 TooDrew (SA)
@@ -9256,8 +9253,8 @@ HT3 Fights:
 LT2 Fights:
 
     20-7 akaMSP
-    20-10  Mr_EpicGamer [NA]
-    20-6 Mr_EpicGamer [EU]
+    20-10  MrEpicGamer [NA]
+    20-6 MrEpicGamer [EU]
 
 
 Testing for HT2
@@ -9288,8 +9285,8 @@ HT3 Fights:
 LT2 Fights:
 
     20-7 akaMSP
-    20-10  Mr_EpicGamer [NA]
-    20-6 Mr_EpicGamer [EU]
+    20-10  MrEpicGamer [NA]
+    20-6 MrEpicGamer [EU]
 
 
 HT2 Fights:
@@ -9313,8 +9310,8 @@ HT3 Fights:
 LT2 Fights:
 
     20-7 akaMSP
-    20-10 Mr_EpicGamer [NA]
-    20-6 Mr_EpicGamer [EU]
+    20-10 MrEpicGamer [NA]
+    20-6 MrEpicGamer [EU]
 
 
 HT2 Fights:
@@ -9334,7 +9331,7 @@ redz
 
 LT2 Fights
 
-    18-20 Mr_EpicGamer
+    18-20 MrEpicGamer
 
  
 p3 ★
@@ -9359,8 +9356,8 @@ HT3 Fights:
 LT2 Fights:
 
     20-9 akaMSP
-    20-14  Mr_EpicGamer [NA]
-    20-7 Mr_EpicGamer [EU]
+    20-14  MrEpicGamer [NA]
+    20-7 MrEpicGamer [EU]
 
 lallalal
  — 
@@ -9376,8 +9373,8 @@ HT3 Fights:
 LT2 Fights:
 
     20-9 akaMSP
-    20-14  Mr_EpicGamer [NA]
-    20-7 Mr_EpicGamer [EU]
+    20-14  MrEpicGamer [NA]
+    20-7 MrEpicGamer [EU]
 
 
 
@@ -9399,8 +9396,8 @@ HT3 Fights:
 LT2 Fights:
 
     20-14 akaMSP
-    14-20 Mr_EpicGamer [NA]
-    20-11 Mr_EpicGamer [EU]
+    14-20 MrEpicGamer [NA]
+    20-11 MrEpicGamer [EU]
 
 old
  — 
@@ -10320,10 +10317,6 @@ HT3 Fights:
 
     19-20 JsPxter
 
-smite
- — 
-10/07/2025, 00:15
-Invalidated (Newtron has to pass retest but congrats to him for his performance)
 Newtron
  — 
 10/07/2025, 01:25
@@ -10401,7 +10394,7 @@ HT3 Fights:
 Deleted User
  — 
 16/07/2025, 20:01
-@ItzNevoy - ItzNevoy has FAILED their LT2 Test.
+@ItzNevoy - ItzNevoy - has FAILED their LT2 Test.
 
 HT3 Fights:
 
@@ -10411,7 +10404,7 @@ HT3 Fights:
 Deleted User
  — 
 17/07/2025, 16:28
-@Liebe - freakyberk has UNRETIRED at High Tier 3.
+@Liebe - freakyberk - has UNRETIRED at High Tier 3.
 
 HT3 Fight:
 
@@ -10531,7 +10524,7 @@ HT3 Fights
 Demmy
  — 
 30/07/2025, 13:36
-@MrEpicGamer - Mr_EpicGamer - has UNRETIRED at High Tier 3.
+@MrEpicGamer - MrEpicGamer - has UNRETIRED at High Tier 3.
 
 HT3 Fights:
 
@@ -10676,7 +10669,7 @@ smite
 
 HT3 Fights:
 
-    20-14 Mr_EpicGamer
+    20-14 MrEpicGamer
     20-11 Newtronn
 
 
@@ -10687,7 +10680,7 @@ LT2 Fights:
 Kebpa
  — 
 14/08/2025, 19:11
-@Deleted User  - Herow_ has FAILED Their Low Tier 2 Test.
+@Deleted User  - Herow_ - has FAILED Their Low Tier 2 Test.
 
 HT3 Fight:
 
@@ -10706,7 +10699,7 @@ Testing for LT2
 Kebpa
  — 
 15/08/2025, 16:47
-@akaMSP  - akaMSP has FAILED Their Low Tier 2 Test.
+@akaMSP  - akaMSP - has FAILED Their Low Tier 2 Test.
 
 HT3 Fight:
 
@@ -10717,7 +10710,7 @@ HT3 Fight:
 Kebpa
  — 
 15/08/2025, 18:24
-@hob   - Hobinator has FAILED Their Low Tier 2 Test.
+@hob   - Hobinator - has FAILED Their Low Tier 2 Test.
 
 HT3 Fight:
 
@@ -10742,7 +10735,7 @@ LT2 Fights:
 kqwod
  — 
 17/08/2025, 19:01
-@respect.   - Respect5595  has FAILED Their High Tier 2 Test.
+@respect.   - Respect5595 - has FAILED Their High Tier 2 Test.
 
 LT2 Fights:
 19-20 Shadowzeuss
@@ -10753,7 +10746,7 @@ hob
 
 HT3 Fights:
 
-    20-17 Mr_EpicGamer
+    20-17 MrEpicGamer
 
 
 Demmy
@@ -10780,7 +10773,7 @@ LT2 Fights:
 smite
  — 
 20/08/2025, 21:30
-@Prayl - Tryhys has Failed Their Low Tier 2 Test.
+@Prayl - Tryhys - has Failed Their Low Tier 2 Test.
 
 HT3 Fights
 
@@ -10864,7 +10857,7 @@ can test for LT2 at anytime
 hob
  — 
 26/08/2025, 15:50
-@Abel Makkonen Tesfaye - IGlazeAximity has failed Low Tier 2
+@Abel Makkonen Tesfaye - IGlazeAximity - has failed Low Tier 2
 
 HT3 Fights:
  20-10 _Z3E
@@ -10875,7 +10868,7 @@ HT3 Fights:
 hob
  — 
 27/08/2025, 18:59
-@ItzNevoy - ItzNevoy has failed Low Tier 2
+@ItzNevoy - ItzNevoy - has failed Low Tier 2
 
 HT3 Fights:
 
@@ -10884,7 +10877,7 @@ HT3 Fights:
 hob
  — 
 27/08/2025, 21:17
-@JohnnySuki_ - _Johnny2025_ has failed Low Tier 2
+@JohnnySuki_ - _Johnny2025_ - has failed Low Tier 2
 
 HT3 Fights:
 
@@ -10898,7 +10891,7 @@ MrEpicGamer
 
 HT3 Fights:
 
-    12-20 Mr_EpicGamer
+    12-20 MrEpicGamer
 
 
 CR | Sno
@@ -10974,7 +10967,7 @@ HT3 Fights:
 Kebpa
  — 
 29/08/2025, 13:14
-@dclfin  - Dclfin has failed Low Tier 2
+@dclfin  - Dclfin - has failed Low Tier 2
 
 HT3 Fights:
 
@@ -11168,7 +11161,7 @@ HoodDihMarcus
 
 HT3 Fight:
 
-    16-20 krisplushie (ff at 16-11)
+    16-20 lilyeuro (ff at 16-11)
 
  
 HoodDihMarcus
@@ -11292,14 +11285,14 @@ HT3 Fights:
 starx3
  — 
 13/09/2025, 00:08
-@zoe   - Krisplushie - Promoted to LT2
+@zoe   - lilyeuro - Promoted to LT2
 
 
 
 HT3 Fights:
 
     20-8 desaling
-    20-13 Mr_EpicGamer
+    20-13 MrEpicGamer
 
 
 LT2 Fights:
@@ -11543,7 +11536,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    20-4 krisplushie
+    20-4 lilyeuro
     17-20 meteorinto
     6-20 meteorinto
 
@@ -11608,7 +11601,7 @@ HT3 Fights:
 NA | Amraksaw
  — 
 24/09/2025, 23:00
-Just as good as krisplushie
+Just as good as lilyeuro
 Voidzzzzz | @ for help
  — 
 25/09/2025, 01:33
@@ -12808,7 +12801,7 @@ XTki4ler
 HT3 Fights:
 
     20-9 Deskless
-    20-11 zoectf
+    20-11 lilyeuro
 
 
 LT2 Fights:
@@ -12936,11 +12929,11 @@ Bridging to LT2
 hob
  — 
 18/11/2025, 09:08
-@MrEpicGamer - Mr_EpicGamer - Unretired at LT2
+@MrEpicGamer - MrEpicGamer - Unretired at LT2
 
 HT3 Fights:
 
-    20-13 zoectf
+    20-13 lilyeuro
     20-15 WetAhhPuh
 
 
@@ -13001,7 +12994,7 @@ HT3 Fights:
 hob
  — 
 22/11/2025, 00:03
-@zoe - zoectf - Passed HT3 retest
+@zoe - lilyeuro - Passed HT3 retest
 
 HT3 Fight:
 
@@ -13035,7 +13028,7 @@ HT3 FIght:
 hob
  — 
 24/11/2025, 22:55
-@zoe - zoectf - Promoted to LT2
+@zoe - lilyeuro - Promoted to LT2
 
 HT3 Fights:
 
@@ -13045,7 +13038,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    17-20 Mr_EpicGamer
+    17-20 MrEpicGamer
     8-20 Klassy02 (EU)
     20-7 Klassy02 (NA)
 
@@ -13103,7 +13096,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    4-20 zoectf
+    4-20 lilyeuro
 
 NA | Amraksaw
  — 
@@ -13371,8 +13364,8 @@ HT3 Fights:
 
 LT2 Fights:
 
-    19-20 zoectf
-    20-18 Mr_EpicGamer
+    19-20 lilyeuro
+    20-18 MrEpicGamer
 
 
 NA | Amraksaw
@@ -13460,7 +13453,7 @@ miau
 
 LT2 Fights:
 
-    20-13 Mr_EpicGamer
+    20-13 MrEpicGamer
 
 
  
@@ -13534,7 +13527,7 @@ LT2 Fights:
 
     14-20 intellc
     20-8 intellc
-    20-15  ghunaims
+    20-15 ghunaim
 
 
 HT2 Fights:
@@ -13608,8 +13601,8 @@ dragos
 
 LT2 Fight:
 
-    19-20 Mr_EpicGamer
-    20-11 Mr_EpicGamer
+    19-20 MrEpicGamer
+    20-11 MrEpicGamer
 
 
 HT2 Fight:
@@ -13639,7 +13632,7 @@ HT3 Fight:
 dragos
  — 
 29/12/2025, 13:23
-@EU - ScftRunsOBlock - Promoted to HT3 
+@EU - scftdrexmz2 - Promoted to HT3 
 15-1 Qmalia
 
 HT3 Fight:

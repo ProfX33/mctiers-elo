@@ -1324,6 +1324,60 @@ HT3 Fights:
     4-3 Gretacheada
 
 
+Marker
+ — 
+11/02/2025, 17:49
+@khalih - KhalihMortimer - Promoted to Low Tier 1 Tournament
+4-1 Gabsless
+4-3 Captain_C08
+4-1 Incongruity
+4-0 DOOMBUGGIE
+1-4 DOOMBUGGIE
+
+Marker
+ — 
+11/02/2025, 17:49
+@aaaaaaaaaaahhhhhhhhhhhhhhh - Incongruity - Promoted to High Tier 2
+4-3 Gabsless
+4-1 Captain_C08
+1-4 KhalihMortimer
+4-0 DOOMBUGGIE
+0-4 DOOMBUGGIE
+
+Marker
+ — 
+11/02/2025, 17:49
+@g - Gabsless - Tournament
+3-4 Incongruity
+0-4 Captain_C08
+4-0 DOOMBUGGIE
+0-4 DOOMBUGGIE
+1-4 KhalihMortimer
+
+Marker
+ — 
+11/02/2025, 17:49
+@d - DOOMBUGGIE - Tournament
+4-0 Incongruity
+0-4 Incongruity
+0-4 KhalihMortimer
+4-1 KhalihMortimer
+0-4 Gabsless
+4-0 Gabsless
+4-1 Captain_C08
+0-4 Captain_C08
+
+Marker
+ — 
+11/02/2025, 17:49
+@Captain - Captain_C08 - Demoted to Low Tier 2
+3-4 KhalihMortimer
+1-4 Incongruity
+4-0 Gabsless
+4-0 DOOMBUGGIE
+1-4 DOOMBUGGIE
+
+
 Blue | ازرق | ADD to HT3 TESTS
  — 
 11/02/2025, 22:26
@@ -1484,7 +1538,7 @@ HT3 Fight:
 
 
 
-Don’t @ 4 now <3
+Don’t
  — 
 05/03/2025, 06:07
 @Swight - Swight - Failed LT2
@@ -1573,7 +1627,7 @@ HT3 Fights:
     4-1 Mytrix 
     4-1 Gretacheada
 
-Don’t @ 4 now <3
+Don’t
  — 
 16/03/2025, 03:36
 @ItzRealMe  - ItzRealMe - Failed Low Tier 2
@@ -1601,7 +1655,7 @@ HT2 Fights
 
     4-2 Incongruity
  
-Don’t @ 4 now <3
+Don’t
  — 
 16/03/2025, 20:50
 @Captain - Captain_C08 - Passed High Tier 1
@@ -1848,7 +1902,7 @@ HT3 Fights:
     4-3 FastRunner1
     0-4 6oup
 
-Don’t @ 4 now <3
+Don’t
  — 
 30/03/2025, 23:23
 @Caffeine - Gretacheada - Failed Low Tier 2
@@ -2118,7 +2172,7 @@ Mytrix
 HT3 Fights:
 
     4-2 StormDysonB
-    4-1 pppanpawal
+    4-1 pppanpawel
 
 
 LT2 Fights:
@@ -2340,7 +2394,7 @@ HT3 Fight:
     4-3 010k
 
 
-Don’t @ 4 now <3
+Don’t
  — 
 05/05/2025, 05:51
 @villagerjames - villegasjaime - Failed Low Tier 2
@@ -2547,7 +2601,7 @@ HT3 Fights:
 
     3-4 Sprucing
 
-Don’t @ 4 now <3
+Don’t
  — 
 25/05/2025, 04:11
 @Caffeine  - Gretacheada - Failed Low Tier 2
@@ -2765,7 +2819,7 @@ HT3 Fights:
     4-0 Sprucing
     1-4 6oup
 
-Don’t @ 4 now <3
+Don’t
  — 
 21/06/2025, 23:04
 @old pearls #ospree14forht2 - AlienOverdose - Promoted To Low Tier 1
@@ -2852,7 +2906,7 @@ HT3 Fights
     1-4 Gabsless
     1-4 Dohgo
 
-Don’t @ 4 now <3
+Don’t
  — 
 24/06/2025, 18:31
 @shakespear - bannaana - Promoted to High Tier 3
@@ -2971,7 +3025,7 @@ LT2 Fights:
 
     1-4 Gretacheada
 
-Don’t @ 4 now <3
+Don’t
  — 
 06/07/2025, 00:52
 @doorbleboat  - doorblesito - Unretired and Placed at High Tier 3
@@ -3062,7 +3116,7 @@ LT2 Fights:
 
 
 
-Don’t @ 4 now <3
+Don’t
  — 
 14/07/2025, 01:13
 @Caffeine - Gretacheada - Demoted to High Tier 3
@@ -3070,7 +3124,7 @@ Don’t @ 4 now <3
     0-4 Swight
     0-4 Rappture
 
-Don’t @ 4 now <3
+Don’t
  — 
 20/07/2025, 22:29
 @Dohgo  - Dohgo - Failed Low Tier 2
@@ -3275,7 +3329,7 @@ HT3 Fight
 3thernal
  — 
 17/08/2025, 18:38
-@LeafBlock #FreeDohgo - GURAMIGSON - Failed Low Tier 2
+@LeafBlock - GURAMIGSON - Failed Low Tier 2
 
 HT3 Fights
 
@@ -3373,7 +3427,7 @@ HT2 Fights:
     0-4 Turbinial
     1-4 villegasjaime
 
-Don’t @ 4 now <3
+Don’t
  — 
 01/09/2025, 22:27
 @khalih - KhalihMortimer - Demoted to Low Tier 2
@@ -3534,7 +3588,7 @@ HT3 Fight
 
     4-3 CuriousNoob
 
-Don’t @ 4 now <3
+Don’t
  — 
 05/10/2025, 03:36
 @Amaz1ngDragon - Amaz1ngDragon - Failed Low Tier 2
@@ -5096,9 +5150,6 @@ LT2 Fights
 
     4-3 firefountain110
 
-
-@High Results 
-Fought 3 HT3's due to the lack of available LT2's at the time of the test.
  
 hm
  — 
@@ -5350,3 +5401,1446 @@ LT1 Fights:
 
     4-1 Captain_C08
     4-3 Marlowww
+
+Good bye Blue
+ — 
+30/12/2025, 16:20
+@IncoBlock|i dont trust high staf - GURAMIGSON - Promoted to Low Tier 2
+
+HT3 Fights
+
+    4-0 7544
+    4-0 _Tibbo_
+
+
+LT2 Fights
+
+    4-2 firefountain110
+    3-4 ninorc15
+
+
+
+Good bye Blue
+ — 
+30/12/2025, 18:26
+@MACEGROUNDDEMON3 - k1ngvennom - Failed Low Tier 2
+
+ HT3 Fights
+
+    4-2 MacePvPer
+    1-4 blvckwlf
+
+ 
+Hellowings | Not playing in AU
+ — 
+31/12/2025, 09:19
+@flowtives - flowtives - Failed Low Tier 2
+
+ HT3 Fights
+
+    1-4 Freekee_Fang
+    1-4 _mythicc
+
+elmeriizz
+ — 
+01/01/2026, 07:48
+@Willjum #Free ms2b  - _Willjum - Failed Low Tier 2
+HT3 Fights:
+
+    4-0 Freekee_Fang
+    4-1 intelix_
+
+
+LT2 Fights:
+
+    3-4 Turbinial
+    1-4 GURAMIGSON
+
+Jamy
+ — 
+02/01/2026, 19:57
+@pppanpawel | #FREEDOHGO - pppanpawel - Failed High Tier 1
+
+LT2 Fights:
+
+    4-0 firefountain110
+    4-1 Turbinial
+    4-1 ninorc15
+
+
+HT2 Fights:
+
+    4-2 Chompza
+
+
+LT1 Fights:
+
+    4-1 Captain_C08
+    4-3 Marlowww
+
+
+HT1 Fight:
+
+    0-4 Rappture
+ 
+OA
+ — 
+02/01/2026, 20:04
+@Captain - Captain_C08 - Demoted to High Tier 2 
+
+Strikes
+
+    1-4 KhalihMortimer
+    1-4 pppanpawel
+
+3thernal
+ — 
+03/01/2026, 19:27
+@Strat helper - Stratoukos - Failed Low Tier 2
+
+ HT3 Fights
+
+    1-4 BlvckWlf
+    4-2 k1ngvennom
+
+ 
+shakespear manager
+ — 
+04/01/2026, 14:38
+@4Lyncs | PVPCLUB OR SKIP  - 4Lyncs - Failed Low Tier 2
+
+ HT3 Fights
+
+    4-3 7544
+    1-4 Astivx (ff at 1-3)
+
+ 
+3thernal
+ — 
+04/01/2026, 15:40
+@BlvckWlf  - BlvckWlf - Promoted Low Tier 2
+
+HT3 Fights:
+
+    4-0 holonpvpastive
+    4-0 k1ngvennom
+
+
+LT2 Fights
+
+    4-0 GURAMIGSON
+    4-0 Gabsless
+
+chickenwings27
+ — 
+05/01/2026, 01:14
+@Frqsten - frqsten - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-2 Ospree14
+
+OA
+ — 
+05/01/2026, 19:42
+@Frqsten - frqsten - Failed Low Tier 2
+ 
+HT3 Fight
+
+    4-2 Ospree14
+
+⁠
+OA
+ — 
+05/01/2026, 22:09
+@chickenwings27 - CuriousNoob - Failed Low Tier 2
+ 
+HT3 Fight
+
+    0-4 Dawson
+    4-1 Freekee_fang
+
+ 
+OA
+ — 
+06/01/2026, 20:30
+@dawson - Dawson - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    4-0 CuriousNoob
+    4-3 Freekee_Fang
+
+
+LT2 Fights
+
+    4-2 GURAMIGSON
+    4-3 ninorc15
+
+chickenwings27
+ — 
+07/01/2026, 01:53
+@vicks - vickslover - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-3 IdeasOjeras
+
+
+elmeriizz
+ — 
+07/01/2026, 12:41
+@elmeriizz - elmeriizz - Failed High Tier 1
+
+LT2 Fights:
+
+    4-2 firefountain110
+
+ 
+elmeriizz
+ — 
+07/01/2026, 19:33
+@BlvckWlf  - Blvckwlf - Promoted to High Tier 2
+
+LT2 Fights:
+
+    4-0 GURAMIGSON
+    4-0 Gabsless
+
+
+HT2 Fights
+
+    4-1 Captain_C08
+    4-1 coldified
+
+idk what to put here
+ — 
+08/01/2026, 12:50
+@! 200bodied - 200bodied - Failed Low Tier 2
+ 
+HT3 Fights
+
+    4-2 Nibbysaur
+    4-0 fibbb
+
+
+LT2 Fight
+
+    1-4 GURAMIGSON
+
+idk what to put here
+ — 
+08/01/2026, 20:12
+@ESF - ESF_verxcy - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-3 bannaana
+
+idk what to put here
+ — 
+08/01/2026, 21:25
+@KingVennom - KingVennom - Failed Low Tier 2
+ 
+HT3 Fights
+
+    4-2 MacePvPer
+    1-4 Ospree14
+
+idk what to put here
+ — 
+08/01/2026, 21:25
+@ESF - ESF_verxcy - Failed Low Tier 2
+ 
+HT3 Fights
+
+    4-3 bannaana
+    1-4 Astivx
+
+curious
+ — 
+09/01/2026, 03:05
+@spott - FlandersNed - Failed Low Tier 2
+ 
+HT3 Fights
+
+    4-3 Freekee_Fang
+    4-3 EnchanterSky
+
+idk what to put here
+ — 
+09/01/2026, 21:02
+@blud is Engn__ 😭🙏 - Engn__ - Failed Low Tier 2
+
+HT3 Fights
+
+    4-2 SenseiCole
+    4-2 AstivX
+
+
+LT2 Fights
+
+    0-4 ninorc15
+
+shakespear manager
+ — 
+09/01/2026, 23:53
+@vicks - vickslover - Failed Low Tier 2
+
+HT3 Fights
+
+    4-3 IdeasOjeras
+    4-2 Freekee_Fang
+
+
+LT2 Fights
+
+    3-4 ninorc15
+    2-4 GURAMIGSON
+
+shakespear manager
+ — 
+10/01/2026, 16:52
+@biible - 30880 - Promoted to High Tier 3
+ 
+HT3 Fight
+
+    4-3 Motte0
+
+shakespear manager
+ — 
+10/01/2026, 17:10
+@EU Baguette. Storm Tyson - StormDysonB - Promoted to High Tier 3
+ 
+HT3 Fight
+
+    4-2 w0s_tiger
+
+
+kirboi_
+ — 
+10/01/2026, 21:08
+@PUFFIERZ - PUFFIERZ - Unretired and Placed at LT2 
+
+HT3 Fights:
+
+    4-0 MacePvPer
+    4-1 BlvckWlf (When he was HT3)
+
+
+LT2 Fights:
+
+    4-2 Gabsless 
+    4-3 firefountain110
+    4-3 ninorc15
+
+
+HT2 Fights
+
+    0-4 Coldified
+
+
+oa oa oa oa games
+ — 
+10/01/2026, 21:21
+@astive - Astivx - Failed Low Tier 2
+
+HT3 Fights
+
+    4-0 SenseiCole
+    4-2 Nitr0Boost
+
+
+LT2 Fights
+
+    1-4 GURAMIGSON
+
+ 
+curious
+ — 
+11/01/2026, 08:44
+@cred - credentiols - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-2 rinncer
+
+idk what to put here
+ — 
+11/01/2026, 16:28
+@EU Baguette. Storm Tyson - StormDysonB - Failed Low Tier 2
+
+HT3 Fights
+
+    4-2 w0s_tiger
+    4-1 k1ngvennom
+
+
+LT2 Fights
+
+    0-4 ninorc15
+
+tedrut
+ — 
+11/01/2026, 22:52
+@ł·Insænidad·ł - LaInsanidad - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-3 IdeasOjeras
+
+
+Briding to LT2
+Chompley
+ — 
+12/01/2026, 19:41
+@Prince Lock IV of England - Enlock - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-3 Nitr0Boost
+
+idk what to put here
+ — 
+13/01/2026, 02:22
+@Swight - Swight - Failed Low Tier 2
+
+HT3 Fight
+
+    3-4 rinncer
+
+idk what to put here
+ — 
+13/01/2026, 14:42
+@Nitro | HT3 | NO MCPVP = SKIP - Nitr0Boost - Failed Low Tier 2
+
+HT3 Fight
+
+    3-4 Senseicole
+
+idk what to put here
+ — 
+13/01/2026, 19:26
+@dawson king GG - Dawson - Failed High Tier 2
+
+LT2 Fights:
+
+    4-2 GURAMIGSON
+    4-3 ninorc15
+    4-1 Gabsless
+    1-4 PUFFIERZ
+
+ 
+Fought 4 LT2s due to the lack of available HT2s at the time of the test.
+ 
+idk what to put here
+ — 
+13/01/2026, 19:48
+@Gabi - Gabsless - Demoted to High Tier 3 
+
+Strikes
+
+    2-4 PUFFIERZ
+    1-4 Dawson
+
+3thernal
+ — 
+16/01/2026, 05:49
+@Guido - FastRunner1 - Failed High Tier 2
+
+LT2 Fights:
+
+    2-4 firefountain110
+
+ 
+Chompley
+ — 
+16/01/2026, 16:12
+@Leafblock hater - Stunslams - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-1 Nitr0Boost
+
+
+Bridging to LT2...
+idk what to put here
+ — 
+16/01/2026, 17:55
+@Leafblock hater - Stunslams - Failed Low Tier 2
+
+HT3 Fights:
+
+    4-1 Nitr0Boost
+    0-4 balagoleg
+
+3thernal
+ — 
+16/01/2026, 20:02
+@idk what to put here - firefountain110 - Failed High Tier 2
+
+LT2 Fights:
+
+    4-2 FastRunner1
+    3-4 Chrolphyte
+
+ 
+idk what to put here
+ — 
+17/01/2026, 19:00
+@Prince Lock IV of England - enlock - Promoted to Low Tier 2
+
+HT3 Fights
+
+    4-3 Nitr0boost
+    4-1 kingvennom
+
+
+LT2 Fights
+
+    4-3 ninorc15
+    3-4 firefountain110
+
+
+shakespear manager
+ — 
+18/01/2026, 00:45
+@fate - fatewtf - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-3 bannaana
+
+
+Bridging to LT2...
+hellowowowow
+ — 
+18/01/2026, 10:52
+@♱ addicial ♱ - addicial - Promoted to High Tier 3
+
+Passed Evaluation
+ 
+HT3 Fight
+
+    4-1 rezario_
+
+
+Bridging to LT2... 
+Hellowings
+ — 
+18/01/2026, 14:45
+@fate - fatewtf - Failed Low Tier 2
+ 
+HT3 Fights
+
+    4-3 bannaana
+    3-4 KingVennom (FF'd at 3-3)
+
+ 
+Hellowings
+ — 
+19/01/2026, 05:59
+@♱ addicial ♱ - addicial - Failed Low Tier 2
+
+HT3 Fights
+
+    4-1 rezario_
+    0-4 sntp
+
+oa oa oa oa games
+ — 
+19/01/2026, 22:41
+@ł·Insænidad·ł - LaInsanidad - Failed Low Tier 2
+
+HT3 Fights
+
+    4-3 IdeasOjeras
+    4-2 EnchanterSky
+
+
+LT2 Fights
+
+    0-4 PUFFIERZ
+
+
+idk what to put here
+ — 
+22/01/2026, 19:10
+@v - lonerv - Failed Low Tier 2
+
+HT3 Fights
+
+    4-3 ninorc15 (when he was ht3)
+    4-2 Ospree14
+
+
+LT2 Fights
+
+    4-1 Enlock
+    2-4 firefountain110
+
+idk what to put here
+ — 
+22/01/2026, 19:10
+@Prince Lock IV of England - Enlock - Demoted to High Tier 3 
+
+Strikes
+
+    1-4 lonerv
+
+Hellowings
+ — 
+23/01/2026, 13:26
+@Havoids - Havoidz - Promoted to Low Tier 2
+
+HT3 Fights
+
+    4-3 sntp
+    4-0 Boiki
+
+
+LT2 Fights
+
+    4-0 GURAMIGSON
+    3-4 firefountain110
+
+
+oa oa oa oa games
+ — 
+23/01/2026, 14:20
+@FriendlyShark - ninorc15 - Promoted to High Tier 2
+
+LT2 Fights:
+
+    4-2 firefountain110
+    4-0 PUFFIERZ
+    4-0 Dawson
+    4-1 GURAMIGSON
+
+elmeriizz
+ — 
+24/01/2026, 13:41
+@Chompza | Rappture is legit - Chompza - Failed Low Tier 1
+
+LT2 Fights:
+
+    4-2 firefountain110
+
+
+HT2 Fights:
+
+    4-3 coldified
+    4-0 Captain_C08
+
+
+LT1 Fights:
+
+    2-4 pppanpawel
+
+
+elmeriizz
+ — 
+24/01/2026, 16:52
+@blud is Engn__ 😭🙏  - Engn__ - Failed Low Tier 2
+
+HT3 Fights:
+
+    4-2 SenseiCole
+    4-2 Astivx
+
+
+LT2 Fights:
+
+    3-4 firefountain110
+    3-4 GURAMIGSON
+
+idk what to put here
+ — 
+24/01/2026, 19:39
+@EU Baguette. Storm Tyson - StormDysonB - Failed Low Tier 2
+
+HT3 Fights
+
+    4-2 w0s_tiger
+    4-1 kingvennom
+
+
+LT2 Fights
+
+    3-4 GURAMIGSON
+    1-4 PUFFIERZ
+
+elmeriizz
+ — 
+24/01/2026, 19:58
+@BlvckWlf - BlvckWlf - Failed Low Tier 1
+
+LT2 Fights:
+
+    4-0 GURAMIGSON
+    4-0 Gabsless
+
+
+HT2 Fights:
+
+    4-1 Captain_C08 (Prior to retirement)
+    4-1 coldified
+
+
+LT1 Fights:
+
+    2-4 pppanpawel
+
+3thernalRole icon, Discord Mod
+ — 
+25/01/2026, 05:20
+@cred - credentiols - Failed Low Tier 2
+
+HT3 Fights
+
+    4–2 rinncer
+    0–4 Freekee_Fang
+
+3thernalRole icon, Discord Mod
+ — 
+25/01/2026, 19:55
+@NA Freekee_Fang - Freekee_Fang - Promoted to Low Tier 2
+
+HT3 Fights
+
+    4-2 EnchanterSky
+    4-0 credentiols
+
+
+LT2 Fights
+
+    4-0 Dawson
+    3-4 firefountain110
+
+
+
+Adam For LT1Role icon, Discord Mod
+ — 
+25/01/2026, 21:42
+@King Labubu - rinncer - Failed Low Tier 2
+
+HT3 Fights
+
+    4-0 jinghmc
+    4-2 EnchanterSky
+
+
+LT2 Fights
+
+    1-4 Dawson
+
+loaf
+Role icon, Tester of the Month
+ — 
+27/01/2026, 23:34
+@Thesingle/assign to lt2s/ht3s - Thesinglemaster - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-3 rinncer
+
+
+Bridging To LT2... 
+loaf
+Role icon, Tester of the Month
+ — 
+28/01/2026, 02:50
+@snowlife - snowlife - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-0 rinncer
+
+Hel-o-ay
+Role icon, Discord Mod
+ — 
+28/01/2026, 07:36
+@Amaz1ngDragon - Amaz1ngDragon - Failed Low Tier 2
+
+HT3 Fights
+
+    2-4 Rezario_
+    4-0 Nibbysaur
+
+loaf
+Role icon, Tester of the Month
+ — 
+29/01/2026, 06:56
+@Ivan - ivaanZD - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-2 vickslover
+
+
+Bridging to LT2…
+ESF
+Role icon, Discord Helper
+ — 
+29/01/2026, 22:39
+@loaf - loafuss - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-1 vickslover
+
+
+Bridging to LT2...
+ESF
+Role icon, Discord Helper
+ — 
+29/01/2026, 23:27
+@loaf - Loafuss - Failed Low Tier 2
+
+HT3 Fights
+
+    4–1 vickslover
+    2–4 ivaanZD
+
+Hel-o-ay
+Role icon, Discord Mod
+ — 
+30/01/2026, 03:16
+@Thesingle/assign to lt2s/ht3s - Thesinglemaster - Failed Low Tier 2
+
+HT3 Fights
+
+    4–3 rinncer
+    3–4 EnchanterSky
+
+elmeriizzRole icon, Regulator
+ — 
+30/01/2026, 20:37
+@coldified - coldified - Failed Low Tier 1
+
+LT2 Fights:
+
+    4-0 firefountain110
+
+
+HT2 Fights:
+
+    4-1 chompza
+    4-3 BlvckWlf
+
+
+LT1 Fights:
+
+    0-4 pppanpawel
+
+
+ 
+loaf
+Role icon, Tester of the Month
+ — 
+31/01/2026, 02:07
+@Chick- ImTheCutestChick - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-1 _Willjum
+
+
+Bridging to LT2...
+3thernalRole icon, Discord Mod
+ — 
+31/01/2026, 05:03
+@snowlife - Snowlife - Failed Low Tier 2
+
+HT3 Fights:
+
+    4-0 EnchanterSky
+    4-0 Rinncer
+
+
+LT2 Fights:
+
+    1-4 Freekee_Fang
+
+Hel-o-ay
+Role icon, Discord Mod
+ — 
+31/01/2026, 09:53
+@Fragile - Ipadmonk2 - Passed High Tier 3
+
+Passed Evaluation
+
+HT3 Fight
+
+    4-0 Amaz1ngDragon
+
+
+Bridging to LT2...
+elmeriizzRole icon, Regulator
+ — 
+31/01/2026, 21:19
+@Strat helper | Sword Dropper - Stratoukos - Promoted to Low Tier 2
+
+HT3 Fights:
+
+    4–2 KingVennom
+    4–1 bannaana
+
+
+LT2 Fights:
+
+    4-2 GURAMIGSON
+    3-4 firefountain110
+
+
+ 
+
+@LeafBlock | Top 1 ground - GURAMIGSON - Demoted to High Tier 3 
+
+Strikes:
+
+    2-4 Dawson
+    0-4 Havoidz
+    2-4 Stratoukos
+
+ 
+Adam For LT1Role icon, Discord Mod
+ — 
+01/02/2026, 20:26
+@Tiger | add to lt2 - w0s_tiger - Failed Low Tier 2
+
+HT3 Fight
+
+    3-4 Engn__
+
+Adam For LT1Role icon, Discord Mod
+ — 
+01/02/2026, 22:28
+@lore - brickedherhouse - Passed High Tier 3
+
+Passed Evaluation
+
+HT3 Fight
+
+    4-2 Ospree14
+
+
+Bridging to LT2...
+Hel-o-ay
+Role icon, Discord Mod
+ — 
+02/02/2026, 10:36
+@sntp - sntp - Failed Low Tier 2
+
+HT3 Fights
+
+    4–2 Rezario_
+    4-0 FlawlessTRX
+
+
+LT2 Fights
+
+    0–4 Havoidz (FF'd at 0-1)
+
+ 
+loaf
+Role icon, Tester of the Month
+ — 
+03/02/2026, 05:51
+@_Arlen - No Catpvp - ItsArlen - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-1 _Willjum
+
+
+Bridging to LT2...
+Super Melon Bros.
+Role icon, Regulator
+ — 
+03/02/2026, 17:38
+@LevaroJG / Whitedality   - LevaroJG - Passed High Tier 3
+
+Passed Evaluation
+
+HT3 Fight
+
+    4-0 sntp
+
+
+Bridging to LT2… 
+3thernalRole icon, Discord Mod
+ — 
+04/02/2026, 20:39
+@_Arlen - No Catpvp - ItsArlen - Failed Low Tier 2
+
+HT3 Fights:
+
+    4–1 _Willjum
+    4–2 EnchanterSky
+
+
+LT2 Fights:
+
+    1–4 Dawson
+
+meowaRole icon, Regulator
+ — 
+05/02/2026, 15:58
+@Turbinial - Turbinial - Demoted to High Tier 3 
+Requested Demotion.
+ 
+Hel-o-ay
+Role icon, Discord Mod
+ — 
+06/02/2026, 09:45
+@Fragile - Ipadmonk2 - Failed Low Tier 2
+
+HT3 Fights
+
+    4-0 Amaz1ngDragon
+    0-4 LevaroJG
+
+Super Melon Bros.
+Role icon, Regulator
+ — 
+06/02/2026, 12:07
+@LevaroJG / Whitedality - LevaroJG - Failed Low Tier 2
+
+HT3 Fights:
+
+    4-0 sntp
+    4-0 Ipadmonk2
+
+
+LT2 Fights:
+
+    4-3 Havoidz
+    1-4 firefountain110
+
+elmeriizzRole icon, Regulator
+ — 
+06/02/2026, 20:08
+@lore - brickedherhouse - Failed Low Tier 2
+
+HT3 Fights:
+
+    4-2 ospree14
+    4-3 lonerv
+
+
+LT2 Fights:
+
+    0-4 PUFFIERZ
+
+Chompza | Rappture is legitRole icon, YouTube
+ — 
+07/02/2026, 01:48
+@Ogmoe - Ogmoe - Passed High Tier 3
+
+Passed Evaluation
+
+HT3 Fight
+
+    4-1 w0s_Tiger
+
+
+Bridging to LT2…
+ESF
+Role icon, Discord Helper
+ — 
+07/02/2026, 20:33
+@ESF  - ESF_verxcy - Failed Low Tier 2
+
+HT3 Fights
+
+    4–3 bannaana
+    2–4 4Lyncs
+
+elmeriizzRole icon, Regulator
+ — 
+08/02/2026, 14:53
+@FriendlyShark - ninorc15 - Failed Low Tier 1
+
+LT2 Fights:
+
+    4–2 firefountain110
+    4–0 PUFFIERZ
+    4–0 Dawson
+    4-1 GURAMIGSON
+
+
+LT1 Fights:
+
+    0-4 elmeriizz
+
+
+Fought 4 LT2s due to the lack of available HT2s at the time of the test.
+
+shakespear mod
+Role icon, Discord Helper
+ — 
+09/02/2026, 00:16
+@itzr only mcpvp.club - supermeanitzr - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-0 Ospree14
+
+
+Bridging to LT2...
+Inxctivefor reportsRole icon, Discord Mod
+ — 
+09/02/2026, 01:41
+@Chrol - Chrolphyte - Promoted to High Tier 2
+
+LT2 Fights
+
+    4–2 Turbinial
+    4-3 firefountain110
+    4-0 Ninorc15
+
+
+HT2 Fights
+
+    4-1 BlvckWlf
+
+
+3thernalRole icon, Discord Mod
+ — 
+10/02/2026, 16:56
+@Sonibegas - sonibegas - Failed Low Tier 2
+
+HT3 Fights:
+
+    0–4 sharklounge
+    2–4 loafuss
+
+
+Demoted to LT3
+3thernalRole icon, Discord Mod
+ — 
+11/02/2026, 06:15
+@Turbinial - Turbinial - Failed Low Tier 2
+
+HT3 Fights:
+
+    4-3 Rinncer
+    4-2 EnchanterSky
+
+
+LT2 Fights:
+
+    1-4 Freekee_Fang
+
+3thernalRole icon, Discord Mod
+ — 
+11/02/2026, 19:10
+@Ivan - ivaanZD - Failed Low Tier 2
+
+HT3 Fights:
+
+    4-2 loafuss
+    4-2 vickslover
+
+
+LT2 Fights:
+
+    1-4 Dawson
+
+3thernalRole icon, Discord Mod
+ — 
+11/02/2026, 20:03
+@Adam For LT1 - firefountain110 - Promoted to High Tier 2
+
+LT2 Fights:
+
+    4-2 FastRunner1
+    4–3 Havoidz
+
+
+HT2 Fights:
+
+    3-4 Chrolphyte
+    4–1 ninorc15
+
+
+
+elmeriizzRole icon, Regulator
+ — 
+11/02/2026, 22:04
+@pppanpawel | ht1 soon - pppanpawel - Failed High Tier 1
+
+HT2 Fights:
+
+    4–0 ninorc15
+
+
+LT1 Fights:
+
+    2-4 elmeriizz
+
+
+GabiRole icon, Discord Mod
+ — 
+12/02/2026, 02:42
+@spott - xdspott - Failed Low Tier 2
+
+HT3 Fights
+
+    0-4 _Arlen
+    1-4 EnchanterSky
+
+
+Demoted to LT3
+Adam For LT1Role icon, Discord Mod
+ — 
+12/02/2026, 20:31
+@itzr only mcpvp.club - supermeanitzr - Failed Low Tier 2
+
+HT3 Fights:
+
+    4–0 Ospree14
+    4–3  Chompley
+
+
+LT2 Fights:
+
+    0–4 Freekee_Fang
+
+meowaRole icon, Regulator
+ — 
+12/02/2026, 22:02
+@Adam | free catystical - AdamAdiss - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-0 Chompley
+
+
+Bridging to LT2...
+elmeriizzRole icon, Regulator
+ — 
+13/02/2026, 22:29
+@Adam | free catystical - AdamAdiss - Promoted to  Low Tier 2
+
+HT3 Fights
+
+    4–0 Chompley
+    4-2 w0s_Tiger
+
+
+LT2 Fights
+
+    4-2 Freekee_Fang
+    4-2 Stratoukos
+
+
+elmeriizzRole icon, Regulator
+ — 
+14/02/2026, 17:19
+@Adam | free catystical - AdamAdiss - Promoted to  High Tier 2
+
+LT2 Fights
+
+    4-2 Freekee_Fang
+    4-2 Stratoukos
+
+
+HT2 Fights
+
+    4-0 firefountain110
+    4-1 Chompza
+
+ 
+meowaRole icon, Regulator
+ — 
+14/02/2026, 18:48
+@Chrol - Chrolphyte - Promoted to Low Tier 1
+
+LT2 Fights:
+
+    4–2 Turbinial
+    4-0 ninorc15
+
+
+HT2 Fights:
+
+    4-1 BlvckWlf
+    4-3 firefountain110
+
+
+LT1 Fights:
+
+    4-1 pppanpawel
+    3-4 AlienOverdose
+
+
+
+elmeriizzRole icon, Regulator
+ — 
+14/02/2026, 19:16
+@Adam | free catystical - AdamAdiss - Failed Low Tier 1
+
+HT2 Fights
+
+    4–0 firefountain110
+    4-1 Chompza
+
+
+LT1 Fights
+
+    4-2 Elmeriizz
+    1-4 AlienOverdose
+
+
+elmeriizzRole icon, Regulator
+ — 
+14/02/2026, 19:16
+@elmeriizz - elmeriizz - Demoted to High Tier 2 
+
+Strikes
+
+    2-4 AdamAdiss
+
+elmeriizzRole icon, Regulator
+ — 
+14/02/2026, 19:16
+@Chompza | Rappture is legit - Chompza - Demoted to Low Tier 2 
+
+Strikes
+
+    1-4 coldified
+    1-4 AdamAdiss
+
+elmeriizzRole icon, Regulator
+ — 
+15/02/2026, 15:19
+@elmeriizz - elmeriizz - Failed Low Tier 1
+
+LT2 Fights
+
+    4-1 Chompza
+
+
+HT2 Fights
+
+    4-1 firefountain110
+    3-4 AdamAdiss
+
+
+elmeriizzRole icon, Regulator
+ — 
+15/02/2026, 15:19
+@Adam For LT1  - firefountain110 - Demoted to Low Tier 2 
+
+Strikes
+
+    0-4 AdamAdiss
+    1-4 elmeriizz
+
+ESF
+Role icon, Discord Helper
+ — 
+15/02/2026, 18:23
+@abide - LawAbidingNarco - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-1 ESF_verxcy
+
+
+Bridging to LT2...
+meowaRole icon, Regulator
+ — 
+15/02/2026, 20:20
+@abide - LawAbidingNarco - Failed Low Tier 2
+
+HT3 Fights
+
+    4-1 ESF_verxcy
+    0-4 lonerv
+
+loaf
+Role icon, Tester of the Month
+ — 
+15/02/2026, 21:54
+@Nikstray  - nik3405 - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-3 loafuss
+
+loaf
+Role icon, Tester of the Month
+ — 
+16/02/2026, 03:51
+@PressResurge   - PressResurge - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-2 Thesinglemaster
+
+ESF
+Role icon, Discord Helper
+ — 
+16/02/2026, 17:47
+@qejo - qejo - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-1 ESF_verxcy
+
+
+Bridging to LT2...
+shakespear mod
+Role icon, Discord Helper
+ — 
+17/02/2026, 20:01
+@ItzT0x1ic | Mcpvp only - ItzT0x1ic - Promoted to High Tier 3
+
+Passed evaluation
+
+HT3 Fight
+
+    4-1 bannaana

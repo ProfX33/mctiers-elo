@@ -14,7 +14,7 @@ yb
 Deleted User
  — 
 23/09/2022, 02:16
-@Bastigang - ricardoxx_ - has failed low tier 2 test.
+@Bastigang - Ricardoxx_ - has failed low tier 2 test.
 3-10 C0rzz
 
 yb
@@ -43,7 +43,7 @@ Frantic
  — 
 25/09/2022, 17:14
 @Sykee - Sykee2 - has failed low tier 2 test and successfully tested for high tier 3! 
-6-0 MSI_Pig
+6-0 TheMeanPig
 4-10 frAggeD
 
 maurito
@@ -222,7 +222,7 @@ Deleted User
 Frantic
  — 
 09/11/2022, 15:09
-@MSI_Pig - MSI_Pig - has failed low tier 2 test.
+@TheMeanPig - TheMeanPig - has failed low tier 2 test.
 0-10 01z_
 
 Deleted User
@@ -261,7 +261,7 @@ Deleted User
 MsrioDeJacker
  — 
 23/11/2022, 06:03
-@Bastigang - ricardoxx_ - has failed low tier 2 test.
+@Bastigang - Ricardoxx_ - has failed low tier 2 test.
 7-10 mzrio
 4-10 Swight
 
@@ -332,7 +332,7 @@ Deleted User
 Sykee
  — 
 20/12/2022, 14:28
-@MSI_Pig - Leah_C3PO - has failed his low tier 2 test.
+@TheMeanPig - Leah_C3PO - has failed his low tier 2 test.
 1-10 EgirlSykee
 
 Deleted User
@@ -419,7 +419,7 @@ Deleted User
 coldified
  — 
 07/01/2023, 18:52
-@ric - ricardoxx_ - https://challonge.com/es/c18xis1v
+@ric - Ricardoxx_ - https://challonge.com/es/c18xis1v
 10-7 KOHARU89
 10-3 CCemox
 8-10 gatosarnoso
@@ -430,11 +430,11 @@ coldified
  — 
 07/01/2023, 18:52
 @KOH - KOHARU89 - https://challonge.com/es/c18xis1v
-7-10 ricardoxx_
+7-10 Ricardoxx_
 10-1 Frogfarmer
 10-1 Badspelhr
 10-1 Oclys
-10-9 ricardoxx_
+10-9 Ricardoxx_
 10-0 DanielPM_21
 8-10 gatosarnoso
 
@@ -444,7 +444,7 @@ coldified
 @GAT - gatosarnoso - https://challonge.com/es/c18xis1v
 10-0 badspelhr
 10-0 Werewolfforever
-10-8 ricardoxx_
+10-8 Ricardoxx_
 5-10 Axzll
 10-2 Mistakenn
 10-8 KOHARU89
@@ -473,7 +473,7 @@ coldified
 8-10 FerreMC
 10-6 Goonq
 0-0 dclfin
-6-10 ricardoxx_
+6-10 Ricardoxx_
 
 coldified
  — 
@@ -569,7 +569,7 @@ coldified
  — 
 07/01/2023, 18:52
 @CCE - CCemox - https://challonge.com/es/c18xis1v
-3-10 ricardoxx_
+3-10 Ricardoxx_
 10-2 Miguel_Soap
 10-5 Svoen
 10-2 Airokun
@@ -766,7 +766,7 @@ AxzllDeRay
 Swight
  — 
 07/02/2023, 20:24
-@nigerianprince96 - cronee - has been demoted to lt3.
+@nigerianprince96 - CroneCrafter - has been demoted to lt3.
 0-6 Swight
 
 MsrioDeJacker
@@ -932,10 +932,10 @@ Frantic
 @Lionheart7 - TripleLion - has failed his Low Tier 2 test.
 3-10 NimBit
 
-MSI_Pig
+TheMeanPig
  — 
 27/02/2023, 15:55
-@MSI_Pig - TheMeanPig - has failed his Low Tier 2 test
+@TheMeanPig - TheMeanPig - has failed his Low Tier 2 test
 0-10 fragged
 
 Deleted User
@@ -997,7 +997,7 @@ bad
 bad
  — 
 18/03/2023, 16:49
-@MSI_Pig - TheMeanPig - has failed low tier 2 test.
+@TheMeanPig - TheMeanPig - has failed low tier 2 test.
 0-5 badspelhr
 0-5 badspelhr
 
@@ -1065,8 +1065,8 @@ Deleted User
 Deleted User
  — 
 08/04/2023, 12:19
-@Deleted User has been promoted to lt2!
-badspelhr 10 - 7 fragged
+@Deleted User - fwaggy - has been promoted to lt2!
+7-10 badspelhr
 
 Deleted User
  — 
@@ -1153,7 +1153,7 @@ dclfin
 CCemox
  — 
 21/04/2023, 18:08
-@nigerianprince96 - cronee - has failed high tier 3 test
+@nigerianprince96 - CroneCrafter - has failed high tier 3 test
 1-6 CCemox
 
 CCemox
@@ -1174,7 +1174,7 @@ Deleted User
 @Deleted User - Phantic - has failed low tier 2 test.
 3-10 KOHARU89
 
-MSI_Pig
+TheMeanPig
  — 
 23/04/2023, 05:27
 @Deleted User - DryAU - has promoted to High tier 3 
@@ -1186,7 +1186,7 @@ MrJulan
 @Deleted User - Alepordio - has failed High Tier 3 test
 3-6 MrJulan
 
-MSI_Pig
+TheMeanPig
  — 
 25/04/2023, 10:02
 @47cps - 47cps - has promoted to High tier 3 
@@ -1217,7 +1217,7 @@ Deleted User
 @47cps - 47cps - has failed his Low Tier 2 Test.
 4-10 Werewolfforever
 
-@MSI_Pig - MSI_Pig - has failed High Tier 3 Test.
+@TheMeanPig - TheMeanPig - has failed High Tier 3 Test.
 3-6 Werewolfforever 
 
 Deleted User
@@ -1262,7 +1262,7 @@ Deleted User
 Deleted User
  — 
 30/04/2023, 18:33
-@Ludwig24 | @ in reply - Ludwig24 - has failed Low Tier 2 test.
+@Ludwig24 - Ludwig24 - has failed Low Tier 2 test.
 1-10 yMiau
 
 Deleted User
@@ -1295,7 +1295,7 @@ tKori
 asceetiic
  — 
 06/05/2023, 17:10
-@nigerianprince96 - cronee - has failed High Tier 3 test. 
+@nigerianprince96 - CroneCrafter - has failed High Tier 3 test. 
 1-6 yMiau
 
 asceetiic
@@ -1394,7 +1394,7 @@ tKori
 we2wolf
  — 
 22/05/2023, 15:26
-@MSI_Pig - TheMeanPig - has been promoted to High Tier 3 
+@TheMeanPig - TheMeanPig - has been promoted to High Tier 3 
 4-6 Werewolfforever
 
 AroyDeKoharu
@@ -1423,7 +1423,7 @@ yb
 CCemox
  — 
 28/05/2023, 14:03
-@nigerianprince96 - cronee - has failed his High Tier 3 test
+@nigerianprince96 - CroneCrafter - has failed his High Tier 3 test
 1-6 CCemox
 
 Deleted User
@@ -1500,7 +1500,7 @@ Deleted User
 Deleted User
  — 
 30/05/2023, 20:47
-@Ludwig24 | @ in reply - Ludwig24 - has failed his purge test!
+@Ludwig24 - Ludwig24 - has failed his purge test!
 1-6 Akayyy
 
 Deleted User
@@ -1694,7 +1694,7 @@ JackerAcid
 CCemox
  — 
 27/06/2023, 18:49
-@nigerianprince96 - cronee - has failed his High Tier 3 test
+@nigerianprince96 - CroneCrafter - has failed his High Tier 3 test
 0-6 CCemox
 
 CCemox
@@ -2087,7 +2087,7 @@ Deleted User
 sharpur
  — 
 06/08/2023, 22:11
-@nigerianprince96 - cronee - has failed his ht3 test
+@nigerianprince96 - CroneCrafter - has failed his ht3 test
 
 4-10 Sharpur
 
@@ -2159,7 +2159,7 @@ Explore this tournament hosted by miauuuuu
 Image
 @sharpur has been promoted to High Tier 3!! (Will test for T2)
 @r has been promoted to High Tier 3!
-@Ludwig24 | @ in reply has been promoted to High Tier 3!
+@Ludwig24 has been promoted to High Tier 3!
 @Flcwers stays at Low Tier 3 with a chance to test with Ludwig24
 
 r
@@ -2373,7 +2373,7 @@ HT3 Fights
 r
  — 
 18/08/2023, 00:04
-@nigerianprince96 - cronee - failed his HT3 Test
+@nigerianprince96 - CroneCrafter - failed his HT3 Test
  
 HT3 Fights
 
@@ -2475,7 +2475,7 @@ HT3 Fights
 Deleted User
  — 
 22/08/2023, 17:58
-@Ludwig24 | @ in reply - Ludwig24 - has failed his LT2 Test.
+@Ludwig24 - Ludwig24 - has failed his LT2 Test.
 
 HT3 FIGHTS
 
@@ -2718,7 +2718,7 @@ HT3 Fights:
 MsrioDeJacker
  — 
 09/09/2023, 02:32
-@Bastigang - ricardoxx_ - has unretired and tested for tier 2!
+@Bastigang - Ricardoxx_ - has unretired and tested for tier 2!
 
 Ht3 Fights:
 10-6 Triplelion
@@ -2802,7 +2802,7 @@ LT1 Fight:
 HT2 Fights:
 
     18-12 yMiau
-    10-7 Arksan
+    10-7 Arsakha
 
 LT2 Fights:
 
@@ -2953,7 +2953,7 @@ Mistaken
 
 LT2 Fights:
 
-    7-10 Ricardo
+    7-10 Ricardoxx_
     7-10 idns
 
 superkarlos1
@@ -3069,7 +3069,7 @@ LT1 Fights:
 
 HT2 Fights:
 
-    Autowin 10-0 arksan
+    10-0 Arsakha
 
 
 LT2 Fights:
@@ -3322,7 +3322,7 @@ LT2 Fights
 Deleted User
  — 
 08/10/2023, 19:09
-@Bastigang - ricardoxx_ - has failed High Tier 2 test.
+@Bastigang - Ricardoxx_ - has failed High Tier 2 test.
 
 HT3 Fights
 
@@ -3369,7 +3369,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    8-10 ricardoxx_
+    8-10 Ricardoxx_
     7-10 idns
     (15-20)
 
@@ -3440,7 +3440,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-6 mzrio
-    10-6 ricardoxx_
+    10-6 Ricardoxx_
 
 Deleted User
  — 
@@ -3524,7 +3524,7 @@ LT2 Fights:
 
     10-6 mzrio
     10-6 idns
-    10-7 ricardoxx_
+    10-7 Ricardoxx_
     10-0 mikagoted
     10-4 Rafunny 
     4-10 Rafunny 
@@ -3539,8 +3539,8 @@ LT2 Fights:
     10-0 mikagoated
     10-2 mzrio 
     8-10 mzrio 
-    10-4 ricardoxx_ 
-    10-8 ricardoxx_
+    10-4 Ricardoxx_ 
+    10-8 Ricardoxx_
     10-0 idns
     10-4 Axzll 
     4-10 Axzll 
@@ -3770,7 +3770,7 @@ JackerAcid
 Deleted User
  — 
 06/11/2023, 20:45
-@Bastigang - ricardoxx_ - has failed HT2 test.
+@Bastigang - Ricardoxx_ - has failed HT2 test.
 
 LT2 Fights
 
@@ -3801,7 +3801,7 @@ Deleted User
 
 LT2 Fights:
 
-    10-7 ricardoxx_
+    10-7 Ricardoxx_
     10-4 idns
     10-8 mzrio
 
@@ -3822,7 +3822,7 @@ LT2 Fights:
 Mistaken
  — 
 09/11/2023, 04:33
-@Deleted User has unretired, failed his LT2 Test and placed at HT3.
+@Deleted User - unknownuser -  has unretired, failed his LT2 Test and placed at HT3.
 
 HT3 Fights:
 
@@ -3939,7 +3939,7 @@ HT2 Fight
 Deleted User
  — 
 25/11/2023, 18:15
-@Ludwig24 | @ in reply - Ludwig24 - has failed LT2 test.
+@Ludwig24 - Ludwig24 - has failed LT2 test.
 
 HT3 Fights
 
@@ -4072,7 +4072,7 @@ LT2 Fights:
 Mistaken
  — 
 29/11/2023, 04:26
-@Bastigang  - ricardoxx_ - has failed HT2 test.
+@Bastigang  - Ricardoxx_ - has failed HT2 test.
 
 LT2 Fights:
 
@@ -4096,7 +4096,7 @@ LT2 Fights:
 
     10-0 mzrio
     10-4 idns
-    10-3 ricardoxx_
+    10-3 Ricardoxx_
     10-2 FlirtingWithBoys
 
 MsrioDeJacker
@@ -4138,8 +4138,8 @@ LT2 Fights:
 
     10-7 mzrio 
     10-4 mzrio
-    9-10 ricardoxx_ 
-    10-7 ricardoxx_
+    9-10 Ricardoxx_ 
+    10-7 Ricardoxx_
 
 JackerAcid
  — 
@@ -4164,8 +4164,8 @@ LT2 Fights:
 
     10-7 mzrio 
     10-4 mzrio
-    9-10 ricardoxx_ 
-    10-7 ricardoxx_
+    9-10 Ricardoxx_ 
+    10-7 Ricardoxx_
     10-4 idns
     10-0 idns
 
@@ -4229,7 +4229,7 @@ HT3 Fights
 
 LT2 FIGHTS
 
-    10-4 ricardoxx_
+    10-4 Ricardoxx_
 
  
 JackerAcid
@@ -4244,7 +4244,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    10-4 ricardoxx_
+    10-4 Ricardoxx_
     10-2 idns
 
 
@@ -4281,7 +4281,7 @@ HT3 Fights
 
 LT2 Fights:
 
-    10-4 ricardoxx_
+    10-4 Ricardoxx_
     8-10 mzrio
 
 Frantic
@@ -4332,7 +4332,7 @@ HT3 Fights
 
 LT2 Fights
 
-    9-10 Arksan
+    9-10 Arsakha
 
 sharpur
  — 
@@ -4355,13 +4355,12 @@ HT3 Fights
 sthefanw
  — 
 23/12/2023, 04:28
-@dish - Dishwasher1221 has failed his LT2 Test.
+@dish - Dishwasher1221 - has failed his LT2 Test.
 
 HT3 Fights
 
-    1-6 SpidexGD continuity
-    2-3 beedom SpidexGD
-    0-1 playfuni SpidexGD
+    3-10 SpidexGD
+
 
 Deleted User
  — 
@@ -4456,7 +4455,7 @@ Mistaken
 
 HT3 Fights
 
-    10-0 ricardoxx_
+    10-0 Ricardoxx_
 
 
 LT2 Fights
@@ -4490,7 +4489,7 @@ HT3 Fights:
 Deleted User
  — 
 28/12/2023, 14:34
-@Triser | @ - Triser5000 - has been promoted to HT3
+@Triser - Triser5000 - has been promoted to HT3
 
 HT3 Fights
 
@@ -4708,7 +4707,7 @@ Deleted User
 
 HT3 Fights:
 
-    0-10 ricardoxx_
+    0-10 Ricardoxx_
 
 tyler
  — 
@@ -4729,7 +4728,7 @@ Deleted User
 
 HT3 Fights
 
-    4-10 ricardoxx_
+    4-10 Ricardoxx_
 
 Frantic
  — 
@@ -4827,7 +4826,7 @@ LT2 Fights
 intrepidsword
  — 
 17/01/2024, 03:06
-@Deleted User has Passed his HT3 Test.
+@Deleted User - unknownuser -has Passed his HT3 Test.
 
 HT3 Fights
 
@@ -4847,7 +4846,7 @@ HT3 Fights
 Deleted User
  — 
 18/01/2024, 00:17
-@Bastigang - ricardoxx_ - has Failed their HT2 test.
+@Bastigang - Ricardoxx_ - has Failed their HT2 test.
 
 LT2 Fights
 
@@ -4863,21 +4862,21 @@ HT2 Fights
 Warns
 
     9-10 FranticComodore
-    2-10 ricardoxx_
+    2-10 Ricardoxx_
 
 @Cmit (1791) - idns - demoted to HT3.
 
 Warns
 
     5-10 Aximity
-    2-10 ricardoxx_
+    2-10 Ricardoxx_
 
  
 @KoharuDeTodos  - KOHARU89 - demoted to LT2.
 
 Warns
 
-    9-10 ricardoxx_
+    9-10 Ricardoxx_
 
 
 Frantic
@@ -4965,7 +4964,7 @@ LT2 Fights:
     10-3 mzrio
     10-0 SixtyFive65
     10-7 C0RZZ
-    9-10 ricardoxx_
+    9-10 Ricardoxx_
 
 
 Deleted User
@@ -5143,7 +5142,7 @@ LT2 Fights
 sharpur
  — 
 04/02/2024, 22:00
-@Triser | @ - Triser5000 - has Passed their HT3 Test.
+@Triser - Triser5000 - has Passed their HT3 Test.
 
 HT3 Fights:
 
@@ -5295,7 +5294,7 @@ HT3 Fights
 
 LT2 Fights
 
-    2-10 ricardoxx_
+    2-10 Ricardoxx_
 
 Frantic
  — 
@@ -5335,7 +5334,7 @@ HT3 Fight
 LT2 Fights
 
     10-3 CrazyKelp
-    10-4 ricardoxx_
+    10-4 Ricardoxx_
 
 Frantic
  — 
@@ -5435,7 +5434,7 @@ HT3 Fights
 LT2 Fights
 
     10-6 idns
-    10-7 ricardoxx_
+    10-7 Ricardoxx_
 AroyDeKoharu
  — 
 04/03/2024, 03:51
@@ -5566,7 +5565,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    1-10 ricardoxx_
+    1-10 Ricardoxx_
 
 Crazykelp
  — 
@@ -5657,7 +5656,7 @@ LT2 Fights:
 
 HT2 Fights:
 
-    10-8 adolie_
+    10-8 adolie
     7-10 KOHARU89
 intrepidsword
  — 
@@ -5753,7 +5752,7 @@ Greek 🐐
 maurito
  — 
 27/03/2024, 20:28
-@Bastigang   - ricardoxx_ - has Failed their HT2 test.
+@Bastigang   - Ricardoxx_ - has Failed their HT2 test.
 
 LT2 Fights:
 
@@ -5792,7 +5791,7 @@ Deleted User
 @AxzllDeRay - Axzll - has been ranked at HT2
 @Deleted User - melodd - promoted to LT3 (Can test for HT3 at anytime)
 @yb - mamaloni - promoted to LT2
-@Triser | @ - Triser5000 - ForceTested to LT2
+@Triser - Triser5000 - ForceTested to LT2
 Deleted User
  — 
 30/03/2024, 23:10
@@ -5828,7 +5827,7 @@ HT3 Fights
 
 LT2 Fights
 
-    4-10 ricardoxx_ 
+    4-10 Ricardoxx_ 
 
  
 blossoomm
@@ -5942,8 +5941,8 @@ LT2 Fights:
 HT2 Fights:
 
     10-1 KOHARU89
-    10-4 PrietoAdoli
-    10-0 PrietoAdoli
+    10-4 Adolie
+    10-0 Adolie
 
  
 sharpur
@@ -5989,7 +5988,7 @@ LT2 Fights:
 Leon
  — 
 13/04/2024, 22:45
-@Triser | @ - Triser5000 - has failed their LT2 test.
+@Triser - Triser5000 - has failed their LT2 test.
 
 HT3 Fights:
 
@@ -6119,7 +6118,7 @@ HT2 Fights:
 dry
  — 
 27/04/2024, 06:22
-@Deleted User - has failed their LT2 Test.
+@Deleted User - unknown- has failed their LT2 Test.
 
 HT3 Fights:
 4-10 DryAU
@@ -6161,7 +6160,7 @@ Deleted User
 Crazykelp
  — 
 30/04/2024, 03:48
-@Bastigang - ricardoxx_ - has Failed their HT2 Test.
+@Bastigang - Ricardoxx_ - has Failed their HT2 Test.
 
 LT2 Fights:
 
@@ -6181,7 +6180,7 @@ Crazykelp
 Warns:
 
     4-10 sthefano
-    1-10 ricardoxx_
+    1-10 Ricardoxx_
 
  
 intrepidsword
@@ -6214,14 +6213,10 @@ HT3 Fights:
 
     10-5 Triser5000
 
-AroyDeKoharu
- — 
-04/05/2024, 20:37
-May test for LT2 at anytime
 sharpur
  — 
 05/05/2024, 17:39
-@redz - has Failed their LT2 Test.
+@redz - ImRedz - has Failed their LT2 Test.
 
 LT2 Fights
 
@@ -6230,7 +6225,7 @@ LT2 Fights
 sharpur
  — 
 05/05/2024, 22:34
-@blossoomm - has Failed their Purge Test.
+@blossoomm - blossomm - has Failed their Purge Test.
 
 HT3 Fights:
 
@@ -6239,7 +6234,7 @@ HT3 Fights:
 sharpur
  — 
 06/05/2024, 18:12
-@Selay (938) - has Failed their Purge Test.
+@Selay (938) - Selay - has Failed their Purge Test.
 
 HT3 Fights
 
@@ -6308,7 +6303,7 @@ HT3 Fight:
 
 LT2 Fight:
 
-    3-10 ricardoxx_
+    3-10 Ricardoxx_
 
 
 sharpur
@@ -6378,7 +6373,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    2-10 adoliet
+    2-10 adolie
 
 Deleted User
  — 
@@ -6429,7 +6424,7 @@ HT3 Fights
 
 LT2 Fight:
 
-    10-8 ricardoxx_
+    10-8 Ricardoxx_
 
 AroyDeKoharu
  — 
@@ -6607,15 +6602,6 @@ HT3 Fights:
 
     10-8 MrJulan
 
- 
-Crazykelp
- — 
-09/06/2024, 23:44
-@yb - mamaloni - Demoted to HT3.
-
-Warns:
-
-    0-10 HalalKebab
 
 Crazykelp
  — 
@@ -6709,7 +6695,7 @@ The standings after the tournament are:
 
     KOHARU89
     C0rzz
-    ricardoxx_
+    Ricardoxx_
     Sharpur
     Idns
     Alexandzr
@@ -6771,7 +6757,7 @@ HT3 Fights
 
     10-9 Triser5000
 
-@Triser | @ - Triser5000 - has Failed their LT2 Test
+@Triser - Triser5000 - has Failed their LT2 Test
 
 HT3 Fights
 
@@ -6878,7 +6864,7 @@ HT3 Fights:
 intrepidsword
  — 
 08/07/2024, 02:56
-@Bastigang  - ricardoxx_ - has Passed their LT2 Test.
+@Bastigang  - Ricardoxx_ - has Passed their LT2 Test.
 
 HT3 Fights:
 
@@ -6912,7 +6898,7 @@ Crazykelp
 
 LT2 Fights:
 
-    10-2 eKevy
+    10-2 Adolie
     10-3 JackerAcid
     10-4 Crazykelp
 
@@ -6944,7 +6930,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-4 JackerAcid
-    10-8 ricardoxx_
+    10-8 Ricardoxx_
 
 
 EMP
@@ -6954,7 +6940,7 @@ EMP
 
 Warns:
 
-    6-10 ricardoxx_
+    6-10 Ricardoxx_
     4-10 alepordio
 
 EMP
@@ -6966,7 +6952,7 @@ LT2 Fights:
 
     10-4 JackerAcid
     10-5 Crazykelp
-    10-3 ricardoxx_
+    10-3 Ricardoxx_
     10-8 alepordio
 
 AroyDeKoharu
@@ -6982,11 +6968,11 @@ HT3 Fights:
 
 LT2 Fights:
 
-    10-7 ricardoxx_
-    10-1 ricardoxx_ 
+    10-7 Ricardoxx_
+    10-1 Ricardoxx_ 
     9-10 alepordio
 
-@Bastigang - ricardoxx_ - has been Demoted to HT3.
+@Bastigang - Ricardoxx_ - has been Demoted to HT3.
 
 Warns
 
@@ -7116,7 +7102,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    9-10 ricardoxx_
+    9-10 Ricardoxx_
     6-10 C0RZZ
 
 
@@ -7127,7 +7113,7 @@ Crazykelp
 
 LT2 Fights:
 
-    10-2 eKevy
+    10-2 Adolie
     10-3 JackerAcid
     10-3 alepordio
     10-4 Crazykelp
@@ -7281,7 +7267,7 @@ LT2 Fights:
 Airo
  — 
 12/08/2024, 15:31
-@nigerianprince96 - Cronee - has PASSED Their HT3 Test.
+@nigerianprince96 - CroneCrafter - has PASSED Their HT3 Test.
 
 HT3 Fights:
 
@@ -7487,7 +7473,7 @@ HT3 Fights:
 
     10-8 alepordio
     10-8 JackerAcid
-    10-7 ricardoxx_
+    10-7 Ricardoxx_
     10-7 IntrepidSword
     10-4 TripleLion
     10-0 TripleISONTop
@@ -7522,7 +7508,7 @@ HT3 Fights
 Airo
  — 
 29/08/2024, 22:39
-@nigerianprince96 - Cronee - Has FAILED Their LT2 Test:
+@nigerianprince96 - CroneCrafter - Has FAILED Their LT2 Test:
 
 HT3 Fights
 
@@ -7557,12 +7543,12 @@ jano
 
 HT3 Fights:
 
-    8-10 Cronee
+    8-10 CroneCrafter
 
 jano
  — 
 30/08/2024, 22:03
-@.  - zVinex has PASSED  his LT2 Test.
+@.  - zVinex - has PASSED  his LT2 Test.
 
 HT3 Fights:
 
@@ -7638,7 +7624,7 @@ jano
 
 HT3 Fights:
 
-    10-8 Cronee
+    10-8 CroneCrafter
 
  
 Airo
@@ -7707,7 +7693,7 @@ jano
 
 HT3 Fights:
 
-    8-10 Cronee
+    8-10 CroneCrafter
 
 Spawnplayer
  — 
@@ -7742,7 +7728,7 @@ LT2 Fight:
 Crazykelp
  — 
 28/09/2024, 05:08
-@Bastigang - ricardoxx_ - has Unretired and tested for HT3.
+@Bastigang - Ricardoxx_ - has Unretired and tested for HT3.
 
 HT3 Fights:
 
@@ -7771,7 +7757,7 @@ LT2 Fights:
 jano
  — 
 01/10/2024, 18:19
-@nigerianprince96 - Cronee - has Passed their LT2 Test.
+@nigerianprince96 - CroneCrafter - has Passed their LT2 Test.
 
 HT3 Fights:
 
@@ -7845,7 +7831,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-2 Hellsinky 
-    10-6 Cronee 
+    10-6 CroneCrafter 
 
  
 Crazykelp
@@ -8124,7 +8110,7 @@ GgcAcid
 jano
  — 
 02/11/2024, 12:51
-@blossoomm - blossoomm has Failed their LT2 Test.
+@blossoomm - blossoomm - has Failed their LT2 Test.
 
 HT3 Fights:
 
@@ -8139,7 +8125,7 @@ yMiau
 jano
  — 
 02/11/2024, 18:51
-@jfeg - jfeg has Failed their LT2 Test. 
+@jfeg - jfeg - has Failed their LT2 Test. 
 
 HT3 Fights:
 
@@ -8448,7 +8434,7 @@ LT2 Fights:
 blossoomm
  — 
 11/11/2024, 20:52
-@Bastigang - ricardoxx_ - has Passed their LT2 Test.
+@Bastigang - Ricardoxx_ - has Passed their LT2 Test.
 
 HT3 Fights
 
@@ -8470,7 +8456,7 @@ Testing for HT2
 MsrioDeJacker
  — 
 12/11/2024, 01:12
-@Bastigang - ricardoxx_ - has Failed their HT2 Test.
+@Bastigang - Ricardoxx_ - has Failed their HT2 Test.
 
 HT2 Fights
 
@@ -8490,7 +8476,7 @@ Crazykelp
 Warns:
 
     6-20 mzrio 
-    3-10 ricardoxx_
+    3-10 Ricardoxx_
 
  
 blossoomm
@@ -8538,7 +8524,7 @@ LT2 Fights
     10-3 mzrio 
     10-9 Venudo
     10-2 Flcwers
-    8-10 ricardoxx_
+    8-10 Ricardoxx_
 
 
 
@@ -8547,7 +8533,7 @@ LT2 Fights
 Warns:
 
     2-10 Crazykelp 
-    2-10 ricardoxx_
+    2-10 Ricardoxx_
 
 EMP
  — 
@@ -8632,7 +8618,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    2-10 ricardoxx_
+    2-10 Ricardoxx_
 
 
 blossoomm
@@ -8666,7 +8652,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    4-10 ricardoxx_
+    4-10 Ricardoxx_
 
 jano
  — 
@@ -8770,7 +8756,7 @@ HT3 Fights
 LT2 Fights
 
     10-7 E_X_K
-    9-10 ricardoxx_
+    9-10 Ricardoxx_
 
 
 Congrats again! 👑 🐐 
@@ -8808,7 +8794,7 @@ HT3 Fights
 
 LT2 Fights
 
-    5-10 ricardoxx_
+    5-10 Ricardoxx_
 
 Hellsin
  — 
@@ -8859,7 +8845,7 @@ Crazykelp
 
 LT2 Fights:
 
-    9-10 ricardoxx_ 
+    9-10 Ricardoxx_ 
 
 EMP
  — 
@@ -8915,12 +8901,12 @@ Crazykelp
 
 HT3 Fights:
 
-    10-7 vaybeowo
+    10-7 alescious
 
 intrepidsword
  — 
 08/12/2024, 21:35
-@Deleted User  - alecious_ - has Passed their HT3 Test
+@Deleted User  - alescious - has Passed their HT3 Test
 
 HT3 Fights
 
@@ -8971,7 +8957,7 @@ LT2 Fights:
     1-10 Crazykelp
 
 
-PyrettaBlaze_
+Gingerds
  — 
 14/12/2024, 01:45
 @ShadowZeuss - ShadowZeuss - has Passed his HT3 Test
@@ -8981,7 +8967,7 @@ HT3 Fights:
     10-7 _ARoy
 
  
-PyrettaBlaze_
+Gingerds
  — 
 14/12/2024, 23:21
 @Kit - Kitttd - has Passed his HT3 Test
@@ -8993,14 +8979,14 @@ HT3 Fights:
 
 CONGRATS KITTYDRAGON
  
-PyrettaBlaze_
+Gingerds
  — 
 14/12/2024, 23:31
 @Zynn - Zynn - has Passed his HT3 Test
 
 HT3 Fights
 
-    10-8 vaybeowo
+    10-8 alescious
 
 
 CONGRATS DEMON AXE
@@ -9101,15 +9087,6 @@ LT2 Fights:
     2-10 C0RZZ
 
 
- 
-yMiau
- — 
-19/12/2024, 23:11
-@Banumgeher - Banumgeher - Demoted to HT3 [Exceeded warns limit]
-EMP
- — 
-20/12/2024, 08:18
-No cooldown as this was a force test
 That1Red
  — 
 20/12/2024, 10:19
@@ -9122,11 +9099,6 @@ HT3 Fights
     10-1 Fxt3
 
 
-
-That1Red
- — 
-20/12/2024, 10:20
-Bridge-Testing to LT2 
 Crazykelp
  — 
 20/12/2024, 21:16
@@ -9139,7 +9111,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    10-3 ricardoxx_
+    10-3 Ricardoxx_
     10-4 Anderryuu
     10-5 Obrotowiec
 
@@ -9171,17 +9143,13 @@ HT3 Fights :yes:
 ryupz
  — 
 22/12/2024, 02:43
-@CANGREJO_PAPEADOR  - has Passed their HT3 Test.
+@CANGREJO_PAPEADOR - jose_sigma_papeo - has Passed their HT3 Test.
 
 HT3 Fights:
 
     8-10  sthefano 
 
 
- 
-intrepidsword
- — 
-22/12/2024, 03:11
 
 yMiau
  — 
@@ -9217,10 +9185,12 @@ LT2 Fights
     10-0 EXK
     10-3 C0RZZ  
     1-10 C0RZZ
+
+
 yMiau
  — 
 25/12/2024, 21:32
-@Triser | @ - Triser5000 - Unretired at HT3
+@Triser - Triser5000 - Unretired at HT3
 
 HT3 Fights
 
@@ -9230,7 +9200,7 @@ HT3 Fights
 Hellsin
  — 
 26/12/2024, 02:34
-@Vayb - vaybeowo - has Failed their LT2 Test.
+@Vayb - alescious - has Failed their LT2 Test.
 
 HT3 Fights
 
@@ -9239,7 +9209,7 @@ HT3 Fights
 
 LT2 Fights
 
-    3-10 ricardoxx_
+    3-10 Ricardoxx_
 
 
 
@@ -9259,14 +9229,6 @@ LT2 Fights
 
 
  
-blossoomm
- — 
-26/12/2024, 22:49
-@Banumgeher - Demoted to LT3 [Requested] 
-yMiau
- — 
-27/12/2024, 14:25
-@fxt3 - Demoted to LT3 [Forfeited Re-Test]
 yMiau
  — 
 27/12/2024, 16:29
@@ -9291,15 +9253,10 @@ LT2 Fights
     1-10 yMiau
 
 
- 
-jano
- — 
-29/12/2024, 11:35
-@knqckback - Demoted to LT3
 jano
  — 
 30/12/2024, 22:01
-@Deleted User - alecious_ - has Passed their LT2 Test.
+@Deleted User - alescious - has Passed their LT2 Test.
 
 HT3 Fights:
 
@@ -9309,7 +9266,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-6 Anderryuu
-    10-6 ricardoxx_x
+    10-6 Ricardoxx_
 
 
 Testing for HT2
@@ -9317,18 +9274,12 @@ Testing for HT2
 EMP
  — 
 30/12/2024, 22:38
-@Deleted User - alecious_ - has Failed their HT2 Test.
+@Deleted User - alescious - has Failed their HT2 Test.
 
 LT2 Fights:
 
     2-10 C0RZZ
 
-
- 
-Crazykelp
- — 
-31/12/2024, 04:19
-@Vayb - vaybeowo - Demoted to LT3 [Requested]
 yMiau
  — 
 01/01/2025, 13:51
@@ -9352,7 +9303,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    7-10 alecious_
+    7-10 alescious
     8-10 yMiau
 
 
@@ -9363,8 +9314,8 @@ EMP
 
 LT2 Fights:
 
-    10-1 alecious_
-    10-2 ricardoxx_
+    10-1 alescious
+    10-2 Ricardoxx_
     10-0 Anderryuu
     4-10 Anderryuu
     10-0 Crazykelp
@@ -9389,7 +9340,7 @@ LT2 Fights
 
     10-5 Obrotowiec
     10-4 Anderryuu
-    10-3 ricardoxx_
+    10-3 Ricardoxx_
     10-0 alecious
 
 
@@ -9405,8 +9356,8 @@ HT3 Fights
 
 LT2 Fights
 
-    8-10 alecious_
-    4-10 ricardoxx_
+    8-10 alescious
+    4-10 Ricardoxx_
 
 
 
@@ -9423,7 +9374,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-2 Banumgeher 
-    10-4 ricardoxx_
+    10-4 Ricardoxx_
 
 
 
@@ -9439,7 +9390,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    7-10 alecious_
+    7-10 alescious
     2-10 Anderryuu
 
 
@@ -9467,11 +9418,7 @@ HT3 Fights
 
 
 
-intrepidsword
- — 
-06/01/2025, 22:19
-Where was the high test ping
-PyrettaBlaze_
+Gingerds
  — 
 07/01/2025, 21:38
 @FriendlyMonkey - ninorc15 - has Tested for HT3.
@@ -9541,7 +9488,7 @@ HT3 Fights
 
     10-4 dclfin
 
-Triser | @
+Triser
  — 
 10/01/2025, 23:57
 @Banumgeher - Banumgeher - has Failed their LT2 Test
@@ -9586,7 +9533,7 @@ No Cooldown
     bvoaz
     _Korok
     Turtiled
-Triser | @
+Triser
  — 
 11/01/2025, 18:15
 @Paulinho - Paulinhq - has Failed their LT2 Test
@@ -9630,7 +9577,7 @@ LT2 Fights
 
 
 
-Triser | @
+Triser
  — 
 13/01/2025, 20:02
 @redz - ImRedz - has Tested for HT3.
@@ -9651,8 +9598,8 @@ All participants have been placed on 10 Days of cooldown, except Spawnplayer, EX
 @JackerAcid - JackerAcid - Remains on Low Tier 2
 @alfie - EXK - Promoted to Low Tier 2
 @Anderryuu - Anderryuu - Remains on Low Tier 2
-@Deleted User - alecious_ - Demoted to High Tier 3
-@Bastigang - ricardoxx_ - Demoted to High Tier 3
+@Deleted User - alescious - Demoted to High Tier 3
+@Bastigang - Ricardoxx_ - Demoted to High Tier 3
 
 
 Tournament Bracket: https://brackethq.com/b/aauec/
@@ -9661,6 +9608,10 @@ Tournament Bracket: https://brackethq.com/b/aauec/
 Bracket HQ
 LT2 Re-Eval | Bracket HQ
 LT2 Re-Eval | Bracket HQ
+
+yMiau
+ — 
+13/01/2025, 23:00
 @skibiditoietlminion - exllaa - Tested for HT3
 
 
@@ -9714,7 +9665,7 @@ LT3 :arrow_down~1:
 Thank you all for participating :Crown: 
 
  
-Triser | @
+Triser
  — 
 14/01/2025, 16:58
 @knqckback - knqckback - has Failed their LT2 Test.
@@ -9794,7 +9745,7 @@ Congratulations to @Crazykelp for winning the Global Tournament and achieving @H
     Crazykelp Unretired at HT2 (Testing for LT1) :trophy~6: :crown1st: 
 
 
-    ricardoxx_ Promoted to LT2
+    Ricardoxx_ Promoted to LT2
     Obrotowiec Force-Tested to HT2.
     blossoomm Force-Tested to LT2.
 
@@ -9951,11 +9902,11 @@ LT2 Fights:
 ShadowZeuss
  — 
 20/01/2025, 22:01
-@Triser | @  - Triser5000 - has Failed their HT2 Test
+@Triser  - Triser5000 - has Failed their HT2 Test
 
 LT2 Fights:
 
-    8-10 ricardoxx_
+    8-10 Ricardoxx_
 
 
 knqckback
@@ -10053,7 +10004,7 @@ LT2 Fights
 Hellsin
  — 
 27/01/2025, 02:21
-@Deleted User - alecious_ - has Failed their LT2 Test
+@Deleted User - alescious - has Failed their LT2 Test
 
 HT3 Fights:
 
@@ -10277,7 +10228,7 @@ HT3 Fights
     4-10 superkarlos1
 
  
-Triser | @
+Triser
  — 
 08/02/2025, 14:03
 @luki - Zartstein - has Failed their LT2 Test
@@ -10293,7 +10244,7 @@ LT2 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 08/02/2025, 19:29
 @adrinicoooo   - adrinicooo011 - has Passed their HT3 Test
@@ -10331,7 +10282,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    10-1 ricardoxx_
+    10-1 Ricardoxx_
     5-10 JackerAcid
 
 
@@ -10354,7 +10305,7 @@ LT2 Fights:
 yMiau
  — 
 09/02/2025, 19:11
-@nigerianprince96 - cronee - has Passed their LT2 Test.
+@nigerianprince96 - CroneCrafter - has Passed their LT2 Test.
 
 HT3 Fights
 
@@ -10395,7 +10346,7 @@ HT3 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 10/02/2025, 10:26
 @Deleted User    - 47cps - has Passed their LT2 Test
@@ -10431,7 +10382,7 @@ Top 1 France?
 blossoomm
  — 
 12/02/2025, 21:45
-@nigerianprince96 - cronee - has Failed their HT2 Test.
+@nigerianprince96 - CroneCrafter - has Failed their HT2 Test.
 
 LT2 Fights
 
@@ -10505,7 +10456,7 @@ HT3 Fights
 
 Testing for LT2
  
-PyrettaBlaze_
+Gingerds
  — 
 14/02/2025, 20:20
 @noob sheep | add to lt4 - RoiMouton - has Failed their LT2 Test.
@@ -10517,7 +10468,7 @@ HT3 Fight
 
 LT2 Fight
 
-    3-10 Cronee
+    3-10 CroneCrafter
 
 
 yMiau
@@ -10639,22 +10590,22 @@ LT2 Fights
 GgcAcid
  — 
 16/02/2025, 23:56
-@kiks - SKIBIDIkiks has PASSED their HT3 Test!
+@kiks - SKIBIDIkiks - has PASSED their HT3 Test!
 
 HT3 Fight:
 8-10 Zartstein
 
 
-PyrettaBlaze_
+Gingerds
  — 
 17/02/2025, 01:25
-@ivan - Ivandss has Failed their HT3 Re-Test.
+@ivan - Ivandss - has Failed their HT3 Re-Test.
 
 HT3 Fights
 
     5-10 flowtives
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 17/02/2025, 20:49
 @Airo - AiroKun - has Passed their HT3 Re-Test
@@ -10745,7 +10696,7 @@ HT3 Fight:
 8-10 Mrjulan
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 27/02/2025, 17:54
 @sharpur  - sharpur - has Passed their HT3 Test.
@@ -10766,7 +10717,7 @@ Left the server
 
 @Zynn - Zynrr - Demoted to LT3
 Requested
-PyrettaBlaze_
+Gingerds
  — 
 28/02/2025, 07:29
 @we2wolf - Yeniza - has Failed their LT2 Test.
@@ -10840,11 +10791,11 @@ HT3 Fights:
 Deleted User
  — 
 02/03/2025, 14:56
-@Triser | @  - Triser5000 - has Failed his HT2 Test.
+@Triser  - Triser5000 - has Failed his HT2 Test.
 
 LT2 Fights:
 
-    10-4 cronee
+    10-4 CroneCrafter
 
 
 HT2 Fights:
@@ -10859,11 +10810,11 @@ yMiau
 yMiau
  — 
 02/03/2025, 22:35
-@Hellsin - MimicSinky - has Passed their LT2 Test. 
+@Hellsin - HellSinky - has Passed their LT2 Test. 
 
 HT3 Fights:
 
-    10-3 MimicAlecious
+    10-3 alescious
 
 
 LT2 Fights:
@@ -10871,7 +10822,7 @@ LT2 Fights:
     10-5 ninorc15
     10-1 EXK
 
-PyrettaBlaze_
+Gingerds
  — 
 03/03/2025, 01:44
 @Vayb - asdawer - has Passed their HT3 Re-Test.
@@ -10884,11 +10835,11 @@ HT3 Fights
 AroyDeKoharu
  — 
 03/03/2025, 01:47
-@Hellsin - MimicSinky - has Failed their HT2 Test. 
+@Hellsin - HellSinky - has Failed their HT2 Test. 
 
 HT3 Fights:
 
-    10-3 MimicAlecious
+    10-3 alescious
 
 
 LT2 Fights:
@@ -10910,7 +10861,7 @@ Image
 KoharuDeTodos
  — 
 04/03/2025, 00:51
-@foxt!  - F0XT1 has Failed their LT2 Test.
+@foxt!  - F0XT1 - has Failed their LT2 Test.
 
 HT3 Fights
 
@@ -10919,14 +10870,14 @@ HT3 Fights
 
 LT2 Fights
 
-    3-10 MimicSinky
+    3-10 HellSinky
 
 
 
 KoharuDeTodos
  — 
 04/03/2025, 02:29
-@Deleted User  - MimicAlecious - has Passed his LT2 Test.
+@Deleted User  - alescious - has Passed his LT2 Test.
 
 HT3 Fights:
 
@@ -11020,8 +10971,8 @@ yMiau
 
 LT2 Fights
 
-    10-1 MimicSinky
-    6-10 MimicAlecious
+    10-1 HellSinky
+    6-10 alescious
 
 
 HT2 Fights
@@ -11037,7 +10988,7 @@ LT2 Fights
 
     10-5 Anderryuu
     10-4 Banumgeher 
-    8-10 cronee
+    8-10 CroneCrafter
 
 
 HT2 Fights
@@ -11078,7 +11029,7 @@ LT2 Fights
 AroyDeKoharu
  — 
 12/03/2025, 02:35
-@PyrettaBlaze_ - Gingerds - has Passed their HT3 Test.
+@Gingerds - Gingerds - has Passed their HT3 Test.
 
 
 
@@ -11098,7 +11049,7 @@ HT3 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 14/03/2025, 23:55
 @MrJulan    - MrJulan - has Failed their LT2 Test.
@@ -11107,7 +11058,7 @@ HT3 Fights:
 
     8-10 F0XT1
 
-PyrettaBlaze_
+Gingerds
  — 
 15/03/2025, 01:39
 @ShadowZeuss - ShadowZeuss - has Failed their LT2 Test.
@@ -11122,10 +11073,10 @@ LT2 Fight
     0-10 Crazykelp
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 15/03/2025, 02:24
-@nigerianprince96  - cronee - has Failed their HT2 Test.
+@nigerianprince96  - CroneCrafter - has Failed their HT2 Test.
 
 LT2 Fight
 
@@ -11133,7 +11084,7 @@ LT2 Fight
     3-10 KOHARU89
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 16/03/2025, 00:08
 @xicz - xicz - has Passed his HT3 Re-Test
@@ -11144,10 +11095,10 @@ HT3 Fight
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 16/03/2025, 00:40
-@GgcAcid  - MimicGgc - has Passed his HT3 Test
+@GgcAcid  - Ggc69 - has Passed his HT3 Test
 
 HT3 Fight
 
@@ -11155,7 +11106,7 @@ HT3 Fight
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 16/03/2025, 00:40
 Testing for LT2 :ggc69: 🐐
@@ -11167,7 +11118,7 @@ left the Server
 Hellsin
  — 
 16/03/2025, 02:51
-@GgcAcid - MimicGgc - has Failed their LT2 Test.
+@GgcAcid - Ggc69 - has Failed their LT2 Test.
 
 HT3 Fight
 
@@ -11176,7 +11127,7 @@ HT3 Fight
 
 LT2 Fight
 
-    6-10 MimicAlecious
+    6-10 alescious
 
 
 That1Red
@@ -11212,7 +11163,7 @@ LT2 Fight
 
     5-10 JackerAcid
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 18/03/2025, 17:19
 @ruby(Jonas andreas) - rubyficado - has Passed their HT3 Test
@@ -11222,7 +11173,7 @@ HT3 Fight
     10-2 Sirceyyy
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 18/03/2025, 21:25
 @Ray Birb of Sillies  - RayCM - has Passed their HT3 Test
@@ -11237,9 +11188,9 @@ yMiau
 @KoharuDeTodos - KOHARU89 - has Passed their LT1 Test.
 LT2 Fights
 
-    10-1 MimicSinky 
-    10-2 MimicAlecious 
-    6-10 MimicAlecious
+    10-1 HellSinky 
+    10-2 alescious 
+    6-10 alescious
 
 
 HT2 Fights
@@ -11268,7 +11219,7 @@ Re-Testing
 AroyDeKoharu
  — 
 22/03/2025, 22:52
-@nigerianprince96  - cronee - has Failed their HT2 Test.
+@nigerianprince96  - CroneCrafter - has Failed their HT2 Test.
 
 LT2 Fights:
 
@@ -11336,7 +11287,7 @@ HT3 Fights:
 
 Forfeited due to inability to test (Blacklisted)
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 26/03/2025, 19:54
 @knqckback - knqckback - has Failed their LT2 Test.
@@ -11354,14 +11305,14 @@ LT2 Fights
 
 
  
-Dababe31 | don't @ for spec
+Dababe31
  — 
 26/03/2025, 21:29
-@Triser | @  - Triser5000 - has Passed their HT2 Test.
+@Triser  - Triser5000 - has Passed their HT2 Test.
 
 LT2 Fights:
 
-    10-4 Cronee
+    10-4 CroneCrafter
 
 
 HT2 Fights:
@@ -11375,7 +11326,7 @@ HT2 Fights:
 Ray Birb of Sillies
  — 
 27/03/2025, 21:11
-@Anderryuu - Anderryuu has FAILED their LT2 Test.
+@Anderryuu - Anderryuu - has FAILED their LT2 Test.
 
 HT3 Fight:
 
@@ -11388,11 +11339,11 @@ LT2 Fight:
 Hellsin
  — 
 29/03/2025, 05:43
-@Deleted User - MimicAlecious - has Failed their HT2 Test.
+@Deleted User - alescious - has Failed their HT2 Test.
 
 LT2 Fights:
 
-    10-8 MimicSinky
+    10-8 HellSinky
 
 
 
@@ -11433,14 +11384,14 @@ HT3 Fights:
 
 LT2 Fights:
 
-    10-5 MimicAlecious
+    10-5 alescious
     5-10 JackerAcid
 
 yMiau
  — 
 30/03/2025, 12:36
 @Deleted User - Mimicps_ - Demoted to HT3 [Requested] 
-PyrettaBlaze_
+Gingerds
  — 
 30/03/2025, 22:02
 @luki - misu9 - has Failed their LT2 Test.
@@ -11454,7 +11405,7 @@ HT3 Fights
 Crazykelp
  — 
 31/03/2025, 07:54
-@PyrettaBlaze_ - Gingerds - has Failed their LT2 Test.
+@Gingerds - Gingerds - has Failed their LT2 Test.
 
 HT3 Fights:
 
@@ -11475,7 +11426,7 @@ HT3 Fights:
 LT2 Fights:
 
     7-10 MimicCps_
-    9-10 cronee
+    9-10 CroneCrafter
 
 yMiau
  — 
@@ -11506,7 +11457,7 @@ LT2 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 04/04/2025, 22:51
 @EU | Asikuu - Asikuu - has Passed their HT3 Test.
@@ -11530,7 +11481,7 @@ HT3 Fight:
 
 
  
-Dababe31 | don't @ for spec
+Dababe31
  — 
 05/04/2025, 16:32
 @qwertyuiopasdfghjklzxcvbnm  - QuiltedSun - has Failed their LT2 Test.
@@ -11579,7 +11530,7 @@ LT2 Fights
 
     7-10 Banumgeher
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 06/04/2025, 19:23
 @dclfin   - dclfin - has Failed their LT2 Test.
@@ -11592,7 +11543,7 @@ HT3 Fight
 
 LT2 Fight
 
-    6-10 Cronee
+    6-10 CroneCrafter
 
 
 
@@ -11618,14 +11569,14 @@ HT3 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 09/04/2025, 13:44
 @flowtives  - Flowtives - Unretired at HT3.
 
 HT3 Fights
 
-    10-7 Dyphorium
+    10-7 Gingerds
     10-1 Endy0
 
 
@@ -11640,14 +11591,14 @@ LT2 Fights
 Ray Birb of Sillies
  — 
 09/04/2025, 16:44
-@Runn1n9 Has PASSED Their HT3 Test and has FAILED their LT2 Test 
+@Runn1n9 - runn1n9 - Has PASSED Their HT3 Test and has FAILED their LT2 Test 
 
 HT3 Fights
 
     10-1 1SarpyXD
     8-10 DiatomicMars 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 10/04/2025, 21:07
 @Bobr   - Obrotowiec - has failed his HT2 Test.
@@ -11675,7 +11626,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    3-10 cronee
+    3-10 CroneCrafter
 
 dclfin
  — 
@@ -11690,7 +11641,7 @@ HT3 Fights
 GgcAcid
  — 
 11/04/2025, 23:46
-@Endy0 - Endy0 has Failed their HT3 Re-Test
+@Endy0 - Endy0 - has Failed their HT3 ReTest
 
 HT3 Fights:
 
@@ -11712,10 +11663,6 @@ HT3 Fights
  
 yMiau
  — 
-12/04/2025, 21:51
-Testing for LT2
-yMiau
- — 
 13/04/2025, 16:14
 @arsakha - Arsakha - has Passed their LT2 Test.
 
@@ -11727,7 +11674,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    10-6 cronee
+    10-6 CroneCrafter
     10-4 Banumgeher
 
 
@@ -11754,7 +11701,7 @@ LT2 Fifghts:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 14/04/2025, 19:19
 @arsakha - Arsakha - has Failed their HT2 Test.
@@ -11785,7 +11732,7 @@ KoharuDeTodos
 HT3 Fights:
 
     10-5 Ggc69
-    10-8 Dyphorium
+    10-8 Gingerds
 
 
 dclfin
@@ -11802,7 +11749,7 @@ HT3 Fights
 yMiau
  — 
 17/04/2025, 12:17
-@Nevoy - ItzNevoy has Failed their LT2 Test.
+@Nevoy - ItzNevoy - has Failed their LT2 Test.
 
 HT3 Fights
 
@@ -11822,8 +11769,8 @@ HT3 Fights
 LT2 Fights
 
     10-8 HellSinky
-    6-10 alecious_
-    10-8 cronee
+    6-10 alescious
+    10-8 CroneCrafter
 
 
  
@@ -11834,7 +11781,7 @@ yMiau
 
 LT2 Fights
 
-    10-7 cronee
+    10-7 CroneCrafter
     10-6 sharpur
 
 
@@ -11876,10 +11823,10 @@ kiks
  — 
 20/04/2025, 21:37
 Testing for LT2
-Dababe31 | don't @ for spec
+Dababe31
  — 
 21/04/2025, 14:54
-@nigerianprince96  - cronee - has Failed their HT2 Test.
+@nigerianprince96  - CroneCrafter - has Failed their HT2 Test.
 
 LT2 Fights:
 
@@ -11957,7 +11904,7 @@ LT2 Fights:
     8-10 Sharpur
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 25/04/2025, 22:13
 @Banumgeher  - Banumgeher - has Failed their HT2 Test.
@@ -11983,13 +11930,13 @@ dclfin
 HT3 Fights:
 
     10-3 _ARoy
-    10-2 Dyphorium
+    10-2 Gingerds
 
 
 LT2 Fights:
 
-    4-10 cronee
-    10-8 cronee
+    4-10 CroneCrafter
+    10-8 CroneCrafter
 
 KoharuDeTodos
  — 
@@ -11998,7 +11945,7 @@ KoharuDeTodos
 
 HT3 Fights:
 
-    10-6 Dyphorium
+    10-6 Gingerds
     10-3 Mrjulan
 
 
@@ -12010,7 +11957,7 @@ LT2 Fights:
 KoharuDeTodos
  — 
 28/04/2025, 03:22
-@PyrettaBlaze_    - Dyphorium - has Failed their HT3 ReTest.
+@Gingerds    - Gingerds - has Failed their HT3 ReTest.
 
 HT3 Fights
 
@@ -12030,7 +11977,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-5 paulinhq
-    10-6 cronee
+    10-6 CroneCrafter
 
 
 
@@ -12109,7 +12056,7 @@ LT2 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 04/05/2025, 16:00
 @EU | Asikuu   - Asikuu - has Failed their LT2 Test.
@@ -12129,7 +12076,7 @@ LT2 Fights:
 
     10-4 alepordio
     10-3 Seebachs
-    10-2 cronee
+    10-2 CroneCrafter
 
 
 HT2 Fights:
@@ -12146,7 +12093,7 @@ KoharuDeTodos
  — 
 05/05/2025, 00:35
 Re-Testing
-Dababe31 | don't @ for spec
+Dababe31
  — 
 09/05/2025, 17:49
 @sharpur    - sharpur - has Failed their HT2 Test.
@@ -12157,7 +12104,7 @@ LT2 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 09/05/2025, 19:04
 @Azureyx   - zGoatxng  - has Failed their HT3 Re-Test.
@@ -12187,10 +12134,10 @@ LT2 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 10/05/2025, 04:11
-@PyrettaBlaze_    - Gingerds - has Passed their HT3 Re-Test.
+@Gingerds    - Gingerds - has Passed their HT3 Re-Test.
 
 HT3 Fights:
 
@@ -12199,7 +12146,7 @@ HT3 Fights:
 
  
 PASSED**!!*!
-Dababe31 | don't @ for spec
+Dababe31
  — 
 10/05/2025, 04:12
 Testing for LT2 :Pink_Sheep:
@@ -12217,7 +12164,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-5 paulinhq
-    10-6 cronee
+    10-6 CroneCrafter
 
 
 HT2 Fight:
@@ -12239,7 +12186,7 @@ HT3 Fights:
 KoharuDeTodos
  — 
 10/05/2025, 23:11
-@PyrettaBlaze_ - Gingerds - has Failed their LT2 Test.
+@Gingerds - Gingerds - has Failed their LT2 Test.
 
 HT3 Fights:
 
@@ -12298,7 +12245,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-3 alepordio
-    10-6 cronee
+    10-6 CroneCrafter
 
 
 HT2 Fight:
@@ -12314,7 +12261,7 @@ LT1 Fights
 KoharuDeTodos
  — 
 14/05/2025, 20:15
-@nigerianprince96  - cronee - has Failed their HT2 Test.
+@nigerianprince96  - CroneCrafter - has Failed their HT2 Test.
 
 LT2 Fights:
 
@@ -12343,7 +12290,7 @@ yMiau
  — 
 15/05/2025, 18:41
 @ninorcthepopper - ninorc15 - Demoted to LT3. [Banned]
-Dababe31 | don't @ for spec
+Dababe31
  — 
 15/05/2025, 21:08
 :uhclogo: EU HT3 Purge Results 🔪
@@ -12370,7 +12317,7 @@ Asikuu, Dyingfire1 and ItzNevoy have 15d cd
 GgcAcid
  — 
 16/05/2025, 00:41
-@nigerianprince96  - cronee - Demoted to HT3 [Exceded warns limit] 
+@nigerianprince96  - CroneCrafter - Demoted to HT3 [Exceded warns limit] 
 EMP
  — 
 17/05/2025, 04:46
@@ -12385,7 +12332,7 @@ HT3 Fights:
 LT2 Fights:
 
     7-10 Anderryuu
-    10-9 cronee
+    10-9 CroneCrafter
 
  
 KoharuDeTodos
@@ -12406,7 +12353,7 @@ HT3 Fights:
 LT2 Fights:
 
     7-10 mzrio
-    10-6 cronee
+    10-6 CroneCrafter
 
 
 
@@ -12480,10 +12427,10 @@ Tournament Fights
     6-10 IvanCosmic
 
 
-PyrettaBlaze_
+Gingerds
  — 
 18/05/2025, 00:56
-@PyrettaBlaze_ - Gingerds - has Failed Their LT2 Test.
+@Gingerds - Gingerds - has Failed Their LT2 Test.
 
 HT3 Fights
 
@@ -12493,7 +12440,7 @@ HT3 Fights
 
 LT2 Fights
 
-    3-10 cronee
+    3-10 CroneCrafter
 
 Hellsin
  — 
@@ -12573,10 +12520,10 @@ HT3 Fights:
     9-10 IvanCosmic
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 19/05/2025, 01:10
-@Bastigang - ricardoxx_ - has Unretired at HT3. 
+@Bastigang - Ricardoxx_ - has Unretired at HT3. 
 
 HT3 Fights:
 
@@ -12608,12 +12555,9 @@ HT3 Fights
 10-2 kittycatotrap
 
 LT2 Fights
-10-8 cronee
+10-8 CroneCrafter
 5-10 Airokun 
 
-dclfin
- — 
-19/05/2025, 10:29
 
 dclfin
  — 
@@ -12640,17 +12584,7 @@ HT2 Fights:
 
     6-10 JackerAcid
 
-
- 
-KoharuDeTodos
- — 
-20/05/2025, 02:17
-@alepordio has been demoted to HT3 [Exceded warns limit] 
-KoharuDeTodos
- — 
-20/05/2025, 02:27
-Image
-Dababe31 | don't @ for spec
+Dababe31
  — 
 20/05/2025, 04:45
 @Diovak - DiovakMorales - has Failed their HT3 Re-Test.
@@ -12660,11 +12594,6 @@ HT3 Fights:
     5-10 HellSinky
 
 
-
-NA/SA | echols
- — 
-20/05/2025, 04:54
-tienes que afrontar @MrJulan
 EMP
  — 
 23/05/2025, 00:52
@@ -12673,13 +12602,9 @@ EMP
 LT2 Fights:
 
     10-6 sharpur
-    4-10 cronee
+    4-10 CroneCrafter
 
  
-NA/SA | echols
- — 
-23/05/2025, 01:05
-F
 Hellsin
  — 
 23/05/2025, 06:25
@@ -12691,7 +12616,7 @@ HT3 Fights
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 24/05/2025, 04:26
 @KoharuDeTodos  - KOHARU89 - has Failed their HT1 Test.
@@ -12723,7 +12648,7 @@ KoharuDeTodos
 
 HT3 Fights:
 
-    10-7 Freeke_fang
+    10-7 Freekee_Fang
     10-2  Kittydragon_
 
 
@@ -12773,7 +12698,7 @@ yMiau
 
 HT3 Fights
 
-    10-1 alecious_
+    10-1 alescious
     10-4 HellSinky
 
 
@@ -12838,7 +12763,7 @@ HT3 Fights:
 LT2 Fights:
 
     10-8 mzrio
-    7-10 cronee
+    7-10 CroneCrafter
 
 Hellsin
  — 
@@ -12856,7 +12781,7 @@ Hellsin
 
 HT3 Fights
 
-    10-2 ricardoxx_
+    10-2 Ricardoxx_
     10-3 Legendarryy
 
 
@@ -12864,10 +12789,10 @@ LT2 Fights
 
     2-10 mzrio
 
-PyrettaBlaze_
+Gingerds
  — 
 08/06/2025, 05:09
-@PyrettaBlaze_ - Gingerds - has Failed Their LT2 Test.
+@Gingerds - Gingerds - has Failed Their LT2 Test.
 
 HT3 Fights
 
@@ -12888,7 +12813,7 @@ HT3 Fights
 
 LT2 Fights
 
-    6-10 cronee
+    6-10 CroneCrafter
 
 Rightss
  — 
@@ -12916,7 +12841,7 @@ HT3 Fights
 dclfin
  — 
 13/06/2025, 22:13
-@nigerianprince96 - cronee - has Failed their HT2 Test
+@nigerianprince96 - CroneCrafter - has Failed their HT2 Test
 
 LT2 Fights
 
@@ -12935,7 +12860,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    3-10 cronee
+    3-10 CroneCrafter
 
 RagingIsEpic
  — 
@@ -12985,7 +12910,7 @@ yMiau
  — 
 22/06/2025, 14:44
 en mis libros 0-10 es even porque ambos tienen el dígito 0
-PyrettaBlaze_
+Gingerds
  — 
 23/06/2025, 00:50
 @MsrioDeJacker - mzrio - has Failed their HT2 Test.
@@ -13212,7 +13137,7 @@ EU | Balaleches
 
 LT2 Fight:
 
-    9-10 cronee 
+    9-10 CroneCrafter 
 
 Crispy
  — 
@@ -13227,7 +13152,7 @@ HT3 Fights:
 
 LT2 Fights:
 
-    7-10 Cronee
+    7-10 CroneCrafter
     3-10 SEEBACHS
 
 
@@ -13256,7 +13181,7 @@ HT3 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 03/07/2025, 00:49
 @ivan   - SnowPiplup - has Failed their LT2 Test.
@@ -13268,7 +13193,7 @@ HT3 Fights:
 
 
 
-Triser | @
+Triser
  — 
 03/07/2025, 17:35
 @EU | Balaleches  - FutureHT3 - has Passed their HT3 Test
@@ -13292,7 +13217,7 @@ EMP
 
 LT2 Fights:
 
-    10-1 cronee
+    10-1 CroneCrafter
     10-0 paulinhq
 
 
@@ -13340,7 +13265,7 @@ Testing for Tier 1
 Crispy
  — 
 06/07/2025, 00:07
-@GgcAcid  - Ggcdel8 - has Failed their HT2 Test.
+@GgcAcid  - Ggc69 - has Failed their HT2 Test.
 
 LT2 Fights:
 
@@ -13364,11 +13289,6 @@ LT2 Fights:
     1-10 idns
 
 
-
-Hellsin
- — 
-06/07/2025, 04:51
-@GgcAcid has been demoted to HT3 [Exceded warns limit]
 yMiau
  — 
 06/07/2025, 23:48
@@ -13397,7 +13317,7 @@ HT2 Fights
 GgcAcid
  — 
 08/07/2025, 03:54
-@PyrettaBlaze_ - _HappyGingers - Has Failed their LT2 Test
+@Gingerds - Gingerds - Has Failed their LT2 Test
 
 HT3 Fights
 
@@ -13419,7 +13339,7 @@ Tournament Fights
     10-8 Repetita
     10-2 Sub2jiro
 
-Triser | @
+Triser
  — 
 09/07/2025, 23:21
 @Scythere  - Scythere - has Passed their HT3 Test
@@ -13428,14 +13348,14 @@ HT3 Fights
 
     10-9 Banumgeher
 
-PyrettaBlaze_
+Gingerds
  — 
 11/07/2025, 23:07
 @Cmit (1791)  - idns - Has Failed their HT2 Test
 
 LT2 Fights
 
-    10-3 GgcDel8
+    10-3 Ggc69
     10-8 alepordio 
 
 yMiau
@@ -13490,7 +13410,7 @@ HT3 Fights
 
 
  
-PyrettaBlaze_
+Gingerds
  — 
 12/07/2025, 21:39
 @ShadowZeuss -  ShadowZeuss - Has Failed their LT2 Test
@@ -13565,7 +13485,7 @@ HT2 Fights
 dclfin
  — 
 16/07/2025, 20:31
-@nigerianprince96 - cronee - Has Failed their HT2 Test
+@nigerianprince96 - CroneCrafter - Has Failed their HT2 Test
 
 LT2 Fights
 
@@ -13608,7 +13528,7 @@ Hellsin
 
 LT2 Fights
 
-    10-3 GgcDel8
+    10-3 Ggc69
     10-6 paulinhq
 
 
@@ -13781,7 +13701,7 @@ HT3 Fights
 yMiau
  — 
 31/07/2025, 23:33
-@Triser | @ - Triser5000 - has Unretired at LT2.
+@Triser - Triser5000 - has Unretired at LT2.
 
 HT3 Fights
 
@@ -13792,7 +13712,7 @@ HT3 Fights
 LT2 Fights
 
     10-3 Paulinho
-    10-7 cronee
+    10-7 CroneCrafter
 
 
 HT2 Fights
@@ -13852,7 +13772,7 @@ HT3 (LT2 Force-Test No Eval)
 
     @EU | Asikuu - Asikuu
     @adrinicoooo - adrinicoooo
-    @Freekee_Fang - Freeke_Fang
+    @Freekee_Fang - Freekee_Fang
     @ivan - IvanCosmic
 
 
@@ -13860,10 +13780,10 @@ HT3 (10D Cooldown)
 
     @EU | Balaleches - Siegreiches
     @yb - mamaloni
-    @PyrettaBlaze_ - Gingersd
+    @Gingerds - Gingersd
     @AroyDeKoharu - _ARoy
     @Kit  - Kittt
-    @nigerianprince96 - Cronee 
+    @nigerianprince96 - CroneCrafter 
 
 HT3 (20D Cooldown)
 
@@ -13896,15 +13816,15 @@ Winner: @MsrioDeJacker :trophy~5:
 @ShadowZeuss - ShadowZeuss - Promoted to LT2
 
 
-PyrettaBlaze_
+Gingerds
  — 
 05/08/2025, 00:57
-@PyrettaBlaze_ - Gingerds - has Failed their LT2 Test.
+@Gingerds - Gingerds - has Failed their LT2 Test.
 
 HT3 Fights:
 
     5-10 Legendarryy
-PyrettaBlaze_
+Gingerds
  — 
 05/08/2025, 03:55
 @asdawer - Venudo - Has Passed their HT3 Test.
@@ -13913,15 +13833,8 @@ HT3 Fights:
 
     10-5 Gingerds
 
-GgcAcid
- — 
-05/08/2025, 03:56
-Tengo miedo
-PyrettaBlaze_
- — 
-05/08/2025, 03:56
-I had the curse of 5-10 today lol
-Triser | @
+
+Triser
  — 
 05/08/2025, 23:51
 @EU | Asikuu  - Asikuu - has failed their LT2 test.
@@ -13997,7 +13910,7 @@ HT3 Fights
 LT2 Fights
 
     10-9 Ggc69
-    8-10 Freeke_Fang
+    8-10 Freekee_Fang
 
 
  
@@ -14115,7 +14028,7 @@ HT3 Fights
 johann
  — 
 16/08/2025, 01:52
-@nigerianprince96 - cronee - has Passed their LT2 Test. 
+@nigerianprince96 - CroneCrafter - has Passed their LT2 Test. 
 
 HT3 Fights:
 
@@ -14132,7 +14045,7 @@ LT2 Fights:
 johann
  — 
 16/08/2025, 02:29
-@nigerianprince96 - cronee - has Failed their HT2 Test. 
+@nigerianprince96 - CroneCrafter - has Failed their HT2 Test. 
 
 HT3 Fights:
 
@@ -14161,7 +14074,7 @@ HT3 Fights
     5-10 ImRedz
 
 
-Triser | @
+Triser
  — 
 17/08/2025, 23:54
 @arsakha - Arsakha - has Failed their HT2 Test.
@@ -14185,7 +14098,7 @@ HT3 Fights:
 
 
 
-Ivelić | @ for support
+Ivelić
  — 
 19/08/2025, 02:27
 @SA | 1Diiego (882) - 1diiego - has Failed their LT2 Test.
@@ -14198,11 +14111,11 @@ HT3 Fights
 
 LT2 Fights
 
-    0-10 cronee
+    0-10 CroneCrafter
 
 
  
-PyrettaBlaze_
+Gingerds
  — 
 20/08/2025, 01:12
 @ShadowZeuss - ShadowZeuss - has Failed their HT2 Test.
@@ -14217,17 +14130,17 @@ ShadowZeuss
  — 
 20/08/2025, 01:14
 @ShadowZeuss has been demoted to HT3 [Exceded warns limit]
-PyrettaBlaze_
+Gingerds
  — 
 20/08/2025, 02:25
-@Bastigang - ricardoxx_ Unretired at LT3.
+@Bastigang - Ricardoxx_ - Unretired at LT3.
 
 HT3 Fights
 
     5-10 Gingerds
 
 
-Ivelić | @ for support
+Ivelić
  — 
 23/08/2025, 05:49
 @tier1  - AlasRotas - has Failed their HT3 Re-Test.
@@ -14265,7 +14178,7 @@ LT2 Fights:
 
     5-10 paulinhq
 
-Ivelić | @ for support
+Ivelić
  — 
 30/08/2025, 22:36
 @MsrioDeJacker  - mzrio - has Failed their LT1 Test.
@@ -14287,10 +14200,10 @@ KoharuDeTodos
  — 
 30/08/2025, 22:45
 heroes never die bro
-Triser | @
+Triser
  — 
 31/08/2025, 01:40
-@PyrettaBlaze_  - Gingerds - has Passed their LT2 Test.
+@Gingerds  - Gingerds - has Passed their LT2 Test.
 
 HT3 Fights
 
@@ -14301,9 +14214,9 @@ HT3 Fights
 LT2 Fights
 
     10-6 ivaanZD
-    9-10 Freeke_Fang
+    9-10 Freekee_Fang
 
-Ivelić | @ for support
+Ivelić
  — 
 31/08/2025, 03:58
 @superkarlos1  - superkarlos1 - has Failed their HT3 ReTest.
@@ -14379,10 +14292,10 @@ HT3 Fights
 
     1-10 Alternate
 
-Ivelić | @ for support
+Ivelić
  — 
 02/09/2025, 03:23
-@Bastigang  - ricardoxx_ - Has Passed their HT3 Test
+@Bastigang  - Ricardoxx_ - Has Passed their HT3 Test
 
 HT3 Fights
 
@@ -14405,7 +14318,7 @@ LT2 Fights:
 
 
 
-Ivelić | @ for support
+Ivelić
  — 
 06/09/2025, 01:50
 @adrinicoooo - adrinicooo - has Passed their LT2 Test.
@@ -14419,10 +14332,10 @@ HT3 Fights
 LT2 Fights
 
     8-10 paulinhq
-    10-6 Freeke_Fang
+    10-6 Freekee_Fang
 
 
-PyrettaBlaze_
+Gingerds
  — 
 06/09/2025, 20:45
 @GgcAcid - Ggc69 - has Failed their LT2 Test.
@@ -14458,7 +14371,7 @@ LT2 Fights
 
 
 
-PyrettaBlaze_
+Gingerds
  — 
 07/09/2025, 23:49
 @Legendarryy   - Legendarryy - has Failed their LT2 Test.
@@ -14475,7 +14388,7 @@ LT2 Fights
     6-10 Gingerds
 
 
-Ivelić | @ for support
+Ivelić
  — 
 08/09/2025, 03:19
 @intrepidsword - IntrepidSword - Has Passed their HT3 Test
@@ -14488,7 +14401,7 @@ HT3 Fights
 
 Testing for LT2
  
-Ivelić | @ for support
+Ivelić
  — 
 08/09/2025, 03:58
 @intrepidsword - IntrepidSword - Has Failed their LT2 Test
@@ -14552,7 +14465,7 @@ Tournament Fights
     7-10 Puggy
 
 
-Ivelić | @ for support
+Ivelić
  — 
 10/09/2025, 19:31
 @Owkp_ - Owkp_ - Has Passed their HT3 Test
@@ -14560,7 +14473,7 @@ Ivelić | @ for support
 HT3 Fights
 
     10-8 _Puggy
-Ivelić | @ for support
+Ivelić
  — 
 12/09/2025, 01:49
 @MrJulan - Mrjulan - has Failed their LT2 Test.
@@ -14571,7 +14484,7 @@ HT3 Fights:
 
 
 
-Triser | @
+Triser
  — 
 12/09/2025, 16:16
 @Runn1n9  - Runn1n9 - has Failed their LT2 Test.
@@ -14780,13 +14693,6 @@ HT2 Fights
     1-10 Crazykelp
 
 
-
-
-@PyrettaBlaze_ - SrFiesta - Demoted to HT3 (Exceeded warns limit)
-PyrettaBlaze_
- — 
-23/09/2025, 05:26
-@ivan - ivaanZD - Demoted to HT3 (Exceeded warns limit)
 GgcAcid
  — 
 24/09/2025, 03:47
@@ -14813,7 +14719,7 @@ HT3 Fights:
 
 
 
-rsource @ for spec
+rsource
  — 
 25/09/2025, 05:19
 @Rozacks  - Rozacks - Has Passed their HT3 Test
@@ -14851,7 +14757,7 @@ LT2 Fights
 
 
 
-rsource @ for spec
+rsource
  — 
 28/09/2025, 18:49
 @Paulinho  - paulinhq -  Has Failed their HT2 Test.
@@ -14884,10 +14790,10 @@ LT2 Fights:
     10-5 Asikuu
     10-3 adrinicooo
 
-PyrettaBlaze_
+Gingerds
  — 
 02/10/2025, 20:44
-@PyrettaBlaze_ - SrFiesta - has PASSED their LT2 Test.
+@Gingerds - Gingerds - has PASSED their LT2 Test.
 
 HT3 Fights:
 
@@ -14908,7 +14814,7 @@ GgcAcid
 HT3 Fights:
 
     10-4 Doorble
-    10-1  Echols
+    10-1 Echols
 
 
 LT2 Fights:
@@ -14949,7 +14855,7 @@ HT2 Fights:
 
 
 
-Dababe31 | don't @ for spec
+Dababe31
  — 
 05/10/2025, 17:09
 @breadbachs  - Seebachs - has PASSED their HT2 Test.
@@ -14963,8 +14869,6 @@ HT2 Fights:
 
     9-10 CrazyKelp
 
-
-Force-tested from T2 re-eval
 
 
 EU | _Puggy
@@ -14982,7 +14886,7 @@ HT3 Fights:
 Testing for LT2
 
  
-PyrettaBlaze_
+Gingerds
  — 
 05/10/2025, 21:05
 @mikagoated - mikagoated - has PASSED their LT2 Test.
@@ -15001,10 +14905,10 @@ LT2 Fights:
 
 
 @kittydragon - ZoKewlAllIn  - Demoted to LT3 (leave the server) 
-PyrettaBlaze_
+Gingerds
  — 
 05/10/2025, 22:12
-@Bastigang - ricardoxx_ - has FAILED their LT2 Test.
+@Bastigang - Ricardoxx_ - has FAILED their LT2 Test.
 
 HT3 Fights:
 
@@ -15014,11 +14918,11 @@ HT3 Fights:
 
     LT2 Fights:
     10-7 Asikuu
-    3-10 SrFiesta
+    3-10 Gingerds
 
 
  
-PyrettaBlaze_
+Gingerds
  — 
 06/10/2025, 00:40
 @ivan  - ivaanZD - has FAILED their LT2 Test.
@@ -15043,7 +14947,7 @@ HT3 Fights:
 
     0-10 Adannker
 
-Ivelić | @ for support
+Ivelić
  — 
 08/10/2025, 02:40
 @Diovak - Epidemic77 - has Passed their HT3 Test.
@@ -15056,7 +14960,7 @@ HT3 Fights
 
 
  
-rsource @ for spec
+rsource
  — 
 08/10/2025, 21:39
 @superkarlos1 - superkarlos1 - Has Passed their HT3 Test.
@@ -15082,7 +14986,7 @@ LT2 Fights
 
 
  
-Ivelić | @ for support
+Ivelić
  — 
 08/10/2025, 22:43
 @superkarlos1 - Superkarlos1 - has Failed their LT2 Test.
@@ -15094,7 +14998,7 @@ HT3 Fights:
 
 
 
-rsource @ for spec
+rsource
  — 
 08/10/2025, 23:46
 @GgcAcid  - Ggc69 - Has Failed their LT2 Test.
@@ -15134,7 +15038,7 @@ HT3 Fights:
 
 
  
-Ivelić | @ for support
+Ivelić
  — 
 11/10/2025, 06:24
 @lmposible - ALTAVOCES - has Passed their HT3 Test.
@@ -15146,11 +15050,6 @@ HT3 Fights
     10-1 Hellsinky 
 
 
-
-Ivelić | @ for support
- — 
-11/10/2025, 06:24
-Bridging to LT2
 KoharuDeTodos
  — 
 11/10/2025, 07:35
@@ -15177,7 +15076,7 @@ HT3 Fights
 
 
 
-rsource @ for spec
+rsource
  — 
 13/10/2025, 00:59
 @NA | Spikly  - Spikly_ - Has Failed their LT2 Test.
@@ -15269,7 +15168,7 @@ HT3 Fights
 
 
 
-AS | FoodChugger1957 @ for help
+AS | FoodChugger1957
  — 
 26/10/2025, 11:58
 @AS | We2wolf  - We2wolf - has Passed their HT3 Test.
@@ -15311,7 +15210,7 @@ LT2 Fights:
 
     10-9 Legendarryy
 
-rsource @ for spec
+rsource
  — 
 31/10/2025, 02:37
 @Draq - Draqonate - Has Passed Their HT3 Test
@@ -15350,7 +15249,7 @@ MsrioDeJacker
 
 LT2 Fights
 
-    10-2 SrFiesta
+    10-2 Gingerds
     10-7 mzrio
 
 
@@ -15360,14 +15259,14 @@ HT2 Fights
 
 
 
-rsource @ for spec
+rsource
  — 
 05/11/2025, 01:55
-@FriendlyDog - Cronee - Has Unretired at LT2
+@FriendlyDog - CroneCrafter - Has Unretired at LT2
 
 HT3 Fights
 
-    10-2 Ricardoxx
+    10-2 Ricardoxx_
     10-2 Sylveaun
 
 
@@ -15378,7 +15277,7 @@ LT2 Fights
 
 
 
-rsource @ for spec
+rsource
  — 
 05/11/2025, 02:47
 @Kit  - SinonIZspooky - Has Passed their HT3 Test
@@ -15404,7 +15303,7 @@ HT3 Fights:
 Add to HT3/LT2
  — 
 06/11/2025, 01:02
-@Add to HT3/LT2  - PyrettaBlaze_ -  has Passed their HT3 Test 
+@Add to HT3/LT2  - Gingerds -  has Passed their HT3 Test 
 
 HT3 Fights:
 
@@ -15413,11 +15312,11 @@ HT3 Fights:
 Add to HT3/LT2
  — 
 06/11/2025, 02:08
-@Add to HT3/LT2  - PyrettaBlaze_ -  has Failed their LT2 Test 
+@Add to HT3/LT2  - Gingerds -  has Failed their LT2 Test 
 
 HT3 Fights:
 
-    10-2 Ricardoxx_*
+    10-2 Ricardoxx_
     10-6 Rozacks
 
 
@@ -15476,7 +15375,7 @@ Add to HT3/LT2
 HT3 Fights:
 
     10-4 Rozacks
-    8-10 PyrettaBlaze_
+    8-10 Gingerds
 
 
 
@@ -15488,7 +15387,7 @@ Add to HT3/LT2
 HT3 Fights:
 
     10-5 STORMPLAY
-    7-10 PyrettaBlaze_
+    7-10 Gingerds
 
 
 
@@ -15524,7 +15423,7 @@ LT2 Fights:
     10-4 mikagoated
     3-10 dclfin
 
-rsource @ for spec
+rsource
  — 
 12/11/2025, 23:19
 @superkarlos1  - superkarlos1 - Has Failed their LT2 Test.
@@ -15560,7 +15459,7 @@ LT1 Fights:
 
     2-10 Triser5000
 
-rsource @ for spec
+rsource
  — 
 15/11/2025, 04:57
 @f0xt1 - f0xt1 - Has Passed their HT3 test
@@ -15629,7 +15528,6 @@ HT3 Fights
     4-10 Adannker (4-7 FF)
 
 
-@High Results
 Gingerds
  — 
 17/11/2025, 00:34
@@ -15639,10 +15537,9 @@ Passed Evaluation
 
 HT3 Fights
 
-    8-10 Gingerlu (ffed at 8-6)
+    8-10 Gingerds (ffed at 8-6)
 
 
-@High Results
 Siegreiches
  — 
 17/11/2025, 21:39
@@ -15656,10 +15553,9 @@ HT3 Fights
 
 LT2 Fights
 
-    2-10 Cronee
+    2-10 CroneCrafter
 
 
-@High Results
 01100101 01110011 00100000 01101
  — 
 19/11/2025, 02:16
@@ -15673,10 +15569,9 @@ HT3 Fights
 
 LT2 Fights
 
-    4-10 Cronee
+    4-10 CroneCrafter
 
 
-@High Results
 kiel
  — 
 20/11/2025, 13:42
@@ -15701,7 +15596,7 @@ HT3 Fights
 
 LT2 Fights
 
-    10-5 Cronee
+    10-5 CroneCrafter
     6-10 mzrio
 
 01100101 01110011 00100000 01101
@@ -15715,7 +15610,6 @@ HT3 Fights
     9-10 Sylveaun
 
 
-@High Results
 Puggy
  — 
 22/11/2025, 16:16
@@ -15726,12 +15620,7 @@ HT3 Fights
     10-6 JunXPz 
 
 
-@High Results 
-Dababe31
- — 
-23/11/2025, 02:38
-@misu - bossmotte - has been demoted to LT3 (Left the server) 
-Crispy | @ for help
+Crispy
  — 
 23/11/2025, 13:38
 @dclfin - dclfin - has Failed their HT2 Test
@@ -15775,24 +15664,22 @@ HT3 Fights:
 
     2-10 ALTAVOCES
 
-
-@High Results 
+ 
 01100101 01110011 00100000 01101
  — 
 25/11/2025, 22:35
-@SA | 1Diiego - (882) - 1Diiego - Has Failed their LT2 Test
+@SA | 1Diiego - 1Diiego - Has Failed their LT2 Test
 
 HT3 Fights:
 
     6-10 f0xt1
 
 
-@High Results
 01100101 01110011 00100000 01101
  — 
 26/11/2025, 05:01
 @Prayl - praylisntboosted - Demoted to LT3 (FFed HT3 retest)
-Crispy | @ for help
+Crispy
  — 
 26/11/2025, 19:45
 @mikagoated -  mikagoated - has Failed their HT2 Test
@@ -15804,12 +15691,11 @@ LT2 Fights:
 
 
 Needed 10-4 against his second LT2 to proceed to the HT2 Fights.
-
-@High Results 
+ 
 Gingerds
  — 
 26/11/2025, 22:17
-@Gingerds  - Gingerlu - Has Passed their LT2 Test
+@Gingerds  - Gingerds - Has Passed their LT2 Test
 
 HT3 Fights:
 
@@ -15822,8 +15708,7 @@ LT2 Fights:
     9-10 Legendarryy (ff at 9-9)
     10-4 dclfin 
 
-
-@High Results 
+ 
 01100101 01110011 00100000 01101
  — 
 26/11/2025, 22:18
@@ -15845,13 +15730,13 @@ HT3 Fights
 01100101 01110011 00100000 01101
  — 
 27/11/2025, 05:27
-@FriendlyDog  - Cronee - Has Failed their HT2 Test.
+@FriendlyDog  - CroneCrafter - Has Failed their HT2 Test.
 
 LT2 Fights:
 
-    1-10 Gingerlu
+    1-10 Gingerds
 
-Crispy | @ for help
+Crispy
  — 
 27/11/2025, 16:36
 @Elio - Eliio - Has Failed their LT2 Test 
@@ -15894,7 +15779,7 @@ HT3 Fights
     6-10 RoiMouton
 
 
-Crispy | @ for help
+Crispy
  — 
 29/11/2025, 23:04
 @EU | Sirceyyy - Sirceyyy - Has Failed Their HT3 Re-Test 
@@ -15955,10 +15840,9 @@ HT3 Fights
 
 LT2 Fights
 
-    5-10 Gingerlu
+    5-10 Gingerds
 
-
-@High Results 
+ 
 Puggy
  — 
 10/12/2025, 17:44
@@ -16022,10 +15906,9 @@ miau
 
 LT2 Fights:
 
-    8-10 Freeke_Fang
+    8-10 Freekee_Fang
 
 
-@High Results
 NA/SA/CA/EU/AS/AU/OC/AF
  — 
 19/12/2025, 23:14
@@ -16040,9 +15923,9 @@ HT3 Fights:
 LT2 Fights:
 
     10-4 FreekeFang
-    10-8 Gingerlu
+    10-8 Gingerds
 
-Crispy | @ for help
+Crispy
  — 
 20/12/2025, 00:27
 @Owkp_ - Owkp_ - Has Failed their LT2 Test.
@@ -16052,7 +15935,6 @@ HT3 Fights:
     2-10 Adannker
 
 
-@High Results
 SA/NA | Zkwre NO CAT
  — 
 20/12/2025, 21:06
@@ -16091,7 +15973,6 @@ HT3 Fights
     10-9 SimonIzSpooky 
 
 
-@High Results
 SA | ENBAJA
  — 
 22/12/2025, 07:10
@@ -16120,7 +16001,7 @@ HT3 Fights
     10-9 Runn1n9 (8-9 ff)
 
 
-Crispy | @ for help
+Crispy
  — 
 22/12/2025, 19:30
 @EU | Herow_  - Herow_ - Has Failed their LT2 Test.
@@ -16166,10 +16047,9 @@ HT3 Fights:
 
 LT2 Fights:
 
-    6-10 Gingerlu
+    6-10 Gingerds
 
 
-@High Results
 dclfin
  — 
 23/12/2025, 20:02
@@ -16200,3 +16080,1139 @@ SA | ENBAJA
 HT3 Fights
 
     10-9 dorbleeek
+
+
+SA | foxt!
+Role icon, Regulator
+ — 
+24/12/2025, 03:50
+@ale   - alecious - Has Unretired at HT3
+
+HT3 Fights
+
+    10-9 dorbleeek
+
+
+AS | MostCuteXD | metal or skipRole icon, Regulator
+ — 
+25/12/2025, 18:00
+@AS/ME | TigerTries  - TigerTries - has FAILED their LT2 Test
+
+HT3 Fights:
+
+    10-1 Hatzling
+    10-5 JunXPs
+
+
+LT2 Fights:
+
+    2-10 Mzrio
+
+ 
+SA/NA | Doorbleboat
+Role icon, Regulator
+ — 
+26/12/2025, 03:21
+@SA | foxt!   - ENBAJA - has FAILED their LT2 Test
+
+HT3 Fights:
+
+    10-5 MrJulan
+    10-6 ALTAVOCES
+
+
+LT2 Fights:
+
+    4-10 Gingerlu
+
+ 
+Crispy |Role icon, Regulator
+ — 
+26/12/2025, 03:40
+@SA | 1Diiego - 1Diiego - Has Passed their HT3 ReTest.
+
+HT3 Fights
+
+    10-6 alecious
+
+ 
+bridging to lt2
+ 
+Crispy |Role icon, Regulator
+ — 
+27/12/2025, 00:51
+@ShadowZeuss - Shadowzeus  - Has Passed their HT3 Test
+
+HT3 Fights
+
+    10-0 FestiveMJ
+
+ 
+bridging to lt2
+SA | foxt!
+Role icon, Regulator
+ — 
+27/12/2025, 05:05
+@SA | 1Diiego - 1Diiego - Has Failed their LT2 Test.
+
+HT3 Fights
+
+    10-6 alecious
+    5-10 smaurito
+
+Ggc69
+Role icon, Administrator
+ — 
+28/12/2025, 21:09
+@SA/NA | ryupz - ryups -Has Passed their LT2 Test
+
+HT3 Fights
+
+    10-7 Doorbleboat
+    10-4 ENBAJA
+    10-1 Hellsinky
+    10-5 ALTAVOCES
+
+NA/SA | mzrio
+Role icon, Regulator
+ — 
+28/12/2025, 21:53
+@Siegreiches   - Siegreiches - has FAILED their LT2 Test
+
+HT3 Fights:
+
+    10-1 Puggy
+    10-5 Herow_
+
+
+LT2 Fights:
+
+    0-10 mzrio
+
+Ggc69
+Role icon, Administrator
+ — 
+29/12/2025, 21:20
+@Ggc69 - Ggc69 - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-3 FestiveMJ
+    10-5 superkarlos1
+
+
+LT2 Fights:
+
+    4-10 IvaanDZ
+
+
+NA/SA | mzrio
+Role icon, Regulator
+ — 
+29/12/2025, 22:40
+@Asikuu   - Asikuu - has FAILED their LT2 Test
+
+HT3 Fights:
+
+    10-4 Owkp
+    10-4 Herow_
+
+
+LT2 Fights:
+
+    7-10 mzrio
+    5-10 Freeke_Fang
+
+
+Crispy |Role icon, Regulator
+ — 
+30/12/2025, 00:01
+@superkarlos1  - superkarlos1 - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-8 smaurito 
+
+ 
+NA/SA | mzrio
+Role icon, Regulator
+ — 
+30/12/2025, 04:35
+@EMP  - EMPu1se - Has Passed their HT3 & Failed their LT2 Test
+
+HT3 Fights
+
+    10-6 lincon123e
+    6-10 Ggc69
+
+ 
+NA/SA | mzrio
+Role icon, Regulator
+ — 
+30/12/2025, 07:35
+@Freekee_Fang  - Freekee_Fang - Has Failed their HT2 Test.
+
+LT2 Fights:
+
+    10-8 _Aroy
+
+
+miau
+ — 
+30/12/2025, 23:40
+Global Tournament Results :UHC:
+Promoted to HT3:
+
+    @Rozacks - Rozacks
+    @potato - Potatojoueur
+
+
+Promoted to LT3:
+
+    @Leonel - LenelFA
+    @96xtpsss_  - TinkyKchero
+
+
+ForceTest to HT3: (Eval Exempt)
+
+    @Godly - undergroundpork 
+    @SA/NA | dari - SillyCriti
+    @NA/SA | SkeeterBlas - LVEMC
+    @Je - laufcy
+    @RynexYT - RynexYT
+
+
+Cooldown Reset:
+
+    @NA/SA | mzrio - mzrio
+    @ivan - ivaanZD
+    @ale - alescious
+
+
+https://challonge.com/es/wkt2w0rn
+Thanks to everyone for playing! And congratulations to @NA/SA | mzrio for winning the Global Tournament 🏆
+
+miau
+Role icon, YouTube
+ — 
+31/12/2025, 02:11
+@Gingerds - Gingerds - Has Failed their HT2 Test.
+
+LT2 Fights:
+
+    10-5 Legendarryy
+    7-10 mzrio
+
+SA/NA | Doorbleboat
+Role icon, Regulator
+ — 
+01/01/2026, 09:46
+@ivan - ivaanZD - Has Failed their HT2 Test.
+
+LT2 Fights:
+
+    4 - 10 Gingerds
+
+
+dclfinRole icon, Administrator
+ — 
+01/01/2026, 10:32
+@potato - potatojoueur - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    0-10 Herow_ 
+
+
+XTki4lerRole icon, LT3
+ — 
+01/01/2026, 14:10
+@Owkp_  - Owkp_ - has Failed their HT3 ReTest.
+
+HT3 Fights
+
+    1-10 Herow_
+
+XTki4lerRole icon, LT3
+ — 
+01/01/2026, 14:12
+SA/NA | Doorbleboat
+Role icon, Regulator
+ — 
+02/01/2026, 01:05
+@ShadowZeuss  - ShadowZeuss - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-0 FestiveMJ
+    10-6 Ricardoxx_
+
+
+LT2 Fights:
+
+    5-10 Gingerds
+
+
+Crispy |Role icon, Regulator
+ — 
+02/01/2026, 21:27
+@MJXJ  - FestiveMJ - Has Failed their HT3 Re-Test
+
+HT3 Fights
+
+    0-10 Ricardoxx_
+
+
+AS | MostCuteXD | metal or skipRole icon, Regulator
+ — 
+03/01/2026, 10:39
+@telly - TellyBear_ - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-5 TigerTries
+    9-10 JunXPs
+
+
+@we2wolf - We2wolf - Demoted to LT3. (Left the server) 
+miau
+Role icon, YouTube
+ — 
+03/01/2026, 14:30
+@Turtiled  | Dm for test - Turtiled - Demoted to LT3. (Dodging)
+Crispy |Role icon, Regulator
+ — 
+03/01/2026, 17:41
+@yliaas - _PuggyWuggy - Has Passed their HT3 Test.
+
+HT3 Fights:
+
+    10-9 Herow
+
+ 
+AS | MostCuteXD | metal or skipRole icon, Regulator
+ — 
+03/01/2026, 18:54
+@Runn1n9 -Runn1n9 Has Passed their HT3 Re-Test.
+
+HT3 Fights:
+
+    10-1 potatojoueur
+
+
+miau
+Role icon, YouTube
+ — 
+04/01/2026, 01:36
+@Rozacks - Rozacks - has Passed their LT2 Test.
+
+HT3 Fights:
+
+    10-0 EMPu1se
+    10-4 Axzll
+
+
+LT2 Fights:
+
+    10-6 ivaanZD
+    10-4 mzrio
+
+ 
+Testing for HT2
+SA | foxt!
+Role icon, Regulator
+ — 
+04/01/2026, 03:49
+@mrjulan - MrJulan - Demoted to LT3. (ff their retest & Left the server)
+miau
+Role icon, YouTube
+ — 
+04/01/2026, 14:24
+@qwertyuiopasdfghjklzxcvbnm - QuiltedSun - has Unretired at HT3.
+
+HT3 Fights:
+
+    10-9 DryAU
+
+ 
+Flase  @for help
+Role icon, DLR
+ — 
+04/01/2026, 18:41
+@potato  - potatojoueur - Has Failed their HT3 Re-Test
+
+HT3 Fights
+
+    0-10 Asikuu
+
+
+Flase  @for help
+Role icon, DLR
+ — 
+04/01/2026, 19:09
+@nexxi - STORMPLAY - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-8 ShadowZeuss (8-8 FF)
+
+ 
+dclfinRole icon, Administrator
+ — 
+04/01/2026, 22:43
+@AS | knqckback - knqckback - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-5 Tellybear_ 
+    10-2 M6en_
+
+
+LT2 Fights 
+
+    4-10 dclfin
+
+
+Crispy |Role icon, Regulator
+ — 
+06/01/2026, 02:21
+@SA/NA | yahirpo - yqhir - Has Passed their HT3 Test
+
+HT3 Fights
+
+    8-10 1Diiego (forfeited at 8-8)
+
+dclfinRole icon, Administrator
+ — 
+08/01/2026, 01:14
+@brknhrts - HellSinky - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-4 f0xt1 
+    10-1 1Diiego
+
+
+LT2 Fights 
+
+    9-10 CroneCrafter (When he was LT2)
+    6-10 dclfin 
+
+
+Emoticono calavera
+ — 
+08/01/2026, 20:54
+@arsakha @ in replies - Arsakha - Has Failed their LT1 Test.
+
+LT2 Fights:
+
+    10-5 _Aroy 
+    10-4 Legendarryy
+    10-7 dclfin
+
+
+HT2 Fights: 
+
+    10-5 SeeVAShs
+
+SA/NA | dariRole icon, Moderator
+ — 
+09/01/2026, 00:03
+@ale - alescious - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-6 yqhir 
+    8-10 smaurito
+
+ 
+SA | foxt!
+Role icon, Regulator
+ — 
+09/01/2026, 22:07
+@NA/SA | mzrio  - mzrio - Has Failed their HT2 Test.
+
+LT2 Fights:
+
+    10-6 legendaryy
+    10-6 dcfin
+    9-10 _ARoy
+
+ 
+miau
+Role icon, YouTube
+ — 
+09/01/2026, 23:14
+@dclfin - dclfin - Has Failed their HT2 Test.
+
+LT2 Fights:
+
+    4-10 Gingerds
+
+
+HT2 Fights:
+
+    7-10 Arsakha
+
+ 
+Used Arsakha’s Test score to Bridge Test to HT2.
+dclfinRole icon, Administrator
+ — 
+10/01/2026, 17:19
+@Runn1n9 - Runn1n9 - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    6-10 yLiaas
+
+
+miau
+Role icon, YouTube
+ — 
+10/01/2026, 18:59
+@Anderryuu - Bexett - Has Unretired at LT2.
+
+HT3 Fights:
+
+    10-0 Siegreiches
+    10-7 Asikuu
+
+
+LT2 Fights:
+
+    10-6 dclfin
+    10-6 Paulinhq
+
+
+HT2 Fights:
+
+    6-10 SeeVAShs
+
+
+HerowRole icon, Moderator
+ — 
+10/01/2026, 22:50
+@Vel00x  - Vel00x - has Passed their HT3 Test
+
+Passed Evaluation
+
+HT3 Fight
+
+    10-6 Herow_
+
+
+FoodChugger1957
+Role icon, LT3
+ — 
+11/01/2026, 13:10
+@themeowpika   - TheKidpika - has Passed their HT3 Test
+
+Passed Evaluation
+
+HT3 Fight
+
+    8-10 Hatzling (ff 8-7)
+
+ 
+dclfinRole icon, Administrator
+ — 
+11/01/2026, 18:30
+@Vel00x  - Vel00x - has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-6 Herow_
+    2-10 _Puggy
+
+ 
+miau
+Role icon, YouTube
+ — 
+12/01/2026, 00:01
+@Rozacks - Rozacks - has Failed their HT2 Test.
+
+HT3 Fights:
+
+    10-0 EMPu1se
+    10-4 Axzll
+
+
+LT2 Fights:
+
+    10-6 ivaanZD
+    10-4 mzrio
+    2-10 Legendarryy
+
+FoodChugger1957
+Role icon, LT3
+ — 
+13/01/2026, 14:13
+@lemon    - Swemon - has Passed their HT3 Test
+
+Passed Evaluation
+
+HT3 Fight
+
+    8-10 TheKidPika 
+
+
+jfeg
+Role icon, Administrator
+ — 
+14/01/2026, 16:14
+@jfeg |  - jfeg - Has Unretired at LT2.
+
+
+HT3 Fights
+
+    10-2 Ggc69
+    10-1 Intellc
+
+
+LT2 Fights
+
+    9-10 Gingerds
+    10-7 Rozacks
+
+ 
+miau
+Role icon, YouTube
+ — 
+15/01/2026, 02:46
+@Paludismo - Paludismo - Has Passed their HT3 Test.
+
+Passed Evaluation
+
+HT3 Fights:
+
+    9-10 HQ91123
+
+
+FoodChugger1957
+Role icon, LT3
+ — 
+15/01/2026, 16:10
+@Stouted - stouted - Has Passed their HT3 Test.
+
+Passed Evaluation
+
+HT3 Fights:
+
+    8-10 TellyBear_
+
+AS | MostCuteXD | metal or skipRole icon, Regulator
+ — 
+16/01/2026, 11:51
+@dry  - DryAU - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    6-10 TigerTries (ff at 6-5)
+
+ 
+dclfinRole icon, Administrator
+ — 
+17/01/2026, 18:02
+@noob sheep | add to lt4 - RoiMouton - Has Failed their LT2 Test.
+
+HT3 Fights 
+
+    10-6 _Puggy
+    10-3 Owkp_
+
+
+LT2 Fights
+
+    4-10 dclfin
+
+ 
+FoodChugger1957
+Role icon, LT3
+ — 
+17/01/2026, 19:39
+@AS/ME | TigerTries  - TigerTries - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    6-10 TellyBear_
+
+ 
+FoodChugger1957
+Role icon, LT3
+ — 
+18/01/2026, 11:34
+@Repetita  - Freakyrepetita - has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-7 Detrune
+    2-10 TellyBear_
+
+
+NA/SA | mzrio
+Role icon, Regulator
+ — 
+20/01/2026, 02:13
+@Salchichardoxx  - Ricardoxx_ - has Passed their LT2 Test.
+
+HT3 Fights:
+
+    10-0 EMPu1se
+    10-3 alescious
+
+
+LT2 Fights:
+
+    10-5 Rozacks
+    10-2 Gingerds
+
+NA/SA | mzrio
+Role icon, Regulator
+ — 
+20/01/2026, 05:36
+@Salchichardoxx - Ricardoxx_ - has Failed their HT2 Test.
+
+LT2 Fights:
+
+    10-5 Rozacks
+    10-2 Gingerds
+    8-10 Jfeg
+
+ 
+Fought 3 LT2’s due to the lack of available HT2’s at the time of the test.
+miau
+Role icon, YouTube
+ — 
+21/01/2026, 07:45
+@lincoN - linconpark - has Failed their LT2 Test.
+
+HT3 Fights:
+
+    7-10 STORMPLAY
+
+
+NA/SA | mzrio
+Role icon, Regulator
+ — 
+22/01/2026, 07:01
+@SA/NA | W4ton  W4ton - has Failed their LT2 Test.
+
+HT3 Fights:
+
+     6-10 IvaanZD
+
+ 
+dclfinRole icon, Administrator
+ — 
+22/01/2026, 21:33
+@tim68 - 68timm - Has Passed their HT3 Test.
+
+Passed Evaluation
+
+HT3 Fights:
+
+    10-7 BunnyOutfitAsikuu (8-7 FF)
+
+
+AS | MostCuteXD | metal or skipRole icon, Regulator
+ — 
+23/01/2026, 15:22
+@more23 - more23 - Has Passed their HT3 Test.
+
+Passed Evaluation
+
+HT3 Fights:
+
+    9-10 JunXPs
+
+ 
+dclfinRole icon, Administrator
+ — 
+23/01/2026, 22:08
+@Triser - Triser5000 - has Failed their HT1 Test.
+
+LT2 Fights:
+
+    10-8 Ricardoxx_
+
+AS | MostCuteXD | metal or skipRole icon, Regulator
+ — 
+24/01/2026, 16:21
+@Puggy - _Puggy - has PASSED their LT2 Test
+HT3 Fights
+
+    10-2 Vel00x
+    10-4 Eliio
+
+
+LT2 Fights
+
+    9-10 Gingerds
+    7-10 dclfin (7-8 ff)
+
+
+Crispy |Role icon, Regulator
+ — 
+25/01/2026, 21:19
+@Syndius - DarkKnightAragon - has Passed their HT3 Test.
+
+HT3 FIGHT
+
+    9-10 superkarlos1
+
+ 
+Ggc69
+Role icon, Administrator
+ — 
+26/01/2026, 19:17
+@Adán - Adannker - has PASSED their LT2 Test
+
+HT3 Fights
+
+    10-2 Owkp_
+    10-5 dyingfire1
+
+
+LT2 Fights
+
+    9-10 dclfin
+    10-5 _Puggy
+
+SA/NA | ryupzRole icon, Moderator
+ — 
+27/01/2026, 04:32
+@SA | foxt!  - Foxt1 - has Failed their LT2 Test
+
+HT3 Fights
+
+    1-10 Ggc69 (1-5 ff)
+
+ 
+SA/NA | ryupzRole icon, Moderator
+ — 
+27/01/2026, 05:13
+@ZheetY   - Zheethy - has Failed their Ht3 Retest
+
+HT3 Fights
+
+    1-10 Alecius (1-3 ff)
+
+
+dclfinRole icon, Administrator
+ — 
+30/01/2026, 21:58
+@Paulinhq - Paulinhq - has Passed their LT2 Test.
+
+HT3 Fights
+
+    10-5 RoiMouton
+    10-1 Vel00x
+
+
+LT2 Fights
+
+    10-2 Adannker
+    10-3 _Puggy
+
+SA | foxt!
+Role icon, Regulator
+ — 
+31/01/2026, 22:17
+@SA | foxt! - zFoxt1 - has Passed their HT3 Re-Test.
+
+HT3 Fights
+
+    10-4 banaza 
+
+
+dclfinRole icon, Administrator
+ — 
+01/02/2026, 21:57
+@tim68 - 68timm - Has Failed their LT2 Test.
+
+HT3 Fights:
+
+    10-7 BunnyOutfitAsikuu (8-7 FF)
+    4-10 yLiaas (4-7 FF)
+
+
+SA | foxt!
+Role icon, Regulator
+ — 
+02/02/2026, 00:20
+@Ggc69  - Ggc69 - has Passed their LT2 Test.
+
+HT3 Fights
+
+    10-2 zFoxt1
+    10-7 kitty
+
+
+LT2 Fights
+
+    10-4 Adannker
+    7-10 Rozacks
+
+
+Image
+HerowRole icon, Moderator
+ — 
+03/02/2026, 18:21
+@Prayl  - Dryckes - Has Passed their HT3 Test.
+
+Passed Evaluation
+
+HT3 Fights:
+
+    10-8 Eliio
+
+ 
+SA/NA | dariRole icon, Moderator
+ — 
+06/02/2026, 17:40
+@Paulinhq - Paulinhq - Has Failed their HT2 Test.
+
+HT2 Fights
+
+    10-5 Arsakha
+    0-10 Seebachs
+
+brknhrts
+Role icon, HT3
+ — 
+06/02/2026, 22:26
+@SeFirox - SeFirox - Has Passed their HT3 Test.
+
+Passed Evaluation
+
+HT3 Fights:
+
+    9-10 alescious
+
+
+HerowRole icon, Moderator
+ — 
+07/02/2026, 15:20
+@Asikuu - BunnyOutfitAsiku - has Failed their LT2 Test.
+
+HT3 Fights:
+
+     10-8 dyingfire1
+
+
+EL_VENUDO_49Role icon, Moderator
+ — 
+07/02/2026, 19:17
+@Herow   Herow - has Failed their LT2 Test.
+
+HT3 Fights:
+
+     8-10 Eliio
+
+ 
+Ggc69
+Role icon, Administrator
+ — 
+08/02/2026, 05:18
+@nexxi - STORMPLAY- Has passed their LT2 Test.
+
+HT3 FIghts:
+
+    10-4 superkarlos1
+    10-2 DarkKnightAragon
+
+
+LT2 Fights:
+
+    10-7 Ricardoxx_
+    10-8 Ggc69
+
+ 
+Ggc69
+Role icon, Administrator
+ — 
+08/02/2026, 06:36
+@NA/SA | mzrio - Mzrio- Has failed their HT2 Test.
+
+LT2 Fights:
+
+    10-7 Ggc69
+    7-10 STORMPLAY
+
+HerowRole icon, Moderator
+ — 
+08/02/2026, 17:03
+@EU | yqew  - yQew - has PASSED their HT3 Test.
+
+Passed Evaluation
+
+HT3 Fights:
+
+    10-7 68timm (8-7ff)
+
+Testing for LT2 
+HerowRole icon, Moderator
+ — 
+08/02/2026, 17:35
+@EU | yqew - yQew - Has Failed their LT2 Test.
+
+HT3 Fights
+
+    10-7 68timm (8-7ff)
+    3-10 Herow_ (3-6ff)
+
+ 
+Kylazzzzzzzz
+Role icon, Moderator
+ — 
+09/02/2026, 02:12
+@Koharu - Koharu89 - Has Unretired at HT3
+
+HT3 Fights
+
+    10-1 1Diiego
+    10-6 Sefirox
+
+
+LT2 Fights
+
+    10-0 Rozacks
+    6-10 mzrio
+
+
+Kylazzzzzzzz
+Role icon, Moderator
+ — 
+09/02/2026, 03:09
+@NA | Axzll - Axzll -  Has passed their LT2 Test.
+
+HT3 Fights
+
+    10-1 DarkKnightAragon
+    10-1 Paludismo
+
+
+LT2 Fights
+
+    10-5 Rozacks
+    10-4 STORMPLAY
+
+SA | Zkwre
+Role icon, Moderator
+ — 
+10/02/2026, 22:13
+@🥔  - PotatoDancer69 - Has Passed their HT3 Test.
+
+
+HT3 Fights:
+
+    10-9 superkarlos1 
+
+SA/NA | DoorbleboatRole icon, Regulator
+ — 
+11/02/2026, 18:30
+@AS | knqckback - knqckback -  Has Failed their LT2 Test.
+
+HT3 Fights
+
+    10-3 thekidpika
+    10-3 JunXPS
+
+
+LT2 Fights
+
+    6-10 dclfin
+
+SA | zFoxt!
+Role icon, Regulator
+ — 
+13/02/2026, 02:53
+@SA/NA | yahirpo - ToyYahir -  Has Failed their LT2 Test.
+
+HT3 Fights
+
+    10-1 Doorbleboat
+    6-10 1Diiego (ff at 6-8)
+
+SA | dariRole icon, Moderator
+ — 
+13/02/2026, 04:18
+@SA/NA | W4ton - W4ton - Has Failed their LT2 Test.
+
+HT3 Fights 
+
+    10-3 Alecious 
+    10-7 Koharu89
+
+
+LT2 Fights 
+
+    8-10 Ggc69 
+    4-10 Ricardoxx_
+
+silly
+Role icon, Moderator
+ — 
+13/02/2026, 21:50
+@Puggy   IncrediblePuggy -  Has Failed their LT2 Test.
+
+HT3 Fights
+
+    2-10 BunnyOutfitAsiku (ff at 2-7)
+
+
+silly
+Role icon, Moderator
+ — 
+14/02/2026, 00:42
+@NA | Axzll - Axzll -  Has PASSED their HT2 Test.
+
+HT3 Fights
+
+    10-1 DarkKnightAragon
+    10-1 Paludismo
+
+
+LT2 Fights
+
+    10-5 Rozacks
+    10-4 STORMPLAY
+
+
+HT2 Fights
+
+     10-7 ITriser5000
+     10-6 sEEBACHS
+
+
+Crispy
+Role icon, Regulator
+ — 
+14/02/2026, 11:41
+@.hidden  - M6en_ - has Passed their HT3 Re-Test.
+
+HT3 Fights
+
+    10-4 Hatzling 
+
+
+Crispy
+Role icon, Regulator
+ — 
+15/02/2026, 00:40
+@Jxgen - jxgen - has Passed Their HT3 test
+
+HT3 Fights
+
+    8-10 Dryckes (8-7 ff)
+
+
+SA/NA vaultedmukdan
+:comet:
+ — 
+17/02/2026, 20:11
+@Mindseat  - mindseat- has Passed Their HT3 test
+
+HT3 Fights
+
+    8-10 kittytimm68 (8-8 ff)
